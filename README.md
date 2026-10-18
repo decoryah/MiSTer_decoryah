@@ -20,7 +20,7 @@ What is in the database right now. Each run refreshes this list whenever the dat
 list is in [`cores.md`](https://github.com/decoryah/MiSTer_decoryah/blob/db/cores.md) on the `db` branch.
 
 <!-- cores:start -->
-Updated 2026-10-18. 153 files from 11 repositories.
+Updated 2026-10-18. 206 files from 11 repositories.
 
 | Repository | MRA folder | Builds | Latest build | MRAs |
 |---|---|---|---|---|
