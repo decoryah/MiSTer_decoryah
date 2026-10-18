@@ -1,0 +1,65 @@
+name: Update database
+
+on:
+  schedule:
+    - cron: "30 4 * * *"          # daily, 04:30 UTC
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Publish even if nothing changed"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - build_db.py
+      - config.json
+      - .github/workflows/update.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-database
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # The published database lives on the "db" branch: check it out (or start it) in ./out so the
+      # script can compare with the previous build and reuse its hash cache.
+      - name: Check out the previous database
+        run: |
+          remote="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git ls-remote --exit-code --heads "$remote" db >/dev/null 2>&1; then
+            git clone --quiet --branch db --single-branch "$remote" out
+          else
+            mkdir out
+            git -C out init --quiet --initial-branch=db
+            git -C out remote add origin "$remote"
+          fi
+
+      - name: Build the database
+        run: python build_db.py --out out ${{ inputs.force && '--force' || '' }}
+
+      - name: Publish
+        run: |
+          cd out
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing to publish."
+          else
+            git commit --quiet -m "Database $(date -u +%Y-%m-%d)"
+            git push origin db
+          fi

@@ -1,0 +1,12 @@
+{
+  "owner": "decoryah",
+  "collection": "_Decoryah",
+  "include_forks": false,
+  "exclude": [],
+  "include": [],
+  "strip_prefix": ["Arcade-"],
+  "folder_names": {},
+  "mra_roots": {},
+  "categories": {},
+  "keep_builds": 1
+}
