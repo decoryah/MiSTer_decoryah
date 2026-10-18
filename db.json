@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1792321203,
+ "timestamp": 1792331965,
  "files": {
   "_Arcade/_Decoryah/_Gaiapolis/Gaiapolis (Japan ver JAF).mra": {
    "hash": "74993b618230b60959e2a35e9447a5e1",
@@ -768,6 +768,324 @@
    "hash": "8616685e673873dceee5ab8492bc736c",
    "size": 4065216,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/2abb1ef54869290f85c996d93765f89e7c238338/releases/violentstorm_20261014.rbf"
+  },
+  "games/mame/3kokushi.zip": {
+   "hash": "6bfa22165bcc85fef6cc98a7e5650621",
+   "size": 1145521,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/3kokushi.zip",
+   "overwrite": false
+  },
+  "games/mame/balcube.zip": {
+   "hash": "95ca0373ed3a98c654fb93f4e67b18e6",
+   "size": 3518589,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/balcube.zip",
+   "overwrite": false
+  },
+  "games/mame/bangball.zip": {
+   "hash": "3b7d3fe21e5eb4cae6d5e9dabe533b76",
+   "size": 8902637,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/bangball.zip",
+   "overwrite": false
+  },
+  "games/mame/blzntrnd.zip": {
+   "hash": "6a37b71b5b518e1c930473585771f637",
+   "size": 14762455,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/blzntrnd.zip",
+   "overwrite": false
+  },
+  "games/mame/cachat.zip": {
+   "hash": "ee8ad344d7d0e346c3323a5cfcc0a52f",
+   "size": 335290,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/cachat.zip",
+   "overwrite": false
+  },
+  "games/mame/champwr.zip": {
+   "hash": "c4d0a8367cb8b03dc72bbf0063428ad1",
+   "size": 1013439,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/champwr.zip",
+   "overwrite": false
+  },
+  "games/mame/cubybop.zip": {
+   "hash": "7adb17e50fc8bb463acddebeceb24ead",
+   "size": 354533,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/cubybop.zip",
+   "overwrite": false
+  },
+  "games/mame/daitorid.zip": {
+   "hash": "b504ddb8c44b0e9bbf6d8ce9b4f4868f",
+   "size": 3488272,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/daitorid.zip",
+   "overwrite": false
+  },
+  "games/mame/ddpdojt.zip": {
+   "hash": "f16eaa9bfd08bddc4e3e6fde0e097e6f",
+   "size": 32569144,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ddpdojt.zip",
+   "overwrite": false
+  },
+  "games/mame/dharma.zip": {
+   "hash": "27a50ebb4ae9f066ff862fbb7e3e40cf",
+   "size": 3154866,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/dharma.zip",
+   "overwrite": false
+  },
+  "games/mame/dokyusei.zip": {
+   "hash": "22ed7030ed5d18c57ffecf8faba1334b",
+   "size": 2525275,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/dokyusei.zip",
+   "overwrite": false
+  },
+  "games/mame/dokyusp.zip": {
+   "hash": "0e14ea5c92f78a3b7f9abb171a57ca53",
+   "size": 7090291,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/dokyusp.zip",
+   "overwrite": false
+  },
+  "games/mame/evilston.zip": {
+   "hash": "188eb0e8d3335a513f32a68e796f7cbc",
+   "size": 605174,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/evilston.zip",
+   "overwrite": false
+  },
+  "games/mame/fhawk.zip": {
+   "hash": "fd1671ce1ba6f7804fc5203dd9f58c59",
+   "size": 531193,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/fhawk.zip",
+   "overwrite": false
+  },
+  "games/mame/gaiapols.zip": {
+   "hash": "4a8b8b0f5ee3a51e01fdd62995f3ac89",
+   "size": 8213033,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gaiapols.zip",
+   "overwrite": false
+  },
+  "games/mame/gakusai.zip": {
+   "hash": "c35790bd7e123479a2606fb94cd87130",
+   "size": 14595239,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gakusai.zip",
+   "overwrite": false
+  },
+  "games/mame/gakusai2.zip": {
+   "hash": "15e8e9a06b171921c6b8188cbaffd089",
+   "size": 16379149,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gakusai2.zip",
+   "overwrite": false
+  },
+  "games/mame/gstrik2.zip": {
+   "hash": "8d8e619dc9c92a9e91fb1748261269d8",
+   "size": 10567764,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gstrik2.zip",
+   "overwrite": false
+  },
+  "games/mame/gunmast.zip": {
+   "hash": "b6a335f828f95a4bf115819107ac3c6f",
+   "size": 1499140,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gunmast.zip",
+   "overwrite": false
+  },
+  "games/mame/horshoes.zip": {
+   "hash": "d2bfb5cf69d03cb361592cac22a72be7",
+   "size": 268582,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/horshoes.zip",
+   "overwrite": false
+  },
+  "games/mame/hvyunit.zip": {
+   "hash": "2693df2b2a2e1edea064dcf27822f325",
+   "size": 1198515,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/hvyunit.zip",
+   "overwrite": false
+  },
+  "games/mame/jchan.zip": {
+   "hash": "1cb7879feb02eb4a8a65f23c4c5ab57c",
+   "size": 21781584,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/jchan.zip",
+   "overwrite": false
+  },
+  "games/mame/jchan2.zip": {
+   "hash": "e86807b65f465d66e07ec29425f05da3",
+   "size": 21775869,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/jchan2.zip",
+   "overwrite": false
+  },
+  "games/mame/karatour.zip": {
+   "hash": "967f174a395cd3f1ce524d47b8f4d6a4",
+   "size": 2254191,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/karatour.zip",
+   "overwrite": false
+  },
+  "games/mame/kof98umh.zip": {
+   "hash": "08fbaad756a67e23325f49703a2bb5f5",
+   "size": 221122982,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/kof98umh.zip",
+   "overwrite": false
+  },
+  "games/mame/kov2nl.zip": {
+   "hash": "48d8abaadcb09bb8ec4027dfbeebf571",
+   "size": 80635009,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/kov2nl.zip",
+   "overwrite": false
+  },
+  "games/mame/kov3.zip": {
+   "hash": "10a0c25857b571dc9f3f97013a79d19f",
+   "size": 137588931,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/kov3.zip",
+   "overwrite": false
+  },
+  "games/mame/kurikint.zip": {
+   "hash": "ef05ea419b3bbdf02d3cc3e9076eaf20",
+   "size": 1278042,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/kurikint.zip",
+   "overwrite": false
+  },
+  "games/mame/ladykill.zip": {
+   "hash": "55b3c51da2caae1b8031b175d162e399",
+   "size": 1747944,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ladykill.zip",
+   "overwrite": false
+  },
+  "games/mame/lastfort.zip": {
+   "hash": "c7af79223ce923bef8d06ac4e0f94763",
+   "size": 3042501,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/lastfort.zip",
+   "overwrite": false
+  },
+  "games/mame/mcatadv.zip": {
+   "hash": "a6f90f943860325071a76c18d69ca5d7",
+   "size": 4485469,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/mcatadv.zip",
+   "overwrite": false
+  },
+  "games/mame/metamrph.zip": {
+   "hash": "0433469d9153e5a2e4f0e26bae525aca",
+   "size": 7344601,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/metamrph.zip",
+   "overwrite": false
+  },
+  "games/mame/mmaulers.zip": {
+   "hash": "5b19a5bd49db0d9033d0d4b2b9d67531",
+   "size": 9061486,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/mmaulers.zip",
+   "overwrite": false
+  },
+  "games/mame/mouja.zip": {
+   "hash": "11cbfc3236f3cc9dfec4947e69076b55",
+   "size": 1270990,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/mouja.zip",
+   "overwrite": false
+  },
+  "games/mame/msgogo.zip": {
+   "hash": "ef60a78382a96676379d4ffa5789090e",
+   "size": 3158919,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/msgogo.zip",
+   "overwrite": false
+  },
+  "games/mame/naname.zip": {
+   "hash": "dd81d5cd659c81b9c7f4b8969312f87f",
+   "size": 2310438,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/naname.zip",
+   "overwrite": false
+  },
+  "games/mame/nost.zip": {
+   "hash": "a1c997e911c4c5ff406d25486d2f2859",
+   "size": 3189195,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/nost.zip",
+   "overwrite": false
+  },
+  "games/mame/ohmygod.zip": {
+   "hash": "db40d56a0e96cfc564f81a698b4de836",
+   "size": 2138976,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ohmygod.zip",
+   "overwrite": false
+  },
+  "games/mame/orleg2.zip": {
+   "hash": "d43d348f96d2808273d5944f7d5c4bb1",
+   "size": 62161479,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/orleg2.zip",
+   "overwrite": false
+  },
+  "games/mame/palamed.zip": {
+   "hash": "a8f9bffdacd17c145e10b526badfb9e6",
+   "size": 175126,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/palamed.zip",
+   "overwrite": false
+  },
+  "games/mame/pangpoms.zip": {
+   "hash": "0b08da62cd3d151fe67dd34d0e732532",
+   "size": 1404177,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pangpoms.zip",
+   "overwrite": false
+  },
+  "games/mame/plgirls.zip": {
+   "hash": "dba6c1245ab84db73b7d1f38d611629c",
+   "size": 436521,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/plgirls.zip",
+   "overwrite": false
+  },
+  "games/mame/plgirls2.zip": {
+   "hash": "34933b0b66f5dae9713d04be492840bf",
+   "size": 828613,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/plgirls2.zip",
+   "overwrite": false
+  },
+  "games/mame/plotting.zip": {
+   "hash": "7f0a43d8665c46e70ba9ce7db1a4ad73",
+   "size": 238746,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/plotting.zip",
+   "overwrite": false
+  },
+  "games/mame/poitto.zip": {
+   "hash": "c910fee47df99348840f229760aeaccb",
+   "size": 1154842,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/poitto.zip",
+   "overwrite": false
+  },
+  "games/mame/pururun.zip": {
+   "hash": "d1468a8c38d44da908f04cf346b6f890",
+   "size": 1776205,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pururun.zip",
+   "overwrite": false
+  },
+  "games/mame/puzzli.zip": {
+   "hash": "bf534b0c0fbc04480af6307b580992b1",
+   "size": 1183648,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/puzzli.zip",
+   "overwrite": false
+  },
+  "games/mame/puzznic.zip": {
+   "hash": "1c52577990267cb15bc8ae15ae055277",
+   "size": 413978,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/puzznic.zip",
+   "overwrite": false
+  },
+  "games/mame/raimais.zip": {
+   "hash": "af24e855efc7c46d3310208572e739cf",
+   "size": 1008078,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/raimais.zip",
+   "overwrite": false
+  },
+  "games/mame/skyalert.zip": {
+   "hash": "dd10b81a21c057f2a66b55985551fe07",
+   "size": 1167051,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/skyalert.zip",
+   "overwrite": false
+  },
+  "games/mame/toride2g.zip": {
+   "hash": "6f26e1a1d2b2453a9bf913a45e00fc10",
+   "size": 4201859,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/toride2g.zip",
+   "overwrite": false
+  },
+  "games/mame/viostorm.zip": {
+   "hash": "c2ec32bb9259a294a1869fef824fbece",
+   "size": 21568733,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/viostorm.zip",
+   "overwrite": false
+  },
+  "games/mame/vmetal.zip": {
+   "hash": "8b9670e3266dad13acfe0b6f48620ed9",
+   "size": 3802005,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/vmetal.zip",
+   "overwrite": false
   }
  },
  "folders": {
@@ -819,6 +1137,8 @@
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Tube-It": {},
   "_Arcade/_Decoryah/_TaitoLSystem/_homebrew": {},
   "_Arcade/_Decoryah/_ViolentStorm": {},
-  "_Arcade/cores": {}
+  "_Arcade/cores": {},
+  "games": {},
+  "games/mame": {}
  }
 }
