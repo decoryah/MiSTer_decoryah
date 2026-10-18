@@ -1,9 +1,7 @@
 # MiSTer_decoryah
 
-[![Cores in this database](https://img.shields.io/badge/cores-list-blue)](https://github.com/decoryah/MiSTer_decoryah/blob/db/cores.md)
-
 A [Downloader](https://github.com/MiSTer-devel/Downloader_MiSTer) database of [decoryah](https://github.com/decoryah)'s
-public MiSTer arcade cores. It is rebuilt every day by GitHub Actions, so the cores, their latest builds and
+public MiSTer arcade cores. It is rebuilt every 6 hours by GitHub Actions, so the cores, their latest builds and
 their MRAs on your MiSTer follow the source repositories.
 
 ## Install
@@ -18,7 +16,7 @@ db_url = https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.z
 
 ## Cores
 
-What is in the database right now. The daily run refreshes this list whenever the database changes; the same
+What is in the database right now. Each run refreshes this list whenever the database changes; the same
 list is in [`cores.md`](https://github.com/decoryah/MiSTer_decoryah/blob/db/cores.md) on the `db` branch.
 
 <!-- cores:start -->
@@ -95,7 +93,7 @@ ROMs are not part of the database.
 
 ## How it updates
 
-`.github/workflows/update.yml` runs daily (also on demand from the Actions tab, and when the script or
+`.github/workflows/update.yml` runs every 6 hours (also on demand from the Actions tab, and when the script or
 config changes on `main`). It runs `build_db.py`, which
 
 1. lists the owner's public repositories through the GitHub API,
