@@ -1,0 +1,824 @@
+{
+ "db_id": "decoryah/MiSTer_decoryah",
+ "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
+ "v": 1,
+ "timestamp": 1792321203,
+ "files": {
+  "_Arcade/_Decoryah/_Gaiapolis/Gaiapolis (Japan ver JAF).mra": {
+   "hash": "74993b618230b60959e2a35e9447a5e1",
+   "size": 4000,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/c82e543ad41930ee4960c587c0c4acc244d8447e/mra/Gaiapolis%20%28Japan%20ver%20JAF%29.mra"
+  },
+  "_Arcade/_Decoryah/_Gaiapolis/Gaiapolis (USA ver UAF).mra": {
+   "hash": "16598c6e153df4d1ade4ee9e5f78527d",
+   "size": 3996,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/c82e543ad41930ee4960c587c0c4acc244d8447e/mra/Gaiapolis%20%28USA%20ver%20UAF%29.mra"
+  },
+  "_Arcade/_Decoryah/_Gaiapolis/Gaiapolis (World ver EAF).mra": {
+   "hash": "dd51ba6532d5f3189649def6b50777ef",
+   "size": 3998,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/c82e543ad41930ee4960c587c0c4acc244d8447e/mra/Gaiapolis%20%28World%20ver%20EAF%29.mra"
+  },
+  "_Arcade/_Decoryah/_HeavyUnit/Heavy Unit (Japan, alternate ROM format).mra": {
+   "hash": "d634fe85119f136fad6329c7d30fc1da",
+   "size": 2718,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/mra/Heavy%20Unit%20%28Japan%2C%20alternate%20ROM%20format%29.mra"
+  },
+  "_Arcade/_Decoryah/_HeavyUnit/Heavy Unit (Japan, newer).mra": {
+   "hash": "a1f390ff378ce4259325fe53677d2011",
+   "size": 2556,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/mra/Heavy%20Unit%20%28Japan%2C%20newer%29.mra"
+  },
+  "_Arcade/_Decoryah/_HeavyUnit/Heavy Unit (Japan, older).mra": {
+   "hash": "504fccd503e0585c7f4481a46f43a687",
+   "size": 2948,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/mra/Heavy%20Unit%20%28Japan%2C%20older%29.mra"
+  },
+  "_Arcade/_Decoryah/_HeavyUnit/Heavy Unit (World).mra": {
+   "hash": "dee8b9bf767ad38b455d0ce6ec8c8d03",
+   "size": 3050,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/mra/Heavy%20Unit%20%28World%29.mra"
+  },
+  "_Arcade/_Decoryah/_HeavyUnit/Heavy Unit -U.S.A. Version- (US).mra": {
+   "hash": "2eeb0bff7987cc49cd2b8c398c95ceae",
+   "size": 2561,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/mra/Heavy%20Unit%20-U.S.A.%20Version-%20%28US%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/DoDonPachi Dai-Ou-Jou Tamashii (V201, China).mra": {
+   "hash": "c9e6c237aef8673ef9a4db0a7b8057eb",
+   "size": 3574,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/DoDonPachi%20Dai-Ou-Jou%20Tamashii%20%28V201%2C%20China%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/Knights of Valour 2 New Legend (V302, Oversea).mra": {
+   "hash": "0066decbab073962f66bccbfb215cc07",
+   "size": 3525,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/Knights%20of%20Valour%202%20New%20Legend%20%28V302%2C%20Oversea%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/Knights of Valour 3 (V104, China, Hong Kong, Taiwan).mra": {
+   "hash": "a9ff902e20315d126fc35defbe65221d",
+   "size": 4134,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/Knights%20of%20Valour%203%20%28V104%2C%20China%2C%20Hong%20Kong%2C%20Taiwan%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/Oriental Legend 2 (V104, Oversea).mra": {
+   "hash": "d118ce2b75cc0716aa0d9e7a2a09e816",
+   "size": 3488,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/Oriental%20Legend%202%20%28V104%2C%20Oversea%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/The King of Fighters '98 - Ultimate Match HERO (China, V100, 09-08-23).mra": {
+   "hash": "720ee53ff72967567a53147c9ad6ea54",
+   "size": 4164,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/The%20King%20of%20Fighters%20%2798%20-%20Ultimate%20Match%20HERO%20%28China%2C%20V100%2C%2009-08-23%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 2 New Legend/Knights of Valour 2 New Legend (V300, Oversea).mra": {
+   "hash": "70531f5fff2dc70ec4fdb7e7a18c16c4",
+   "size": 3544,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Knights%20of%20Valour%202%20New%20Legend%20%28V300%2C%20Oversea%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 2 New Legend/Knights of Valour 2 New Legend (V301, Oversea).mra": {
+   "hash": "eff30b44e6807a4bef53eebc1146b50e",
+   "size": 3544,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Knights%20of%20Valour%202%20New%20Legend%20%28V301%2C%20Oversea%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 2 New Legend/Sanguo Zhan Ji 2 Gaishi Yingxiong (V300, China).mra": {
+   "hash": "d242a3fcb13e4413feb53de00a6537b6",
+   "size": 3561,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Sanguo%20Zhan%20Ji%202%20Gaishi%20Yingxiong%20%28V300%2C%20China%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 2 New Legend/Sanguo Zhan Ji 2 Gaishi Yingxiong (V301, China).mra": {
+   "hash": "1675a94bf7fcc0f0094c21b7e6fc67a0",
+   "size": 3561,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Sanguo%20Zhan%20Ji%202%20Gaishi%20Yingxiong%20%28V301%2C%20China%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 2 New Legend/Sanguo Zhan Ji 2 Gaishi Yingxiong (V302, China).mra": {
+   "hash": "031ac08f4634363d09f270e08e6b6f34",
+   "size": 3561,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Sanguo%20Zhan%20Ji%202%20Gaishi%20Yingxiong%20%28V302%2C%20China%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 3/Knights of Valour 3 (V100, China, Hong Kong, Taiwan).mra": {
+   "hash": "a70de36b15ea4e244aa9fb104a25f137",
+   "size": 4164,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%203/Knights%20of%20Valour%203%20%28V100%2C%20China%2C%20Hong%20Kong%2C%20Taiwan%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 3/Knights of Valour 3 (V101, China, Hong Kong, Taiwan).mra": {
+   "hash": "23066fdaed3fc1e717d710f0dc6f5537",
+   "size": 4158,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%203/Knights%20of%20Valour%203%20%28V101%2C%20China%2C%20Hong%20Kong%2C%20Taiwan%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 3/Knights of Valour 3 (V102, China, Hong Kong, Taiwan).mra": {
+   "hash": "b40c68bfd0b7e5fad18e8de997b24fb5",
+   "size": 4164,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%203/Knights%20of%20Valour%203%20%28V102%2C%20China%2C%20Hong%20Kong%2C%20Taiwan%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Oriental Legend 2 (V101, Oversea).mra": {
+   "hash": "1999632a34e57e8f6a2b78c46ed587f0",
+   "size": 3507,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Oriental%20Legend%202%20%28V101%2C%20Oversea%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Oriental Legend 2 (V103, Oversea).mra": {
+   "hash": "c57c71bc887d9fac27d726562d3ddd98",
+   "size": 3507,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Oriental%20Legend%202%20%28V103%2C%20Oversea%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Saiyuu Shakuyakuden 2 (V101, Japan).mra": {
+   "hash": "a929fe677c221cd57bd548cce41d203d",
+   "size": 3530,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Saiyuu%20Shakuyakuden%202%20%28V101%2C%20Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Saiyuu Shakuyakuden 2 (V103, Japan).mra": {
+   "hash": "d0066d779b7dda46f87488dc8bf6fc42",
+   "size": 3530,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Saiyuu%20Shakuyakuden%202%20%28V103%2C%20Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Saiyuu Shakuyakuden 2 (V104, Japan).mra": {
+   "hash": "e7d1de89f10698097d895757aebab1d1",
+   "size": 3530,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Saiyuu%20Shakuyakuden%202%20%28V104%2C%20Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Xiyou Shi E Zhuan 2 (V101, China).mra": {
+   "hash": "2437f1c2a49d1cd57948c16e2c7e207a",
+   "size": 3531,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Xiyou%20Shi%20E%20Zhuan%202%20%28V101%2C%20China%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Xiyou Shi E Zhuan 2 (V103, China).mra": {
+   "hash": "1842d24bb3a516d1b1b413e46086ca25",
+   "size": 3531,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Xiyou%20Shi%20E%20Zhuan%202%20%28V103%2C%20China%29.mra"
+  },
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Xiyou Shi E Zhuan 2 (V104, China).mra": {
+   "hash": "5c6cda0efaf52d544b60143161b13fc2",
+   "size": 3531,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Xiyou%20Shi%20E%20Zhuan%202%20%28V104%2C%20China%29.mra"
+  },
+  "_Arcade/_Decoryah/_JackieChan/Jackie Chan - The Kung-Fu Master (rev 4).mra": {
+   "hash": "efe48a0784156db105cd5b95493074bd",
+   "size": 3841,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/920b7c9ac5c8503342cbb9949ee32740989bdc0b/mra/Jackie%20Chan%20-%20The%20Kung-Fu%20Master%20%28rev%204%29.mra"
+  },
+  "_Arcade/_Decoryah/_JackieChan/Jackie Chan in Fists of Fire.mra": {
+   "hash": "1782e8a2513e72e83749f8c9da71eb08",
+   "size": 3814,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/920b7c9ac5c8503342cbb9949ee32740989bdc0b/mra/Jackie%20Chan%20in%20Fists%20of%20Fire.mra"
+  },
+  "_Arcade/_Decoryah/_JackieChan/_alternatives/_Jackie Chan - The Kung-Fu Master/Jackie Chan - The Kung-Fu Master (rev 3).mra": {
+   "hash": "d569ee722c9e31cc39fd0f72611fcaa4",
+   "size": 3853,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/920b7c9ac5c8503342cbb9949ee32740989bdc0b/mra/_alternatives/_Jackie%20Chan%20-%20The%20Kung-Fu%20Master/Jackie%20Chan%20-%20The%20Kung-Fu%20Master%20%28rev%203%29.mra"
+  },
+  "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/Magical Cat Adventure.mra": {
+   "hash": "05676c2f7f887df8cc5e00961ceed2c7",
+   "size": 4102,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/46e3e47e842408bc8e5551e900be6ffa92c63bf4/mra/Magical%20Cat%20Adventure.mra"
+  },
+  "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/Nostradamus.mra": {
+   "hash": "edee46586267709a8f0c19667d0b543d",
+   "size": 3765,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/46e3e47e842408bc8e5551e900be6ffa92c63bf4/mra/Nostradamus.mra"
+  },
+  "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/_alternatives/_Magical Cat Adventure/Catt (Japan).mra": {
+   "hash": "5def64c416ac76e0ed844602636a2a97",
+   "size": 3865,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/46e3e47e842408bc8e5551e900be6ffa92c63bf4/mra/_alternatives/_Magical%20Cat%20Adventure/Catt%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/_alternatives/_Magical Cat Adventure/Magical Cat Adventure (Japan).mra": {
+   "hash": "692f0b03e08578760a5acc608fa2d01d",
+   "size": 4120,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/46e3e47e842408bc8e5551e900be6ffa92c63bf4/mra/_alternatives/_Magical%20Cat%20Adventure/Magical%20Cat%20Adventure%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/_alternatives/_Nostradamus/Nostradamus (Japan).mra": {
+   "hash": "950abc53c358f2abcac9bc6f0fb3cda5",
+   "size": 3784,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/46e3e47e842408bc8e5551e900be6ffa92c63bf4/mra/_alternatives/_Nostradamus/Nostradamus%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/_alternatives/_Nostradamus/Nostradamus Yeeon (Korea).mra": {
+   "hash": "b6810c2efc60dfa01eaf6841dc99213b",
+   "size": 3790,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/46e3e47e842408bc8e5551e900be6ffa92c63bf4/mra/_alternatives/_Nostradamus/Nostradamus%20Yeeon%20%28Korea%29.mra"
+  },
+  "_Arcade/_Decoryah/_MetamorphicForce/Metamorphic Force (Asia ver AAA).mra": {
+   "hash": "812cacdabe4febfeeeb25c972c6d64f1",
+   "size": 3974,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/d0c6198c90257c17f38c53705eccd79c73ae52af/mra/Metamorphic%20Force%20%28Asia%20ver%20AAA%29.mra"
+  },
+  "_Arcade/_Decoryah/_MetamorphicForce/Metamorphic Force (Japan ver JAA).mra": {
+   "hash": "0482c9592aad05449884d1ddf29e48fd",
+   "size": 3976,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/d0c6198c90257c17f38c53705eccd79c73ae52af/mra/Metamorphic%20Force%20%28Japan%20ver%20JAA%29.mra"
+  },
+  "_Arcade/_Decoryah/_MetamorphicForce/Metamorphic Force (USA ver UAA).mra": {
+   "hash": "0475d4e4613e5e2afbac40dbd16c0d4a",
+   "size": 3972,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/d0c6198c90257c17f38c53705eccd79c73ae52af/mra/Metamorphic%20Force%20%28USA%20ver%20UAA%29.mra"
+  },
+  "_Arcade/_Decoryah/_MetamorphicForce/Metamorphic Force (World ver EAA).mra": {
+   "hash": "2b04ae026fcb4cf41fddf896d6a5d176",
+   "size": 3974,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/d0c6198c90257c17f38c53705eccd79c73ae52af/mra/Metamorphic%20Force%20%28World%20ver%20EAA%29.mra"
+  },
+  "_Arcade/_Decoryah/_MetamorphicForce/Metamorphic Force (World ver EAA, alternate).mra": {
+   "hash": "656a18a5be5e4aa45f3876b373d3f49a",
+   "size": 3980,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/d0c6198c90257c17f38c53705eccd79c73ae52af/mra/Metamorphic%20Force%20%28World%20ver%20EAA%2C%20alternate%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Bal Cube (Japan).mra": {
+   "hash": "b08f8c23f95173a54db67c3a4be57873",
+   "size": 3259,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Bal%20Cube%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Bang Bang Ball (v1.05).mra": {
+   "hash": "4d8311f9c9a2afdc97b629c1d5288df8",
+   "size": 3229,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Bang%20Bang%20Ball%20%28v1.05%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Blazing Tornado.mra": {
+   "hash": "4cfc645fbf1c84007369f81570b8ee85",
+   "size": 5077,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Blazing%20Tornado.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Daitoride (Japan).mra": {
+   "hash": "7c2b556c3b100fec2bd0497cd6d477d8",
+   "size": 3346,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Daitoride%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Dharma Doujou.mra": {
+   "hash": "6dc12a1a1dc3158d553c681c6bb0a925",
+   "size": 3327,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Dharma%20Doujou.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Grand Striker 2 (Europe and Oceania).mra": {
+   "hash": "7e03b05088e55c7ac2985803f9b0468b",
+   "size": 5041,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Grand%20Striker%202%20%28Europe%20and%20Oceania%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Gun Master.mra": {
+   "hash": "4038181586585ae7ed62cda2295d2396",
+   "size": 3288,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Gun%20Master.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Lady Killer.mra": {
+   "hash": "e9a9f4e469603418cc6fa105508d1361",
+   "size": 3235,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Lady%20Killer.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Last Fortress - Toride (Japan, VG420 PCB).mra": {
+   "hash": "cc8929ace0b115560b31c04cd05eea4c",
+   "size": 3681,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Last%20Fortress%20-%20Toride%20%28Japan%2C%20VG420%20PCB%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Mahjong Doukyuusei (Japan).mra": {
+   "hash": "d63bbda12ec324e5ca65578eabf11a40",
+   "size": 3281,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Mahjong%20Doukyuusei%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Mahjong Doukyuusei Special (Japan).mra": {
+   "hash": "971e7bf8617bb4d59fbdce95fe08e240",
+   "size": 2503,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Mahjong%20Doukyuusei%20Special%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Mahjong Gakuensai (Japan, set 1).mra": {
+   "hash": "a3d67985a2edd0cc3eb9b2927bdcd277",
+   "size": 2567,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Mahjong%20Gakuensai%20%28Japan%2C%20set%201%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Mahjong Gakuensai 2 (Japan).mra": {
+   "hash": "59ce49957a1afab428de5786ae4b2fc8",
+   "size": 2643,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Mahjong%20Gakuensai%202%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Mouja (Japan).mra": {
+   "hash": "d4938297801a58d8c054a832241b10ad",
+   "size": 3139,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Mouja%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Mouse Shooter GoGo.mra": {
+   "hash": "b740ac7a69b30f6bf5f875642da42dfd",
+   "size": 3188,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Mouse%20Shooter%20GoGo.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Pang Pom's.mra": {
+   "hash": "231e1db640d617e06ee5c880396f7b57",
+   "size": 3584,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Pang%20Pom%27s.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Poitto! (Japan revision D).mra": {
+   "hash": "f9ed719a19bfa42ffe9b62bd860194eb",
+   "size": 3339,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Poitto%21%20%28Japan%20revision%20D%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Pururun (Japan set 1).mra": {
+   "hash": "7c0b16f90c87b7176f97e783aa761461",
+   "size": 3364,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Pururun%20%28Japan%20set%201%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Puzzli (Japan revision B).mra": {
+   "hash": "0c9d75753af7eb57d4bdad4f5c9f90b2",
+   "size": 3389,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Puzzli%20%28Japan%20revision%20B%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Sankokushi (Japan).mra": {
+   "hash": "d08ca47b4ac1fbbac05872077bf53f71",
+   "size": 3225,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Sankokushi%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Sky Alert.mra": {
+   "hash": "62cb1189be557bc41804e04dd1c405f3",
+   "size": 3593,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Sky%20Alert.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/The Karate Tournament.mra": {
+   "hash": "12b82cb4f7d0056e272aded36e324fcd",
+   "size": 3220,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/The%20Karate%20Tournament.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Toride II Adauchi Gaiden (Japan).mra": {
+   "hash": "2c1a09cdf2f901b634b87da47d12613e",
+   "size": 3419,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Toride%20II%20Adauchi%20Gaiden%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/Varia Metal.mra": {
+   "hash": "f1df35e13a85c9563d4a637b5c29a747",
+   "size": 3084,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/Varia%20Metal.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Bang Bang Ball/Battle Bubble (v2.00).mra": {
+   "hash": "1d18d98b66f994f0801be272b8035272",
+   "size": 3158,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Bang%20Bang%20Ball/Battle%20Bubble%20%28v2.00%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Daitoride/Daitoride (Japan, YMF278B version).mra": {
+   "hash": "db9e9455d4be41ef1ff02e0ad00fdd73",
+   "size": 3219,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Daitoride/Daitoride%20%28Japan%2C%20YMF278B%20version%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Dharma Doujou/Dharma Dojang - Mangchi Man (Korea).mra": {
+   "hash": "8dbe6edce8d908309751d2e77fe6f01e",
+   "size": 3310,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Dharma%20Doujou/Dharma%20Dojang%20-%20Mangchi%20Man%20%28Korea%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Dharma Doujou/Dharma Doujou (Germany).mra": {
+   "hash": "94d4800b3b97cdf62301b2f1c3b02594",
+   "size": 3350,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Dharma%20Doujou/Dharma%20Doujou%20%28Germany%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Dharma Doujou/Dharma Doujou (Japan).mra": {
+   "hash": "5e76e01759a9750ed190b8463af636f6",
+   "size": 3312,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Dharma%20Doujou/Dharma%20Doujou%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Grand Striker 2/Grand Striker 2 (Japan).mra": {
+   "hash": "ab4ce62ec3ef1ed9e1744b8c8e0b84c5",
+   "size": 5016,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Grand%20Striker%202/Grand%20Striker%202%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Lady Killer/Moeyo Gonta!! (Japan).mra": {
+   "hash": "a5b2edc72b0a6a813e8d9e6fee4bb1ff",
+   "size": 3234,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Lady%20Killer/Moeyo%20Gonta%21%21%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Last Fortress - Toride/Last Fortress - Toride (China, Rev A).mra": {
+   "hash": "87c91e1a8b9430310f465907cd6a4083",
+   "size": 3700,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Last%20Fortress%20-%20Toride/Last%20Fortress%20-%20Toride%20%28China%2C%20Rev%20A%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Last Fortress - Toride/Last Fortress - Toride (China, Rev C).mra": {
+   "hash": "b519863aa5f4d943a9a6c1b1d6d603eb",
+   "size": 3698,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Last%20Fortress%20-%20Toride/Last%20Fortress%20-%20Toride%20%28China%2C%20Rev%20C%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Last Fortress - Toride/Last Fortress - Toride (Japan, VG460 PCB).mra": {
+   "hash": "b41cc80161d8e857298ad00e48d23276",
+   "size": 3405,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Last%20Fortress%20-%20Toride/Last%20Fortress%20-%20Toride%20%28Japan%2C%20VG460%20PCB%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Last Fortress - Toride/Last Fortress - Toride (Korea).mra": {
+   "hash": "4fffa33fd23c2cadb9ffe510670b1cf2",
+   "size": 3692,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Last%20Fortress%20-%20Toride/Last%20Fortress%20-%20Toride%20%28Korea%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Last Fortress - Toride/Last Fortress - Toride - Mah-jong (Germany).mra": {
+   "hash": "72985a3d613621e586a70512c48077dd",
+   "size": 3406,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Last%20Fortress%20-%20Toride/Last%20Fortress%20-%20Toride%20-%20Mah-jong%20%28Germany%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Mahjong Gakuensai/Mahjong Gakuensai (Japan, set 2).mra": {
+   "hash": "5db7ca0aa299697e51317dd672ef5b2a",
+   "size": 2581,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Mahjong%20Gakuensai/Mahjong%20Gakuensai%20%28Japan%2C%20set%202%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Pang Pom's/Pang Pom's (Mitchell).mra": {
+   "hash": "afff70c0cb48241268dc4cb948a3252c",
+   "size": 3628,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Pang%20Pom%27s/Pang%20Pom%27s%20%28Mitchell%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Pang Pom's/Pang Pom's (Nova).mra": {
+   "hash": "26523e215fc8597bd3e77ff3a751ba89",
+   "size": 3604,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Pang%20Pom%27s/Pang%20Pom%27s%20%28Nova%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Pururun/Pururun (Japan set 2).mra": {
+   "hash": "94e583195c8f90ac26ae2a930d7840a7",
+   "size": 3386,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Pururun/Pururun%20%28Japan%20set%202%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Puzzli/Puzzli (Japan revision A).mra": {
+   "hash": "21d9d81d60fadaee2f81346b8f8e208f",
+   "size": 3410,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Puzzli/Puzzli%20%28Japan%20revision%20A%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_The Karate Tournament/Chatan Yara Kuushanku - The Karate Tournament (Japan).mra": {
+   "hash": "798ab8f53098935af6f9594a5891bf3f",
+   "size": 3264,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_The%20Karate%20Tournament/Chatan%20Yara%20Kuushanku%20-%20The%20Karate%20Tournament%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Toride II Adauchi Gaiden/Toride II (German).mra": {
+   "hash": "9c72ed4298021680c4ab3c4ef546c6c2",
+   "size": 3426,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Toride%20II%20Adauchi%20Gaiden/Toride%20II%20%28German%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Toride II Adauchi Gaiden/Toride II (Japan, revision I).mra": {
+   "hash": "7bb6a4efdd2e6b25e2c54b79ee0a4d43",
+   "size": 3431,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Toride%20II%20Adauchi%20Gaiden/Toride%20II%20%28Japan%2C%20revision%20I%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Toride II Adauchi Gaiden/Toride II (Japan, revision K).mra": {
+   "hash": "4e3a39680d383af595a7980c4b7b2d1d",
+   "size": 3429,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Toride%20II%20Adauchi%20Gaiden/Toride%20II%20%28Japan%2C%20revision%20K%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Toride II Adauchi Gaiden/Toride II Bok Su Oi Jeon Adauchi Gaiden (Korea).mra": {
+   "hash": "2ee52a18f39f957f85c67e0ce6d628f7",
+   "size": 3363,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Toride%20II%20Adauchi%20Gaiden/Toride%20II%20Bok%20Su%20Oi%20Jeon%20Adauchi%20Gaiden%20%28Korea%29.mra"
+  },
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Varia Metal/Varia Metal (New Ways Trading Co.).mra": {
+   "hash": "b803f6879742273b6fc532214e4965ad",
+   "size": 3153,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/mra/_alternatives/_Varia%20Metal/Varia%20Metal%20%28New%20Ways%20Trading%20Co.%29.mra"
+  },
+  "_Arcade/_Decoryah/_MonsterMaulers/Kyukyoku Sentai Dadandarn (Japan ver JAA).mra": {
+   "hash": "a377a4d0f318f4ced0a0903350c2365a",
+   "size": 4908,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/fc1dfaecc8839a4311f2ddac7cade6a8655b9736/mra/Kyukyoku%20Sentai%20Dadandarn%20%28Japan%20ver%20JAA%29.mra"
+  },
+  "_Arcade/_Decoryah/_MonsterMaulers/Monster Maulers (USA ver UAA).mra": {
+   "hash": "294f32931950a2a44af930c6fbcfd912",
+   "size": 4896,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/fc1dfaecc8839a4311f2ddac7cade6a8655b9736/mra/Monster%20Maulers%20%28USA%20ver%20UAA%29.mra"
+  },
+  "_Arcade/_Decoryah/_MonsterMaulers/Monster Maulers (World ver EAA).mra": {
+   "hash": "06cb6855292f8fa3326c02f2a181994a",
+   "size": 4898,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/fc1dfaecc8839a4311f2ddac7cade6a8655b9736/mra/Monster%20Maulers%20%28World%20ver%20EAA%29.mra"
+  },
+  "_Arcade/_Decoryah/_OhMyGod/Naname de Magic! (Japan).mra": {
+   "hash": "5c0fa3ba46c7181c6ba1769b51a0c196",
+   "size": 2447,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/8ebc9e7d5b916dfa8b1939366b50f139287bbb8a/mra/Naname%20de%20Magic%21%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_OhMyGod/Oh My God! (Japan).mra": {
+   "hash": "4cfb69834c450de821818a11830785c3",
+   "size": 2455,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/8ebc9e7d5b916dfa8b1939366b50f139287bbb8a/mra/Oh%20My%20God%21%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/American Horseshoes (US).mra": {
+   "hash": "f33dec0f5d57f1a6815608424004c565",
+   "size": 3794,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/American%20Horseshoes%20%28US%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/Champion Wrestler (World).mra": {
+   "hash": "077b5e97eb143094efb4e3304b84f562",
+   "size": 2975,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Champion%20Wrestler%20%28World%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/Cuby Bop (Japan, location test).mra": {
+   "hash": "5dc0211b6de3edbc331b5035ea7da6d3",
+   "size": 3080,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Cuby%20Bop%20%28Japan%2C%20location%20test%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/Evil Stone.mra": {
+   "hash": "59717e0f161a874db6821abdd5ec6f95",
+   "size": 2875,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Evil%20Stone.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/Fighting Hawk (World).mra": {
+   "hash": "de4648d056c393d2bdc538b6dc604370",
+   "size": 2899,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Fighting%20Hawk%20%28World%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/Kuri Kinton (World).mra": {
+   "hash": "72d8216188d16d8a4a6393389e97fb8f",
+   "size": 2967,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Kuri%20Kinton%20%28World%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/Palamedes (US).mra": {
+   "hash": "dbf9d8eafb96dba62c12ac5f53eda2f5",
+   "size": 2915,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Palamedes%20%28US%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/Play Girls 2 (Europe).mra": {
+   "hash": "a5b4e715eb55dcb3ba99981075656df6",
+   "size": 2930,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Play%20Girls%202%20%28Europe%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/Play Girls.mra": {
+   "hash": "ab3047443b2cf742ccc5b89e22b73596",
+   "size": 2925,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Play%20Girls.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/Plotting (World set 1).mra": {
+   "hash": "23877b28b5e40dbb46eb358596501d75",
+   "size": 2893,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Plotting%20%28World%20set%201%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/Puzznic (World).mra": {
+   "hash": "330e5b6502b6be51f749ce6ef352521b",
+   "size": 2950,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Puzznic%20%28World%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/Raimais (World, rev 1).mra": {
+   "hash": "b3c3591242e1d44f9c592513a7777c1a",
+   "size": 2949,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Raimais%20%28World%2C%20rev%201%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/Tube-It.mra": {
+   "hash": "02c9e06714711874734ca1d350597428",
+   "size": 2908,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Tube-It.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Champion Wrestler/Champion Wrestler (Japan).mra": {
+   "hash": "e7cde97be7bd79cfb3f34e4192bfbf21",
+   "size": 2990,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Champion%20Wrestler/Champion%20Wrestler%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Champion Wrestler/Champion Wrestler (US).mra": {
+   "hash": "12df277f8498c6b672be5a9eab52eef9",
+   "size": 3002,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Champion%20Wrestler/Champion%20Wrestler%20%28US%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Fighting Hawk/Fighting Hawk (Japan).mra": {
+   "hash": "4962e7bb2cb738b8d4877571a59c51e8",
+   "size": 2912,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Fighting%20Hawk/Fighting%20Hawk%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Kuri Kinton/Kuri Kinton (Japan).mra": {
+   "hash": "7e9dc47e8b7690117b2e493f81936423",
+   "size": 2983,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Kuri%20Kinton/Kuri%20Kinton%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Kuri Kinton/Kuri Kinton (US).mra": {
+   "hash": "72a08a1a3d10de4832327f54cbcca1ed",
+   "size": 2988,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Kuri%20Kinton/Kuri%20Kinton%20%28US%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Kuri Kinton/Kuri Kinton (US, World Games license).mra": {
+   "hash": "99bb376ece45e94df2fa3476ff940c77",
+   "size": 3023,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Kuri%20Kinton/Kuri%20Kinton%20%28US%2C%20World%20Games%20license%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Kuri Kinton/Kuri Kinton (World, prototype).mra": {
+   "hash": "9f9473306672ee43f3f39c184871e163",
+   "size": 3644,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Kuri%20Kinton/Kuri%20Kinton%20%28World%2C%20prototype%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Palamedes/Palamedes (Japan).mra": {
+   "hash": "6f3d3336c1d943053f02b3a6a2ba7ad4",
+   "size": 2915,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Palamedes/Palamedes%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Play Girls 2/Play Girls 2 (Japan).mra": {
+   "hash": "d8031d88738062bee11f44f8472aab00",
+   "size": 2944,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Play%20Girls%202/Play%20Girls%202%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Play Girls/LA Girl.mra": {
+   "hash": "2399ab2f5479f42679985aa6efa212fa",
+   "size": 3042,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Play%20Girls/LA%20Girl.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Plotting/Flipull (Japan).mra": {
+   "hash": "d4e526993fdb0ed8b493a790d04d11c9",
+   "size": 2904,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Plotting/Flipull%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Plotting/Plotting (US).mra": {
+   "hash": "1503e8fe13064d44aa322759598d067e",
+   "size": 2922,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Plotting/Plotting%20%28US%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Plotting/Plotting (World set 2, protected).mra": {
+   "hash": "6a9cf2616875c1f4c0e4c28ef576d8b8",
+   "size": 2926,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Plotting/Plotting%20%28World%20set%202%2C%20protected%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Plotting/Plotting (World set 3, earliest version).mra": {
+   "hash": "ab5c036812437e527aeeecf4beb66cfd",
+   "size": 2933,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Plotting/Plotting%20%28World%20set%203%2C%20earliest%20version%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Puzznic/Puzznic (Italian bootleg).mra": {
+   "hash": "55c4c4d1cdfd58a6305e5225f069422c",
+   "size": 2952,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Puzznic/Puzznic%20%28Italian%20bootleg%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Puzznic/Puzznic (Japan).mra": {
+   "hash": "3f124b486f90ad762554b319e84ab4cb",
+   "size": 2978,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Puzznic/Puzznic%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Puzznic/Puzznic (US).mra": {
+   "hash": "ceb15c231bd02c06ebc1567abf5fb6e5",
+   "size": 2968,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Puzznic/Puzznic%20%28US%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Puzznic/Puzznic (bootleg, set 1).mra": {
+   "hash": "ad06d625700bf945b662430f4faea026",
+   "size": 2955,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Puzznic/Puzznic%20%28bootleg%2C%20set%201%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Puzznic/Puzznic (bootleg, set 2).mra": {
+   "hash": "be49e37f79702973b787b23a569a04f5",
+   "size": 2953,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Puzznic/Puzznic%20%28bootleg%2C%20set%202%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Raimais/Raimais (Japan).mra": {
+   "hash": "05d77d1530218c4607aae67dfc40c0fe",
+   "size": 2957,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Raimais/Raimais%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Raimais/Raimais (Japan, rev 1).mra": {
+   "hash": "adb463cd47a1e6f4f0cef3191a8f491d",
+   "size": 2964,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Raimais/Raimais%20%28Japan%2C%20rev%201%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Tube-It/Cachat (Japan).mra": {
+   "hash": "e3cec45afccd4255a488d01b059f77fe",
+   "size": 3057,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Tube-It/Cachat%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_homebrew/SQIJ 2018.mra": {
+   "hash": "86c49783d4d1a0546769e4cc96d3f034",
+   "size": 3255,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_homebrew/SQIJ%202018.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_homebrew/Sokoban LE.mra": {
+   "hash": "243e0801bd59086519fd0a567a35b064",
+   "size": 3291,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_homebrew/Sokoban%20LE.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_homebrew/The Speccies 2.mra": {
+   "hash": "14450389d1673fcb906cb143dfe08c0a",
+   "size": 3274,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_homebrew/The%20Speccies%202.mra"
+  },
+  "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (Asia ver AAB).mra": {
+   "hash": "96682a82a46c4bd1222548ece84954db",
+   "size": 3718,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/2abb1ef54869290f85c996d93765f89e7c238338/mra/Violent%20Storm%20%28Asia%20ver%20AAB%29.mra"
+  },
+  "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (Asia ver AAC).mra": {
+   "hash": "d50903e7a89ad467aca4b1577d4d87c7",
+   "size": 3716,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/2abb1ef54869290f85c996d93765f89e7c238338/mra/Violent%20Storm%20%28Asia%20ver%20AAC%29.mra"
+  },
+  "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (Japan ver JAC).mra": {
+   "hash": "5033af3baffb45b90aa3b03b2c7524e3",
+   "size": 3718,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/2abb1ef54869290f85c996d93765f89e7c238338/mra/Violent%20Storm%20%28Japan%20ver%20JAC%29.mra"
+  },
+  "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (USA ver UAB).mra": {
+   "hash": "a4eea516b2210ae82eb316939bbfb4f2",
+   "size": 3716,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/2abb1ef54869290f85c996d93765f89e7c238338/mra/Violent%20Storm%20%28USA%20ver%20UAB%29.mra"
+  },
+  "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (USA ver UAC).mra": {
+   "hash": "5ca2bd3ecbfc9afa16b0e75b156e64fb",
+   "size": 3714,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/2abb1ef54869290f85c996d93765f89e7c238338/mra/Violent%20Storm%20%28USA%20ver%20UAC%29.mra"
+  },
+  "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (World ver EAB).mra": {
+   "hash": "5e6aa38e31d1130b6d201c70ffb0f257",
+   "size": 3720,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/2abb1ef54869290f85c996d93765f89e7c238338/mra/Violent%20Storm%20%28World%20ver%20EAB%29.mra"
+  },
+  "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (World ver EAC).mra": {
+   "hash": "fe83d8deee490e9eda930b76eeaa3772",
+   "size": 3716,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/2abb1ef54869290f85c996d93765f89e7c238338/mra/Violent%20Storm%20%28World%20ver%20EAC%29.mra"
+  },
+  "_Arcade/cores/PGM2_20261017e.rbf": {
+   "hash": "9113c0882f0ceb9b8578c76c81c3077f",
+   "size": 4290356,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/releases/_Arcade/cores/PGM2_20261017e.rbf"
+  },
+  "_Arcade/cores/gaiapolis_20261014.rbf": {
+   "hash": "b58505e6c72d5d52fc6f0b57570ec396",
+   "size": 4110416,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/c82e543ad41930ee4960c587c0c4acc244d8447e/releases/gaiapolis_20261014.rbf"
+  },
+  "_Arcade/cores/heavyunit_20261017.rbf": {
+   "hash": "cef98ffb74e641ff87bc9208fcc3cf05",
+   "size": 3750316,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/releases/heavyunit_20261017.rbf"
+  },
+  "_Arcade/cores/jchan_20261014.rbf": {
+   "hash": "ad9ab0827e6a09405c3e67e099cd5bbd",
+   "size": 4332888,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/920b7c9ac5c8503342cbb9949ee32740989bdc0b/releases/jchan_20261014.rbf"
+  },
+  "_Arcade/cores/mcatadv_20261005.rbf": {
+   "hash": "0bbdf10e9b81ece1c8b6588868193f7f",
+   "size": 3421740,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/46e3e47e842408bc8e5551e900be6ffa92c63bf4/releases/mcatadv_20261005.rbf"
+  },
+  "_Arcade/cores/metamorphicforce_20261014.rbf": {
+   "hash": "ab835dab8e2594df652f89298a936f35",
+   "size": 4033764,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/d0c6198c90257c17f38c53705eccd79c73ae52af/releases/metamorphicforce_20261014.rbf"
+  },
+  "_Arcade/cores/metro_20261018a.rbf": {
+   "hash": "213e8e126f4499537354b1271f5551cc",
+   "size": 4401332,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/releases/metro_20261018a.rbf"
+  },
+  "_Arcade/cores/metrod64_20261018a.rbf": {
+   "hash": "adc72375e4ed5a0736f6c6d0bc220d32",
+   "size": 4471112,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/releases/metrod64_20261018a.rbf"
+  },
+  "_Arcade/cores/metrof64_20261014c.rbf": {
+   "hash": "1cc3ce58316d515096db8d5cae589e3e",
+   "size": 4400772,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/19b93a0d05de50db60cc5c1718a3a78df133b6c8/releases/metrof64_20261014c.rbf"
+  },
+  "_Arcade/cores/monstermaulers_20261014.rbf": {
+   "hash": "f1a58f096732611ce3457c006e2b9d76",
+   "size": 4099588,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/fc1dfaecc8839a4311f2ddac7cade6a8655b9736/releases/monstermaulers_20261014.rbf"
+  },
+  "_Arcade/cores/ohmygod_20261010.rbf": {
+   "hash": "c81d59e5738fd9a41e7f68b6c08251df",
+   "size": 3053136,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/8ebc9e7d5b916dfa8b1939366b50f139287bbb8a/releases/ohmygod_20261010.rbf"
+  },
+  "_Arcade/cores/taitol_20261007.rbf": {
+   "hash": "5e8c809faa3b6e68b3ffb13da65f6a56",
+   "size": 3863676,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/releases/taitol_20261007.rbf"
+  },
+  "_Arcade/cores/violentstorm_20261014.rbf": {
+   "hash": "8616685e673873dceee5ab8492bc736c",
+   "size": 4065216,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/2abb1ef54869290f85c996d93765f89e7c238338/releases/violentstorm_20261014.rbf"
+  }
+ },
+ "folders": {
+  "_Arcade": {},
+  "_Arcade/_Decoryah": {},
+  "_Arcade/_Decoryah/_Gaiapolis": {},
+  "_Arcade/_Decoryah/_HeavyUnit": {},
+  "_Arcade/_Decoryah/_IGSPGM2": {},
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives": {},
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 2 New Legend": {},
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 3": {},
+  "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2": {},
+  "_Arcade/_Decoryah/_JackieChan": {},
+  "_Arcade/_Decoryah/_JackieChan/_alternatives": {},
+  "_Arcade/_Decoryah/_JackieChan/_alternatives/_Jackie Chan - The Kung-Fu Master": {},
+  "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus": {},
+  "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/_alternatives": {},
+  "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/_alternatives/_Magical Cat Adventure": {},
+  "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/_alternatives/_Nostradamus": {},
+  "_Arcade/_Decoryah/_MetamorphicForce": {},
+  "_Arcade/_Decoryah/_Metro": {},
+  "_Arcade/_Decoryah/_Metro/_alternatives": {},
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Bang Bang Ball": {},
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Daitoride": {},
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Dharma Doujou": {},
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Grand Striker 2": {},
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Lady Killer": {},
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Last Fortress - Toride": {},
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Mahjong Gakuensai": {},
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Pang Pom's": {},
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Pururun": {},
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Puzzli": {},
+  "_Arcade/_Decoryah/_Metro/_alternatives/_The Karate Tournament": {},
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Toride II Adauchi Gaiden": {},
+  "_Arcade/_Decoryah/_Metro/_alternatives/_Varia Metal": {},
+  "_Arcade/_Decoryah/_MonsterMaulers": {},
+  "_Arcade/_Decoryah/_OhMyGod": {},
+  "_Arcade/_Decoryah/_TaitoLSystem": {},
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives": {},
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Champion Wrestler": {},
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Fighting Hawk": {},
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Kuri Kinton": {},
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Palamedes": {},
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Play Girls": {},
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Play Girls 2": {},
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Plotting": {},
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Puzznic": {},
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Raimais": {},
+  "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Tube-It": {},
+  "_Arcade/_Decoryah/_TaitoLSystem/_homebrew": {},
+  "_Arcade/_Decoryah/_ViolentStorm": {},
+  "_Arcade/cores": {}
+ }
+}
