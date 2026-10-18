@@ -17,14 +17,19 @@ Output in ``--out`` (this is the ``db`` branch of the repository):
     cores.md               human-readable list of what is in it (with --readme also copied into the README)
     cache.json             git blob sha -> md5, so unchanged files are never downloaded again
     status.json            when the last check ran and when the database last changed
+    external_files.csv     ROM zip download list derived from the published MRAs (when enabled)
+    external_cache.json    remembered ROM zip sizes and md5s for archive.org outages
+    external_missing.json  ROM zip groups unavailable in the configured merged set
 
 Standard library and git only (Python 3.8+).
 """
 from __future__ import annotations
 
 import argparse
+import csv
 import datetime as dt
 import hashlib
+import io
 import json
 import os
 import posixpath
@@ -43,6 +48,8 @@ DATED = re.compile(r"^(?P<stem>.+?)_(?P<date>\d{8})(?P<rev>[a-z]*)\.rbf$", re.I)
 # the words dropped from a repository name to get its folder: Arcade-Metro_MiSTer -> Metro
 NAME_NOISE = re.compile(r"(^|[-_ ])(arcade|mister)(?=$|[-_ ])", re.I)
 
+ZIP_ATTR = re.compile(r"""<rom\b[^>]*?\bzip\s*=\s*["']([^"']+)["']""", re.I | re.S)
+
 DEFAULTS = {
     "owner": None,                      # default: GITHUB_REPOSITORY_OWNER
     "collection": "_Decoryah",          # MRAs go to _Arcade/<collection>/_<Name>/
@@ -56,6 +63,14 @@ DEFAULTS = {
     # not part of a release: build output, simulation, docs, and work-in-progress folders
     "ignore_paths": r"(^|/)(output_files|sim|docs?|\.github|unsupported|_dev)(/|$)",
     "keep_builds": 1,                   # newest N dated builds kept per core
+    # ROM zips the MRAs name, listed as external files (not copied; downloaded from the archive.org MAME set)
+    "external": {
+        "enabled": True,
+        "dest": "games/mame",
+        "item": "mame-roms-merged_",
+        "folder": "MAME ROMs (merged)",
+        "fallback_csv": "https://raw.githubusercontent.com/meathax/meatcores/main/external_files.csv",
+    },
 }
 
 
@@ -216,6 +231,8 @@ def scan_repo(full: str, work: str, cfg: dict, cache: dict) -> dict | None:
         add(f"_Arcade/cores/{name}" if category == "_Arcade" else f"{category}/{name}", path, sha, size)
 
     published, left_out = 0, []
+    zips: set[str] = set()
+    groups: set[tuple[str, ...]] = set()
     if mras and category == "_Arcade":
         root, left_out = mra_root([p for p, _, _ in mras], cfg["mra_roots"].get(full))
         top = "/".join(x.strip("/") for x in ("_Arcade", cfg["collection"], folder) if x.strip("/"))
@@ -224,12 +241,18 @@ def scan_repo(full: str, work: str, cfg: dict, cache: dict) -> dict | None:
                 continue
             add(f"{top}/{path[len(root) + 1:] if root else path}", path, sha, size)
             published += 1
+            if cfg["external"]["enabled"]:
+                text = subprocess.run(["git", "cat-file", "blob", sha], cwd=d, capture_output=True, check=True).stdout.decode("utf-8", "replace")
+                for m in ZIP_ATTR.finditer(text):
+                    names = tuple(z.strip() for z in m.group(1).split("|") if z.strip().lower().endswith(".zip"))
+                    zips.update(names)
+                    groups.add(names)
         if left_out:
             print(f"  {full}: MRAs taken from '{root or '.'}/'; also found in (not published): "
                   + ", ".join(f"'{r or '.'}/'" for r in left_out))
 
     return {"repo": full, "head": head, "category": category, "folder": folder if published else "",
-            "files": entries, "mras": published,
+            "files": entries, "mras": published, "zips": sorted(zips), "zip_groups": sorted(groups),
             "builds": [(posixpath.basename(p), w[0]) for w, p, _, _ in builds]}
 
 
@@ -240,7 +263,7 @@ def scan_repo(full: str, work: str, cfg: dict, cache: dict) -> dict | None:
 DB_VERSION = 1      # "v": the version of the Downloader database format (a spec field Downloader reads, not a build counter)
 
 
-def assemble(scans: list[dict], db_id: str, db_url: str) -> dict:
+def assemble(scans: list[dict], db_id: str, db_url: str, external: dict[str, dict] | None = None) -> dict:
     files: dict[str, dict] = {}
     for s in sorted(scans, key=lambda s: s["repo"].lower()):
         for dest, e in s["files"].items():
@@ -248,6 +271,8 @@ def assemble(scans: list[dict], db_id: str, db_url: str) -> dict:
                 print(f"warning: {dest} from {s['repo']} collides with an earlier repository; keeping the first", file=sys.stderr)
                 continue
             files[dest] = e
+    for dest, e in (external or {}).items():
+        files.setdefault(dest, e)
     folders: dict[str, dict] = {}
     for dest in files:
         parts = dest.split("/")[:-1]
@@ -255,6 +280,64 @@ def assemble(scans: list[dict], db_id: str, db_url: str) -> dict:
             folders["/".join(parts[:i])] = {}
     return {"db_id": db_id, "db_url": db_url, "v": DB_VERSION, "timestamp": int(dt.datetime.now(dt.timezone.utc).timestamp()),
             "files": dict(sorted(files.items())), "folders": dict(sorted(folders.items()))}
+
+
+def fetch(url: str, timeout: int = 120) -> bytes:
+    req = urllib.request.Request(url, headers={"User-Agent": "mister-db-builder"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read()
+
+
+def rom_index(ext: dict) -> dict[str, tuple[int, str]]:
+    """zip name -> (size, md5) of every zip in the archive.org item, falling back to a published CSV."""
+    index: dict[str, tuple[int, str]] = {}
+    try:
+        meta = json.loads(fetch(f"https://archive.org/metadata/{ext['item']}", 300))
+        prefix = ext["folder"].strip("/") + "/"
+        for f in meta.get("files", []):
+            n = f.get("name", "")
+            if n.startswith(prefix) and n.lower().endswith(".zip") and "/" not in n[len(prefix):] and f.get("md5") and f.get("size"):
+                index[n[len(prefix):]] = (int(f["size"]), f["md5"].lower())
+    except Exception as e:
+        print(f"warning: archive.org metadata unavailable ({e})", file=sys.stderr)
+    if not index and ext.get("fallback_csv"):
+        try:
+            for row in csv.reader(fetch(ext["fallback_csv"]).decode("utf-8").splitlines()[1:]):
+                if len(row) >= 4 and row[2].isdigit() and row[3]:
+                    index[posixpath.basename(row[0])] = (int(row[2]), row[3].lower())
+        except Exception as e:
+            print(f"warning: fallback external list unavailable ({e})", file=sys.stderr)
+    return index
+
+
+def external_files(scans: list[dict], ext: dict, known: dict) -> tuple[dict[str, dict], list[str]]:
+    """Database entries for every ROM zip the scanned MRAs name. `known` is the remembered
+    zip -> [size, md5], updated in place so an archive.org outage never drops entries."""
+    wanted = sorted({z for s in scans for z in s.get("zips", [])}, key=str.lower)
+    if any(z not in known for z in wanted):
+        for z, (size, md5) in rom_index(ext).items():
+            known[z] = [size, md5]
+    base = f"https://archive.org/download/{ext['item']}/{urllib.parse.quote(ext['folder'])}"
+    entries = {}
+    for z in wanted:
+        if z not in known:
+            continue
+        size, md5 = known[z]
+        # overwrite=false: a zip the user already has (from any set) is left alone
+        entries[f"{ext['dest'].strip('/')}/{z}"] = {"hash": md5, "size": size, "url": f"{base}/{urllib.parse.quote(z)}", "overwrite": False}
+    # a clone's zip is normally absent from a merged set; the MRA then names its parent too ("clone.zip|parent.zip"),
+    # so a zip only counts as missing when none of the zips in its list is available
+    missing = sorted({g[0] for s in scans for g in s.get("zip_groups", []) if g and not any(z in known for z in g)}, key=str.lower)
+    return entries, missing
+
+
+def external_csv(entries: dict[str, dict]) -> str:
+    out = io.StringIO()
+    w = csv.writer(out, lineterminator="\n")
+    w.writerow(["Path in MiSTer", "URL", "Size in bytes (optional but recommended)", "MD5 Hash (optional but recommended)", "Filter Terms (optional)"])
+    for p, e in sorted(entries.items()):
+        w.writerow([p, e["url"], e["size"], e["hash"], ""])
+    return out.getvalue()
 
 
 def signature(db: dict) -> dict:
@@ -313,6 +396,7 @@ def main() -> int:
     a = ap.parse_args()
 
     cfg = {**DEFAULTS, **load_json(a.config, {})}
+    cfg["external"] = {**DEFAULTS["external"], **(cfg.get("external") or {})}
     token = os.environ.get("GITHUB_TOKEN")
     self_full = os.environ.get("GITHUB_REPOSITORY")
     owner = a.owner or cfg["owner"] or os.environ.get("GITHUB_REPOSITORY_OWNER") or (self_full or "/").split("/")[0]
@@ -347,7 +431,24 @@ def main() -> int:
         print("error: no core repositories found; refusing to publish an empty database", file=sys.stderr)
         return 1
 
-    new = assemble(scans, db_id, db_url)
+    ext = cfg["external"]
+    ext_entries: dict[str, dict] = {}
+    if ext["enabled"]:
+        known = load_json(os.path.join(a.out, "external_cache.json"), {})
+        ext_entries, missing = external_files(scans, ext, known)
+        live_zips = {p.rsplit("/", 1)[1] for p in ext_entries}
+        write_json(os.path.join(a.out, "external_cache.json"), {z: known[z] for z in sorted(known) if z in live_zips}, indent=0)
+        print(f"{len(ext_entries)} external ROM zips; not in the archive.org set: {len(missing)}")
+        write_json(os.path.join(a.out, "external_missing.json"), missing, indent=0)
+        with open(os.path.join(a.out, "external_files.csv"), "w", encoding="utf-8", newline="") as f:
+            f.write(external_csv(ext_entries))
+    else:
+        # Do not leave a previously published ROM list active after disabling the feature.
+        for name in ("external_files.csv", "external_cache.json", "external_missing.json"):
+            path = os.path.join(a.out, name)
+            if os.path.exists(path):
+                os.remove(path)
+    new = assemble(scans, db_id, db_url, ext_entries)
     old = load_json(os.path.join(a.out, "db.json"), {})
     now = dt.datetime.now(dt.timezone.utc)
     status = load_json(os.path.join(a.out, "status.json"), {})
