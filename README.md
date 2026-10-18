@@ -1,5 +1,7 @@
 # MiSTer_decoryah
 
+[![Cores in this database](https://img.shields.io/badge/cores-list-blue)](https://github.com/decoryah/MiSTer_decoryah/blob/db/cores.md)
+
 A [Downloader](https://github.com/MiSTer-devel/Downloader_MiSTer) database of [decoryah](https://github.com/decoryah)'s
 public MiSTer arcade cores. It is rebuilt every day by GitHub Actions, so the cores, their latest builds and
 their MRAs on your MiSTer follow the source repositories.
