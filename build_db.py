@@ -14,7 +14,7 @@ source of truth.
 
 Output in ``--out`` (this is the ``db`` branch of the repository):
     db.json, db.json.zip   the Downloader database (the zip is what downloader.ini points at)
-    cores.md               human-readable list of what is in it
+    cores.md               human-readable list of what is in it (with --readme also copied into the README)
     cache.json             git blob sha -> md5, so unchanged files are never downloaded again
     status.json            when the last check ran and when the database last changed
 
@@ -288,6 +288,19 @@ def cores_markdown(scans: list[dict], db: dict, cfg: dict, when: str) -> str:
     return "\n".join(lines) + "\n"
 
 
+README_START, README_END = "<!-- cores:start -->", "<!-- cores:end -->"
+
+
+def splice_readme(readme: str, cores_md: str) -> str | None:
+    """``readme`` with the list of ``cores_md`` (without its title) between the markers, each on a line
+    of its own, or None without them."""
+    m = re.search(rf"^{re.escape(README_START)}[ \t]*$(.*?)^{re.escape(README_END)}[ \t]*$", readme, re.M | re.S)
+    if not m:
+        return None
+    body = re.sub(r"\A#[^\n]*\n+", "", cores_md).strip()
+    return f"{readme[:m.start(1)]}\n{body}\n{readme[m.end(1):]}"
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     ap.add_argument("--out", required=True, help="output directory (the db branch checkout)")
@@ -296,6 +309,7 @@ def main() -> int:
     ap.add_argument("--owner", help="GitHub user whose repositories to scan (default: config or GITHUB_REPOSITORY_OWNER)")
     ap.add_argument("--work", help="directory for repository clones (default: a temporary one)")
     ap.add_argument("--force", action="store_true", help="publish even when nothing changed")
+    ap.add_argument("--readme", help=f"also put the core list into this file, between {README_START} and {README_END}")
     a = ap.parse_args()
 
     cfg = {**DEFAULTS, **load_json(a.config, {})}
@@ -355,6 +369,22 @@ def main() -> int:
         status["checked"] = now.isoformat(timespec="seconds")
     write_json(os.path.join(a.out, "status.json"), status, indent=1)
     print("database changed" if changed else "database unchanged", f"({len(new['files'])} files)")
+    if a.readme:
+        # from cores.md rather than this run's scans, so the README always shows what is published
+        try:
+            with open(a.readme, encoding="utf-8") as f:
+                text = f.read()
+            with open(os.path.join(a.out, "cores.md"), encoding="utf-8") as f:
+                spliced = splice_readme(text, f.read())
+        except OSError as e:
+            print(f"warning: README not updated ({e})", file=sys.stderr)
+        else:
+            if spliced is None:
+                print(f"warning: {a.readme} has no {README_START} ... {README_END} section; not updated", file=sys.stderr)
+            elif spliced != text:
+                with open(a.readme, "w", encoding="utf-8", newline="\n") as f:
+                    f.write(spliced)
+                print(f"{a.readme} updated")
     return 0
 
 

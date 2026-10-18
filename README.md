@@ -16,7 +16,28 @@ or Downloader like any others):
 db_url = https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip
 ```
 
-What is currently in it is listed in [`cores.md`](https://github.com/decoryah/MiSTer_decoryah/blob/db/cores.md).
+## Cores
+
+What is in the database right now. The daily run refreshes this list whenever the database changes; the same
+list is in [`cores.md`](https://github.com/decoryah/MiSTer_decoryah/blob/db/cores.md) on the `db` branch.
+
+<!-- cores:start -->
+Updated 2026-10-18. 153 files from 11 repositories.
+
+| Repository | MRA folder | Builds | Latest build | MRAs |
+|---|---|---|---|---|
+| [decoryah/Arcade-Gaiapolis_MiSTer](https://github.com/decoryah/Arcade-Gaiapolis_MiSTer) | `_Arcade/_Decoryah/_Gaiapolis` | `gaiapolis_20261014.rbf` | 2026-10-14 | 3 |
+| [decoryah/Arcade-HeavyUnit_MiSTer](https://github.com/decoryah/Arcade-HeavyUnit_MiSTer) | `_Arcade/_Decoryah/_HeavyUnit` | `heavyunit_20261017.rbf` | 2026-10-17 | 5 |
+| [decoryah/Arcade-IGSPGM2_MiSTer](https://github.com/decoryah/Arcade-IGSPGM2_MiSTer) | `_Arcade/_Decoryah/_IGSPGM2` | `PGM2_20261017e.rbf` | 2026-10-17 | 21 |
+| [decoryah/Arcade-JackieChan_MiSTer](https://github.com/decoryah/Arcade-JackieChan_MiSTer) | `_Arcade/_Decoryah/_JackieChan` | `jchan_20261014.rbf` | 2026-10-14 | 3 |
+| [decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer](https://github.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer) | `_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus` | `mcatadv_20261005.rbf` | 2026-10-05 | 6 |
+| [decoryah/Arcade-MetamorphicForce_MiSTer](https://github.com/decoryah/Arcade-MetamorphicForce_MiSTer) | `_Arcade/_Decoryah/_MetamorphicForce` | `metamorphicforce_20261014.rbf` | 2026-10-14 | 5 |
+| [decoryah/Arcade-Metro_MiSTer](https://github.com/decoryah/Arcade-Metro_MiSTer) | `_Arcade/_Decoryah/_Metro` | `metro_20261018a.rbf`, `metrod64_20261018a.rbf`, `metrof64_20261014c.rbf` | 2026-10-18 | 47 |
+| [decoryah/Arcade-MonsterMaulers_MiSTer](https://github.com/decoryah/Arcade-MonsterMaulers_MiSTer) | `_Arcade/_Decoryah/_MonsterMaulers` | `monstermaulers_20261014.rbf` | 2026-10-14 | 3 |
+| [decoryah/Arcade-OhMyGod_MiSTer](https://github.com/decoryah/Arcade-OhMyGod_MiSTer) | `_Arcade/_Decoryah/_OhMyGod` | `ohmygod_20261010.rbf` | 2026-10-10 | 2 |
+| [decoryah/Arcade-TaitoLSystem_MiSTer](https://github.com/decoryah/Arcade-TaitoLSystem_MiSTer) | `_Arcade/_Decoryah/_TaitoLSystem` | `taitol_20261007.rbf` | 2026-10-07 | 38 |
+| [decoryah/Arcade-ViolentStorm_MiSTer](https://github.com/decoryah/Arcade-ViolentStorm_MiSTer) | `_Arcade/_Decoryah/_ViolentStorm` | `violentstorm_20261014.rbf` | 2026-10-14 | 7 |
+<!-- cores:end -->
 
 ## Layout on the SD card
 
@@ -81,9 +102,12 @@ config changes on `main`). It runs `build_db.py`, which
 2. clones the candidates (tree only, no checkout) and finds the builds and MRAs,
 3. hashes only files it has not seen before (`cache.json` maps git blob ids to md5),
 4. publishes `db.json`, `db.json.zip`, `cores.md`, `cache.json` and `status.json` to the **`db` branch**,
-   but only when a path, hash or size actually changed.
+   but only when a path, hash or size actually changed,
+5. copies the list from `cores.md` into the [Cores](#cores) section of this README on `main`
+   (between the `cores:start` and `cores:end` comment lines) when it differs.
 
-The `db` branch is machine-written; the source lives on `main`.
+The `db` branch is machine-written; the source lives on `main`. On `main` the workflow only ever changes the
+core list in this README, so run `git pull` before pushing if it has updated it.
 
 GitHub switches off scheduled workflows in repositories with no recent activity. When the database has not
 changed for a month, the run records a heartbeat in `status.json`, which keeps the schedule alive.
@@ -115,4 +139,5 @@ python build_db.py --out out --repos decoryah/Arcade-Metro_MiSTer,decoryah/Arcad
 ```
 
 `--repos` skips the GitHub API; without it the script asks the API for the owner's public repositories
-(`GITHUB_TOKEN` is optional and only raises the rate limit). Python 3.8+ and git; no packages.
+(`GITHUB_TOKEN` is optional and only raises the rate limit). `--readme README.md` also refreshes the core
+list here. Python 3.8+ and git; no packages.

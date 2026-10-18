@@ -49,7 +49,7 @@ jobs:
           fi
 
       - name: Build the database
-        run: python build_db.py --out out ${{ inputs.force && '--force' || '' }}
+        run: python build_db.py --out out --readme README.md ${{ inputs.force && '--force' || '' }}
 
       - name: Publish
         run: |
@@ -62,4 +62,20 @@ jobs:
           else
             git commit --quiet -m "Database $(date -u +%Y-%m-%d)"
             git push origin db
+          fi
+
+      # The core list in README.md on main follows cores.md. (A push made with GITHUB_TOKEN does not
+      # start another run of this workflow.)
+      - name: Update the README
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "README unchanged."
+          else
+            git commit --quiet -m "Update the core list in README"
+            git pull --quiet --rebase origin main
+            git push origin HEAD:main
           fi
