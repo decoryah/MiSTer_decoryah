@@ -2,8 +2,38 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1792385881,
+ "timestamp": 1792417386,
  "files": {
+  "_Arcade/_Decoryah/_CrossPang/Bestri (Korea, set 1).mra": {
+   "hash": "f508cf1a8e425eadfd19434918969c8d",
+   "size": 5316,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CrossPang_MiSTer/444dd5c03558a8676ce3d66c62cd712535602d97/mra/Bestri%20%28Korea%2C%20set%201%29.mra"
+  },
+  "_Arcade/_Decoryah/_CrossPang/Cross Pang.mra": {
+   "hash": "e9c6916541b838470fcb2d4c92c311a0",
+   "size": 4854,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CrossPang_MiSTer/444dd5c03558a8676ce3d66c62cd712535602d97/mra/Cross%20Pang.mra"
+  },
+  "_Arcade/_Decoryah/_CrossPang/Heuk Sun Baek Sa (Korea).mra": {
+   "hash": "bd3e3dae2ee362ce436d10d568ab7e02",
+   "size": 8439,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CrossPang_MiSTer/444dd5c03558a8676ce3d66c62cd712535602d97/mra/Heuk%20Sun%20Baek%20Sa%20%28Korea%29.mra"
+  },
+  "_Arcade/_Decoryah/_CrossPang/Pitapat Puzzle (set 1).mra": {
+   "hash": "d2dddfcc7b64b6c458b30c1cb1cbe68c",
+   "size": 5598,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CrossPang_MiSTer/444dd5c03558a8676ce3d66c62cd712535602d97/mra/Pitapat%20Puzzle%20%28set%201%29.mra"
+  },
+  "_Arcade/_Decoryah/_CrossPang/_alternatives/_Bestri/Bestri (Korea, set 2).mra": {
+   "hash": "3f0b19b43bbbfa9b42cfd8052b4c40c9",
+   "size": 5401,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CrossPang_MiSTer/444dd5c03558a8676ce3d66c62cd712535602d97/mra/_alternatives/_Bestri/Bestri%20%28Korea%2C%20set%202%29.mra"
+  },
+  "_Arcade/_Decoryah/_CrossPang/_alternatives/_Pitapat Puzzle/Pitapat Puzzle (set 2).mra": {
+   "hash": "30f02eb8c06657fffe6ba362fa59bcb9",
+   "size": 5641,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CrossPang_MiSTer/444dd5c03558a8676ce3d66c62cd712535602d97/mra/_alternatives/_Pitapat%20Puzzle/Pitapat%20Puzzle%20%28set%202%29.mra"
+  },
   "_Arcade/_Decoryah/_Gaiapolis/Gaiapolis (Japan ver JAF).mra": {
    "hash": "74993b618230b60959e2a35e9447a5e1",
    "size": 4000,
@@ -709,6 +739,11 @@
    "size": 4290356,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/releases/_Arcade/cores/PGM2_20261017e.rbf"
   },
+  "_Arcade/cores/crospang_20261019.rbf": {
+   "hash": "47587e6cdc01353dbeb68c3c23a4d6b4",
+   "size": 3267148,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CrossPang_MiSTer/444dd5c03558a8676ce3d66c62cd712535602d97/releases/crospang_20261019.rbf"
+  },
   "_Arcade/cores/gaiapolis_20261014.rbf": {
    "hash": "b58505e6c72d5d52fc6f0b57570ec396",
    "size": 4110416,
@@ -787,6 +822,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/bangball.zip",
    "overwrite": false
   },
+  "games/mame/bestri.zip": {
+   "hash": "1b8565f56b9a5ab48632ea293da3606c",
+   "size": 3537876,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/bestri.zip",
+   "overwrite": false
+  },
   "games/mame/blzntrnd.zip": {
    "hash": "6a37b71b5b518e1c930473585771f637",
    "size": 14762455,
@@ -803,6 +844,12 @@
    "hash": "c4d0a8367cb8b03dc72bbf0063428ad1",
    "size": 1013439,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/champwr.zip",
+   "overwrite": false
+  },
+  "games/mame/crospang.zip": {
+   "hash": "f875e80036e6f82be70150f03cecdfc7",
+   "size": 604559,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/crospang.zip",
    "overwrite": false
   },
   "games/mame/cubybop.zip": {
@@ -881,6 +928,12 @@
    "hash": "b6a335f828f95a4bf115819107ac3c6f",
    "size": 1499140,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gunmast.zip",
+   "overwrite": false
+  },
+  "games/mame/heuksun.zip": {
+   "hash": "743b6eb3779ef407f9b656dcb44420ea",
+   "size": 1344601,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/heuksun.zip",
    "overwrite": false
   },
   "games/mame/horshoes.zip": {
@@ -1015,6 +1068,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pangpoms.zip",
    "overwrite": false
   },
+  "games/mame/pitapat.zip": {
+   "hash": "21b3908b95922336293588023546db7e",
+   "size": 1588300,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pitapat.zip",
+   "overwrite": false
+  },
   "games/mame/plgirls.zip": {
    "hash": "dba6c1245ab84db73b7d1f38d611629c",
    "size": 436521,
@@ -1091,6 +1150,10 @@
  "folders": {
   "_Arcade": {},
   "_Arcade/_Decoryah": {},
+  "_Arcade/_Decoryah/_CrossPang": {},
+  "_Arcade/_Decoryah/_CrossPang/_alternatives": {},
+  "_Arcade/_Decoryah/_CrossPang/_alternatives/_Bestri": {},
+  "_Arcade/_Decoryah/_CrossPang/_alternatives/_Pitapat Puzzle": {},
   "_Arcade/_Decoryah/_Gaiapolis": {},
   "_Arcade/_Decoryah/_HeavyUnit": {},
   "_Arcade/_Decoryah/_IGSPGM2": {},
