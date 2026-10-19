@@ -20,10 +20,11 @@ What is in the database right now. Each run refreshes this list whenever the dat
 list is in [`cores.md`](https://github.com/decoryah/MiSTer_decoryah/blob/db/cores.md) on the `db` branch.
 
 <!-- cores:start -->
-Updated 2026-10-19. 206 files from 11 repositories.
+Updated 2026-10-19. 217 files from 12 repositories.
 
 | Repository | MRA folder | Builds | Latest build | MRAs |
 |---|---|---|---|---|
+| [decoryah/Arcade-CrossPang_MiSTer](https://github.com/decoryah/Arcade-CrossPang_MiSTer) | `_Arcade/_Decoryah/_CrossPang` | `crospang_20261019.rbf` | 2026-10-19 | 6 |
 | [decoryah/Arcade-Gaiapolis_MiSTer](https://github.com/decoryah/Arcade-Gaiapolis_MiSTer) | `_Arcade/_Decoryah/_Gaiapolis` | `gaiapolis_20261014.rbf` | 2026-10-14 | 3 |
 | [decoryah/Arcade-HeavyUnit_MiSTer](https://github.com/decoryah/Arcade-HeavyUnit_MiSTer) | `_Arcade/_Decoryah/_HeavyUnit` | `heavyunit_20261017.rbf` | 2026-10-17 | 5 |
 | [decoryah/Arcade-IGSPGM2_MiSTer](https://github.com/decoryah/Arcade-IGSPGM2_MiSTer) | `_Arcade/_Decoryah/_IGSPGM2` | `PGM2_20261017e.rbf` | 2026-10-17 | 21 |
