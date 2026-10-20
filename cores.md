@@ -1,6 +1,6 @@
 # Cores in this database
 
-Updated 2026-10-19. 217 files from 12 repositories.
+Updated 2026-10-20. 244 files from 14 repositories.
 
 | Repository | MRA folder | Builds | Latest build | MRAs |
 |---|---|---|---|---|
@@ -13,6 +13,8 @@ Updated 2026-10-19. 217 files from 12 repositories.
 | [decoryah/Arcade-MetamorphicForce_MiSTer](https://github.com/decoryah/Arcade-MetamorphicForce_MiSTer) | `_Arcade/_Decoryah/_MetamorphicForce` | `metamorphicforce_20261014.rbf` | 2026-10-14 | 5 |
 | [decoryah/Arcade-Metro_MiSTer](https://github.com/decoryah/Arcade-Metro_MiSTer) | `_Arcade/_Decoryah/_Metro` | `metro_20261018c.rbf`, `metrod64_20261018c.rbf`, `metrof64_20261014c.rbf` | 2026-10-18 | 47 |
 | [decoryah/Arcade-MonsterMaulers_MiSTer](https://github.com/decoryah/Arcade-MonsterMaulers_MiSTer) | `_Arcade/_Decoryah/_MonsterMaulers` | `monstermaulers_20261014.rbf` | 2026-10-14 | 3 |
+| [decoryah/Arcade-MysticWarriors_MiSTer](https://github.com/decoryah/Arcade-MysticWarriors_MiSTer) | `_Arcade/_Decoryah/_MysticWarriors` | `mysticwarriors_20261019.rbf` | 2026-10-19 | 5 |
 | [decoryah/Arcade-OhMyGod_MiSTer](https://github.com/decoryah/Arcade-OhMyGod_MiSTer) | `_Arcade/_Decoryah/_OhMyGod` | `ohmygod_20261010.rbf` | 2026-10-10 | 2 |
+| [decoryah/Arcade-Seta2_MiSTer](https://github.com/decoryah/Arcade-Seta2_MiSTer) | `_Arcade/_Decoryah/_Seta2` | `seta2_20261020.rbf`, `seta2grd_20261020.rbf`, `seta2pen_20261020.rbf` | 2026-10-20 | 10 |
 | [decoryah/Arcade-TaitoLSystem_MiSTer](https://github.com/decoryah/Arcade-TaitoLSystem_MiSTer) | `_Arcade/_Decoryah/_TaitoLSystem` | `taitol_20261007.rbf` | 2026-10-07 | 38 |
 | [decoryah/Arcade-ViolentStorm_MiSTer](https://github.com/decoryah/Arcade-ViolentStorm_MiSTer) | `_Arcade/_Decoryah/_ViolentStorm` | `violentstorm_20261014.rbf` | 2026-10-14 | 7 |

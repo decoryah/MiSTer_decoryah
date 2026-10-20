@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1792417386,
+ "timestamp": 1792532745,
  "files": {
   "_Arcade/_Decoryah/_CrossPang/Bestri (Korea, set 1).mra": {
    "hash": "f508cf1a8e425eadfd19434918969c8d",
@@ -499,6 +499,31 @@
    "size": 4898,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/fc1dfaecc8839a4311f2ddac7cade6a8655b9736/mra/Monster%20Maulers%20%28World%20ver%20EAA%29.mra"
   },
+  "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (Asia ver AAA).mra": {
+   "hash": "55dda4eb3178a61c23d7fc44845b2d91",
+   "size": 4383,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/7d1225ce3d390befb29292bba0dfa6478376ee13/mra/Mystic%20Warriors%20%28Asia%20ver%20AAA%29.mra"
+  },
+  "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (Asia ver AAB).mra": {
+   "hash": "5c767b0d8e2d7f0a7494981e5f8acb40",
+   "size": 4381,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/7d1225ce3d390befb29292bba0dfa6478376ee13/mra/Mystic%20Warriors%20%28Asia%20ver%20AAB%29.mra"
+  },
+  "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (Japan ver JAA).mra": {
+   "hash": "9af9de5a7e59d5cb08b4e8efa3979b4d",
+   "size": 4383,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/7d1225ce3d390befb29292bba0dfa6478376ee13/mra/Mystic%20Warriors%20%28Japan%20ver%20JAA%29.mra"
+  },
+  "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (USA ver UAA).mra": {
+   "hash": "491c81f12a32f9b8eb209b5d854e7743",
+   "size": 4379,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/7d1225ce3d390befb29292bba0dfa6478376ee13/mra/Mystic%20Warriors%20%28USA%20ver%20UAA%29.mra"
+  },
+  "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (World ver EAA).mra": {
+   "hash": "e02f21c5926fddef1b2743babdaa6279",
+   "size": 4368,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/7d1225ce3d390befb29292bba0dfa6478376ee13/mra/Mystic%20Warriors%20%28World%20ver%20EAA%29.mra"
+  },
   "_Arcade/_Decoryah/_OhMyGod/Naname de Magic! (Japan).mra": {
    "hash": "5c0fa3ba46c7181c6ba1769b51a0c196",
    "size": 2447,
@@ -508,6 +533,56 @@
    "hash": "4cfb69834c450de821818a11830785c3",
    "size": 2455,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/8ebc9e7d5b916dfa8b1939366b50f139287bbb8a/mra/Oh%20My%20God%21%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/Guardians.mra": {
+   "hash": "eaa8f5246f6c7eebd86544aac9bdc041",
+   "size": 5310,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/Guardians.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/Kosodate Quiz My Angel 2.mra": {
+   "hash": "d3258fa55693cbcc7951e6f1f43b0224",
+   "size": 4803,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/Kosodate%20Quiz%20My%20Angel%202.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/Kosodate Quiz My Angel.mra": {
+   "hash": "3b9e2e7bc0e06bb5032870acc552dbf4",
+   "size": 5033,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/Kosodate%20Quiz%20My%20Angel.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/Mobile Suit Gundam EX Revue.mra": {
+   "hash": "1e2af223ed90e0f605079aea30a4c15f",
+   "size": 5938,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/Mobile%20Suit%20Gundam%20EX%20Revue.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/Penguin Brothers.mra": {
+   "hash": "9a6ab07d2313b1f50aad6b7a0d8193d3",
+   "size": 4172,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/Penguin%20Brothers.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/Puzzle De Bowling.mra": {
+   "hash": "9c07202ca9ec85e1ae69079836b46bec",
+   "size": 4070,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/Puzzle%20De%20Bowling.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/Wakakusamonogatari Mahjong Yonshimai.mra": {
+   "hash": "24d4f32286e7eab9305ad76b2ea789b6",
+   "size": 4582,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/Wakakusamonogatari%20Mahjong%20Yonshimai.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Guardians/Guardians (P0-113A PCB).mra": {
+   "hash": "5990c73f0d257f0d99c21d04042698ba",
+   "size": 5455,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/_alternatives/_Guardians/Guardians%20%28P0-113A%20PCB%29.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Guardians/Guardians (bootleg).mra": {
+   "hash": "21b7c413a29887a1aaf2c271697d3a4d",
+   "size": 5044,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/_alternatives/_Guardians/Guardians%20%28bootleg%29.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Penguin Brothers/Hong Tian Lei (A-Blast).mra": {
+   "hash": "e076bca3adeabb40ac1a81109db95f11",
+   "size": 4218,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/_alternatives/_Penguin%20Brothers/Hong%20Tian%20Lei%20%28A-Blast%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/American Horseshoes (US).mra": {
    "hash": "f33dec0f5d57f1a6815608424004c565",
@@ -789,10 +864,30 @@
    "size": 4099588,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/fc1dfaecc8839a4311f2ddac7cade6a8655b9736/releases/monstermaulers_20261014.rbf"
   },
+  "_Arcade/cores/mysticwarriors_20261019.rbf": {
+   "hash": "c24f92c70f96bcc7ea669ec0afeff9c6",
+   "size": 4025540,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/7d1225ce3d390befb29292bba0dfa6478376ee13/releases/mysticwarriors_20261019.rbf"
+  },
   "_Arcade/cores/ohmygod_20261010.rbf": {
    "hash": "c81d59e5738fd9a41e7f68b6c08251df",
    "size": 3053136,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/8ebc9e7d5b916dfa8b1939366b50f139287bbb8a/releases/ohmygod_20261010.rbf"
+  },
+  "_Arcade/cores/seta2_20261020.rbf": {
+   "hash": "1709d6b0ed3c66dd1bae73516cdcf1c6",
+   "size": 4014572,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/releases/seta2_20261020.rbf"
+  },
+  "_Arcade/cores/seta2grd_20261020.rbf": {
+   "hash": "d92e31d24b3307a1c978489c9f9ca5f5",
+   "size": 4030472,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/releases/seta2grd_20261020.rbf"
+  },
+  "_Arcade/cores/seta2pen_20261020.rbf": {
+   "hash": "67ed4e14aa89c34f49f8a9869352df74",
+   "size": 4005256,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/releases/seta2pen_20261020.rbf"
   },
   "_Arcade/cores/taitol_20261007.rbf": {
    "hash": "5e8c809faa3b6e68b3ffb13da65f6a56",
@@ -918,10 +1013,22 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gakusai2.zip",
    "overwrite": false
   },
+  "games/mame/grdians.zip": {
+   "hash": "6978f77a5104e9f28d068bce05829d81",
+   "size": 31466027,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/grdians.zip",
+   "overwrite": false
+  },
   "games/mame/gstrik2.zip": {
    "hash": "8d8e619dc9c92a9e91fb1748261269d8",
    "size": 10567764,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gstrik2.zip",
+   "overwrite": false
+  },
+  "games/mame/gundamex.zip": {
+   "hash": "88a6c1cd2ed1f4e05a763bdc20e0e1c6",
+   "size": 7383257,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gundamex.zip",
    "overwrite": false
   },
   "games/mame/gunmast.zip": {
@@ -1014,6 +1121,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/metamrph.zip",
    "overwrite": false
   },
+  "games/mame/mj4simai.zip": {
+   "hash": "5b9a622872674b7d5776f11459348e44",
+   "size": 15761102,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/mj4simai.zip",
+   "overwrite": false
+  },
   "games/mame/mmaulers.zip": {
    "hash": "5b19a5bd49db0d9033d0d4b2b9d67531",
    "size": 9061486,
@@ -1030,6 +1143,24 @@
    "hash": "ef60a78382a96676379d4ffa5789090e",
    "size": 3158919,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/msgogo.zip",
+   "overwrite": false
+  },
+  "games/mame/myangel.zip": {
+   "hash": "1a1f13ce25e0111a79f6680f45a49bb2",
+   "size": 7770190,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/myangel.zip",
+   "overwrite": false
+  },
+  "games/mame/myangel2.zip": {
+   "hash": "033a62a3f5e495ffa9d52655d95947ba",
+   "size": 13964012,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/myangel2.zip",
+   "overwrite": false
+  },
+  "games/mame/mystwarr.zip": {
+   "hash": "ce6e70247f65a9fe829fb194dad8a1ec",
+   "size": 7279918,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/mystwarr.zip",
    "overwrite": false
   },
   "games/mame/naname.zip": {
@@ -1066,6 +1197,12 @@
    "hash": "0b08da62cd3d151fe67dd34d0e732532",
    "size": 1404177,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pangpoms.zip",
+   "overwrite": false
+  },
+  "games/mame/penbros.zip": {
+   "hash": "d553cdbf89c32fa2235e0eb4376149e4",
+   "size": 14457466,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/penbros.zip",
    "overwrite": false
   },
   "games/mame/pitapat.zip": {
@@ -1114,6 +1251,12 @@
    "hash": "1c52577990267cb15bc8ae15ae055277",
    "size": 413978,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/puzznic.zip",
+   "overwrite": false
+  },
+  "games/mame/pzlbowl.zip": {
+   "hash": "95676322c603204c00942631a2bec72f",
+   "size": 5900495,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pzlbowl.zip",
    "overwrite": false
   },
   "games/mame/raimais.zip": {
@@ -1185,7 +1328,12 @@
   "_Arcade/_Decoryah/_Metro/_alternatives/_Toride II Adauchi Gaiden": {},
   "_Arcade/_Decoryah/_Metro/_alternatives/_Varia Metal": {},
   "_Arcade/_Decoryah/_MonsterMaulers": {},
+  "_Arcade/_Decoryah/_MysticWarriors": {},
   "_Arcade/_Decoryah/_OhMyGod": {},
+  "_Arcade/_Decoryah/_Seta2": {},
+  "_Arcade/_Decoryah/_Seta2/_alternatives": {},
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Guardians": {},
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Penguin Brothers": {},
   "_Arcade/_Decoryah/_TaitoLSystem": {},
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives": {},
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Champion Wrestler": {},
