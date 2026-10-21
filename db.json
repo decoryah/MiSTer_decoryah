@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1792603580,
+ "timestamp": 1792619518,
  "files": {
   "_Arcade/_Decoryah/_ArcadiaSystems/Aaargh (Arcadia).mra": {
    "hash": "dd88b0fdd3c3b0e7b6d6ea36ad054cc6",
@@ -145,19 +145,19 @@
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-CrossPang_MiSTer/444dd5c03558a8676ce3d66c62cd712535602d97/mra/_alternatives/_Pitapat%20Puzzle/Pitapat%20Puzzle%20%28set%202%29.mra"
   },
   "_Arcade/_Decoryah/_Gaiapolis/Gaiapolis (Japan ver JAF).mra": {
-   "hash": "74993b618230b60959e2a35e9447a5e1",
-   "size": 4000,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/c82e543ad41930ee4960c587c0c4acc244d8447e/mra/Gaiapolis%20%28Japan%20ver%20JAF%29.mra"
+   "hash": "eb88ba43a6cb31906d0e866ec2250bc3",
+   "size": 3992,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/ed9319b4bcb2a7d6899fa136b38a3b6214a0a80c/mra/Gaiapolis%20%28Japan%20ver%20JAF%29.mra"
   },
   "_Arcade/_Decoryah/_Gaiapolis/Gaiapolis (USA ver UAF).mra": {
-   "hash": "16598c6e153df4d1ade4ee9e5f78527d",
-   "size": 3996,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/c82e543ad41930ee4960c587c0c4acc244d8447e/mra/Gaiapolis%20%28USA%20ver%20UAF%29.mra"
+   "hash": "99c8a221f0fef19cf3399a0d9ab0398a",
+   "size": 3988,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/ed9319b4bcb2a7d6899fa136b38a3b6214a0a80c/mra/Gaiapolis%20%28USA%20ver%20UAF%29.mra"
   },
   "_Arcade/_Decoryah/_Gaiapolis/Gaiapolis (World ver EAF).mra": {
-   "hash": "dd51ba6532d5f3189649def6b50777ef",
-   "size": 3998,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/c82e543ad41930ee4960c587c0c4acc244d8447e/mra/Gaiapolis%20%28World%20ver%20EAF%29.mra"
+   "hash": "24d4390cccd6782adde44e327d0e7295",
+   "size": 3990,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/ed9319b4bcb2a7d6899fa136b38a3b6214a0a80c/mra/Gaiapolis%20%28World%20ver%20EAF%29.mra"
   },
   "_Arcade/_Decoryah/_HeavyUnit/Heavy Unit (Japan, alternate ROM format).mra": {
    "hash": "d634fe85119f136fad6329c7d30fc1da",
@@ -185,124 +185,124 @@
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/mra/Heavy%20Unit%20-U.S.A.%20Version-%20%28US%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/DoDonPachi Dai-Ou-Jou Tamashii (V201, China).mra": {
-   "hash": "c9e6c237aef8673ef9a4db0a7b8057eb",
-   "size": 3574,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/DoDonPachi%20Dai-Ou-Jou%20Tamashii%20%28V201%2C%20China%29.mra"
+   "hash": "de717ad9201a3e8489b5ddbb7a26d155",
+   "size": 3568,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/DoDonPachi%20Dai-Ou-Jou%20Tamashii%20%28V201%2C%20China%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/Knights of Valour 2 New Legend (V302, Oversea).mra": {
-   "hash": "0066decbab073962f66bccbfb215cc07",
-   "size": 3525,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/Knights%20of%20Valour%202%20New%20Legend%20%28V302%2C%20Oversea%29.mra"
+   "hash": "1a7d260a3ab375d14bfdb219f3478184",
+   "size": 3522,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/Knights%20of%20Valour%202%20New%20Legend%20%28V302%2C%20Oversea%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/Knights of Valour 3 (V104, China, Hong Kong, Taiwan).mra": {
-   "hash": "a9ff902e20315d126fc35defbe65221d",
-   "size": 4134,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/Knights%20of%20Valour%203%20%28V104%2C%20China%2C%20Hong%20Kong%2C%20Taiwan%29.mra"
+   "hash": "6ed6a6539273e633952c177d9b06aa2d",
+   "size": 4131,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/Knights%20of%20Valour%203%20%28V104%2C%20China%2C%20Hong%20Kong%2C%20Taiwan%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/Oriental Legend 2 (V104, Oversea).mra": {
-   "hash": "d118ce2b75cc0716aa0d9e7a2a09e816",
-   "size": 3488,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/Oriental%20Legend%202%20%28V104%2C%20Oversea%29.mra"
+   "hash": "06b44bcf473c9f69b454ffa317eadbc7",
+   "size": 3485,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/Oriental%20Legend%202%20%28V104%2C%20Oversea%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/The King of Fighters '98 - Ultimate Match HERO (China, V100, 09-08-23).mra": {
-   "hash": "720ee53ff72967567a53147c9ad6ea54",
-   "size": 4164,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/The%20King%20of%20Fighters%20%2798%20-%20Ultimate%20Match%20HERO%20%28China%2C%20V100%2C%2009-08-23%29.mra"
+   "hash": "81efe6cb302d2779ec89eecb5a7f8bd6",
+   "size": 4174,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/The%20King%20of%20Fighters%20%2798%20-%20Ultimate%20Match%20HERO%20%28China%2C%20V100%2C%2009-08-23%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 2 New Legend/Knights of Valour 2 New Legend (V300, Oversea).mra": {
-   "hash": "70531f5fff2dc70ec4fdb7e7a18c16c4",
-   "size": 3544,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Knights%20of%20Valour%202%20New%20Legend%20%28V300%2C%20Oversea%29.mra"
+   "hash": "feed58db20c25763b6120b34e2ee5712",
+   "size": 3541,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Knights%20of%20Valour%202%20New%20Legend%20%28V300%2C%20Oversea%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 2 New Legend/Knights of Valour 2 New Legend (V301, Oversea).mra": {
-   "hash": "eff30b44e6807a4bef53eebc1146b50e",
-   "size": 3544,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Knights%20of%20Valour%202%20New%20Legend%20%28V301%2C%20Oversea%29.mra"
+   "hash": "459702516c409f3a2e297992237c1440",
+   "size": 3541,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Knights%20of%20Valour%202%20New%20Legend%20%28V301%2C%20Oversea%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 2 New Legend/Sanguo Zhan Ji 2 Gaishi Yingxiong (V300, China).mra": {
-   "hash": "d242a3fcb13e4413feb53de00a6537b6",
-   "size": 3561,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Sanguo%20Zhan%20Ji%202%20Gaishi%20Yingxiong%20%28V300%2C%20China%29.mra"
+   "hash": "8fcdca2a791d0fcb0aca1708ceea4a47",
+   "size": 3558,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Sanguo%20Zhan%20Ji%202%20Gaishi%20Yingxiong%20%28V300%2C%20China%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 2 New Legend/Sanguo Zhan Ji 2 Gaishi Yingxiong (V301, China).mra": {
-   "hash": "1675a94bf7fcc0f0094c21b7e6fc67a0",
-   "size": 3561,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Sanguo%20Zhan%20Ji%202%20Gaishi%20Yingxiong%20%28V301%2C%20China%29.mra"
+   "hash": "5419f318db2bdce670177620f4b2dcf9",
+   "size": 3558,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Sanguo%20Zhan%20Ji%202%20Gaishi%20Yingxiong%20%28V301%2C%20China%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 2 New Legend/Sanguo Zhan Ji 2 Gaishi Yingxiong (V302, China).mra": {
-   "hash": "031ac08f4634363d09f270e08e6b6f34",
-   "size": 3561,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Sanguo%20Zhan%20Ji%202%20Gaishi%20Yingxiong%20%28V302%2C%20China%29.mra"
+   "hash": "8c680df1f33e6dc33379f275eb348eef",
+   "size": 3558,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Knights%20of%20Valour%202%20New%20Legend/Sanguo%20Zhan%20Ji%202%20Gaishi%20Yingxiong%20%28V302%2C%20China%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 3/Knights of Valour 3 (V100, China, Hong Kong, Taiwan).mra": {
-   "hash": "a70de36b15ea4e244aa9fb104a25f137",
-   "size": 4164,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%203/Knights%20of%20Valour%203%20%28V100%2C%20China%2C%20Hong%20Kong%2C%20Taiwan%29.mra"
+   "hash": "201e5a607eefb9257fa6a9f19611f3c3",
+   "size": 4161,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Knights%20of%20Valour%203/Knights%20of%20Valour%203%20%28V100%2C%20China%2C%20Hong%20Kong%2C%20Taiwan%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 3/Knights of Valour 3 (V101, China, Hong Kong, Taiwan).mra": {
-   "hash": "23066fdaed3fc1e717d710f0dc6f5537",
-   "size": 4158,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%203/Knights%20of%20Valour%203%20%28V101%2C%20China%2C%20Hong%20Kong%2C%20Taiwan%29.mra"
+   "hash": "d97c082c986ca44a8f0a6dbfc1559c68",
+   "size": 4155,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Knights%20of%20Valour%203/Knights%20of%20Valour%203%20%28V101%2C%20China%2C%20Hong%20Kong%2C%20Taiwan%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 3/Knights of Valour 3 (V102, China, Hong Kong, Taiwan).mra": {
-   "hash": "b40c68bfd0b7e5fad18e8de997b24fb5",
-   "size": 4164,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Knights%20of%20Valour%203/Knights%20of%20Valour%203%20%28V102%2C%20China%2C%20Hong%20Kong%2C%20Taiwan%29.mra"
+   "hash": "8ad155d8d740b36923d48f2e4f61431f",
+   "size": 4161,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Knights%20of%20Valour%203/Knights%20of%20Valour%203%20%28V102%2C%20China%2C%20Hong%20Kong%2C%20Taiwan%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Oriental Legend 2 (V101, Oversea).mra": {
-   "hash": "1999632a34e57e8f6a2b78c46ed587f0",
-   "size": 3507,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Oriental%20Legend%202%20%28V101%2C%20Oversea%29.mra"
+   "hash": "634a67824f9a17820d484a1d02721879",
+   "size": 3504,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Oriental%20Legend%202/Oriental%20Legend%202%20%28V101%2C%20Oversea%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Oriental Legend 2 (V103, Oversea).mra": {
-   "hash": "c57c71bc887d9fac27d726562d3ddd98",
-   "size": 3507,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Oriental%20Legend%202%20%28V103%2C%20Oversea%29.mra"
+   "hash": "cc174567bc289d6c29cc24fe3d69e618",
+   "size": 3504,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Oriental%20Legend%202/Oriental%20Legend%202%20%28V103%2C%20Oversea%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Saiyuu Shakuyakuden 2 (V101, Japan).mra": {
-   "hash": "a929fe677c221cd57bd548cce41d203d",
-   "size": 3530,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Saiyuu%20Shakuyakuden%202%20%28V101%2C%20Japan%29.mra"
+   "hash": "11bbbebd84cb745bb4fe558cd7f40291",
+   "size": 3527,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Oriental%20Legend%202/Saiyuu%20Shakuyakuden%202%20%28V101%2C%20Japan%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Saiyuu Shakuyakuden 2 (V103, Japan).mra": {
-   "hash": "d0066d779b7dda46f87488dc8bf6fc42",
-   "size": 3530,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Saiyuu%20Shakuyakuden%202%20%28V103%2C%20Japan%29.mra"
+   "hash": "fdd904d1ccecc4d3d616ed707e7d5b73",
+   "size": 3527,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Oriental%20Legend%202/Saiyuu%20Shakuyakuden%202%20%28V103%2C%20Japan%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Saiyuu Shakuyakuden 2 (V104, Japan).mra": {
-   "hash": "e7d1de89f10698097d895757aebab1d1",
-   "size": 3530,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Saiyuu%20Shakuyakuden%202%20%28V104%2C%20Japan%29.mra"
+   "hash": "185ba2d87134813759667a628fee84c1",
+   "size": 3527,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Oriental%20Legend%202/Saiyuu%20Shakuyakuden%202%20%28V104%2C%20Japan%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Xiyou Shi E Zhuan 2 (V101, China).mra": {
-   "hash": "2437f1c2a49d1cd57948c16e2c7e207a",
-   "size": 3531,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Xiyou%20Shi%20E%20Zhuan%202%20%28V101%2C%20China%29.mra"
+   "hash": "0c32b49d8e9edb6c31e8a222cd605e01",
+   "size": 3528,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Oriental%20Legend%202/Xiyou%20Shi%20E%20Zhuan%202%20%28V101%2C%20China%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Xiyou Shi E Zhuan 2 (V103, China).mra": {
-   "hash": "1842d24bb3a516d1b1b413e46086ca25",
-   "size": 3531,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Xiyou%20Shi%20E%20Zhuan%202%20%28V103%2C%20China%29.mra"
+   "hash": "13068683d7892432b5e499908953e234",
+   "size": 3528,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Oriental%20Legend%202/Xiyou%20Shi%20E%20Zhuan%202%20%28V103%2C%20China%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Oriental Legend 2/Xiyou Shi E Zhuan 2 (V104, China).mra": {
-   "hash": "5c6cda0efaf52d544b60143161b13fc2",
-   "size": 3531,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/mra/_alternatives/_Oriental%20Legend%202/Xiyou%20Shi%20E%20Zhuan%202%20%28V104%2C%20China%29.mra"
+   "hash": "361a8805d9426de84b93af72f37da7e0",
+   "size": 3528,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/mra/_alternatives/_Oriental%20Legend%202/Xiyou%20Shi%20E%20Zhuan%202%20%28V104%2C%20China%29.mra"
   },
   "_Arcade/_Decoryah/_JackieChan/Jackie Chan - The Kung-Fu Master (rev 4).mra": {
-   "hash": "efe48a0784156db105cd5b95493074bd",
-   "size": 3841,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/920b7c9ac5c8503342cbb9949ee32740989bdc0b/mra/Jackie%20Chan%20-%20The%20Kung-Fu%20Master%20%28rev%204%29.mra"
+   "hash": "c34c7537de43cf108d789f0213f2a52c",
+   "size": 3851,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/1ab56bd629b301ddf447f35b8616d0831feb9d97/mra/Jackie%20Chan%20-%20The%20Kung-Fu%20Master%20%28rev%204%29.mra"
   },
   "_Arcade/_Decoryah/_JackieChan/Jackie Chan in Fists of Fire.mra": {
-   "hash": "1782e8a2513e72e83749f8c9da71eb08",
-   "size": 3814,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/920b7c9ac5c8503342cbb9949ee32740989bdc0b/mra/Jackie%20Chan%20in%20Fists%20of%20Fire.mra"
+   "hash": "1755481d4b89adf4f0644e28236f9aa6",
+   "size": 3824,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/1ab56bd629b301ddf447f35b8616d0831feb9d97/mra/Jackie%20Chan%20in%20Fists%20of%20Fire.mra"
   },
   "_Arcade/_Decoryah/_JackieChan/_alternatives/_Jackie Chan - The Kung-Fu Master/Jackie Chan - The Kung-Fu Master (rev 3).mra": {
-   "hash": "d569ee722c9e31cc39fd0f72611fcaa4",
-   "size": 3853,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/920b7c9ac5c8503342cbb9949ee32740989bdc0b/mra/_alternatives/_Jackie%20Chan%20-%20The%20Kung-Fu%20Master/Jackie%20Chan%20-%20The%20Kung-Fu%20Master%20%28rev%203%29.mra"
+   "hash": "b7e05275152ee59d3a8c53a7aa7ecb11",
+   "size": 3863,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/1ab56bd629b301ddf447f35b8616d0831feb9d97/mra/_alternatives/_Jackie%20Chan%20-%20The%20Kung-Fu%20Master/Jackie%20Chan%20-%20The%20Kung-Fu%20Master%20%28rev%203%29.mra"
   },
   "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/Magical Cat Adventure.mra": {
    "hash": "05676c2f7f887df8cc5e00961ceed2c7",
@@ -987,7 +987,7 @@
   "_Arcade/cores/PGM2_20261017e.rbf": {
    "hash": "9113c0882f0ceb9b8578c76c81c3077f",
    "size": 4290356,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/releases/_Arcade/cores/PGM2_20261017e.rbf"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/releases/_Arcade/cores/PGM2_20261017e.rbf"
   },
   "_Arcade/cores/arcadiasystems_20261021.rbf": {
    "hash": "3d200c065ea54a3a617df38d8d37f2d0",
@@ -1002,7 +1002,7 @@
   "_Arcade/cores/gaiapolis_20261014.rbf": {
    "hash": "b58505e6c72d5d52fc6f0b57570ec396",
    "size": 4110416,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/c82e543ad41930ee4960c587c0c4acc244d8447e/releases/gaiapolis_20261014.rbf"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/ed9319b4bcb2a7d6899fa136b38a3b6214a0a80c/releases/gaiapolis_20261014.rbf"
   },
   "_Arcade/cores/heavyunit_20261017.rbf": {
    "hash": "cef98ffb74e641ff87bc9208fcc3cf05",
@@ -1012,7 +1012,7 @@
   "_Arcade/cores/jchan_20261014.rbf": {
    "hash": "ad9ab0827e6a09405c3e67e099cd5bbd",
    "size": 4332888,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/920b7c9ac5c8503342cbb9949ee32740989bdc0b/releases/jchan_20261014.rbf"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/1ab56bd629b301ddf447f35b8616d0831feb9d97/releases/jchan_20261014.rbf"
   },
   "_Arcade/cores/mcatadv_20261005.rbf": {
    "hash": "0bbdf10e9b81ece1c8b6588868193f7f",
