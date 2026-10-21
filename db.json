@@ -2,8 +2,118 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1792532745,
+ "timestamp": 1792603580,
  "files": {
+  "_Arcade/_Decoryah/_ArcadiaSystems/Aaargh (Arcadia).mra": {
+   "hash": "dd88b0fdd3c3b0e7b6d6ea36ad054cc6",
+   "size": 3959,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/Aaargh%20%28Arcadia%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/Blastaball (Arcadia, V 2.1).mra": {
+   "hash": "f646e66999c735df60cd4b360fb3e32e",
+   "size": 2553,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/Blastaball%20%28Arcadia%2C%20V%202.1%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/Delta Command (Arcadia).mra": {
+   "hash": "ac3ba8351128e5da253326162bbcf583",
+   "size": 3298,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/Delta%20Command%20%28Arcadia%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/Leader Board Golf (Arcadia, set 1, V 2.5).mra": {
+   "hash": "c3a08ece3d1442faef4becb0cf290cad",
+   "size": 3492,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/Leader%20Board%20Golf%20%28Arcadia%2C%20set%201%2C%20V%202.5%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/Magic Johnson's Fast Break (Arcadia, V 2.8).mra": {
+   "hash": "cd66bdc875836595c13b0e7f37774ef5",
+   "size": 3340,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/Magic%20Johnson%27s%20Fast%20Break%20%28Arcadia%2C%20V%202.8%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/Ninja Mission (Arcadia, set 1, V 2.5).mra": {
+   "hash": "ac2d549210d0e428c39e02e569b1d344",
+   "size": 2869,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/Ninja%20Mission%20%28Arcadia%2C%20set%201%2C%20V%202.5%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/Pharaohs Match (Arcadia).mra": {
+   "hash": "60aef450c0067d35261c110e39c82433",
+   "size": 2120,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/Pharaohs%20Match%20%28Arcadia%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/RoadWars (Arcadia, V 2.3).mra": {
+   "hash": "847fa0c5467d7610083015847686ea3b",
+   "size": 2484,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/RoadWars%20%28Arcadia%2C%20V%202.3%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/Sidewinder (Arcadia, set 1, V 2.1).mra": {
+   "hash": "77e56c4060d588f67795039a958e9140",
+   "size": 2854,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/Sidewinder%20%28Arcadia%2C%20set%201%2C%20V%202.1%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/Space Ranger (Arcadia, V 2.0).mra": {
+   "hash": "cb0abc079453c6c0021e908d369231d1",
+   "size": 2490,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/Space%20Ranger%20%28Arcadia%2C%20V%202.0%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/SportTime Bowling (Arcadia, V 2.1).mra": {
+   "hash": "f31ee9e181c95b4033cc3db0a8040368",
+   "size": 2317,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/SportTime%20Bowling%20%28Arcadia%2C%20V%202.1%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/SportTime Table Hockey (Arcadia, set 1, V 2.1).mra": {
+   "hash": "05522797f3e8d15b9e8af6373c48d4b1",
+   "size": 1973,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/SportTime%20Table%20Hockey%20%28Arcadia%2C%20set%201%2C%20V%202.1%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/Spot (Arcadia, V 2.0).mra": {
+   "hash": "d62c460ecc59bc024a770e173f318c88",
+   "size": 3173,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/Spot%20%28Arcadia%2C%20V%202.0%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/World Darts (Arcadia, set 1, V 2.1).mra": {
+   "hash": "27504176f813d9cc9b90ec2ef181c96b",
+   "size": 2856,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/World%20Darts%20%28Arcadia%2C%20set%201%2C%20V%202.1%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/World Trophy Soccer (Arcadia, V 3.0).mra": {
+   "hash": "013a78500f6c67b108ce7bbd43413244",
+   "size": 2856,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/World%20Trophy%20Soccer%20%28Arcadia%2C%20V%203.0%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/Xenon (Arcadia, V 2.3).mra": {
+   "hash": "ae7d296b5e837f5e5e14fad164d553a8",
+   "size": 2489,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/Xenon%20%28Arcadia%2C%20V%202.3%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_Leader Board Golf/Leader Board Golf (Arcadia, set 2, V 2.4).mra": {
+   "hash": "296affe921586737926f23123a85203a",
+   "size": 3506,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/_alternatives/_Leader%20Board%20Golf/Leader%20Board%20Golf%20%28Arcadia%2C%20set%202%2C%20V%202.4%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_Leader Board Golf/Leader Board Golf (Arcadia, set 3).mra": {
+   "hash": "f5556baee93432089d3dc485a829a097",
+   "size": 3250,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/_alternatives/_Leader%20Board%20Golf/Leader%20Board%20Golf%20%28Arcadia%2C%20set%203%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_Magic Johnson's Fast Break/Magic Johnson's Fast Break (Arcadia, V 2.7).mra": {
+   "hash": "25a6580ae221d3cd5088cfbd76386766",
+   "size": 3354,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/_alternatives/_Magic%20Johnson%27s%20Fast%20Break/Magic%20Johnson%27s%20Fast%20Break%20%28Arcadia%2C%20V%202.7%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_Ninja Mission/Ninja Mission (Arcadia, set 2).mra": {
+   "hash": "f9b024d9d60eddb59db94519cce35c1e",
+   "size": 2884,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/_alternatives/_Ninja%20Mission/Ninja%20Mission%20%28Arcadia%2C%20set%202%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_Sidewinder/Sidewinder (Arcadia, set 2).mra": {
+   "hash": "be44bcf5e74861570c29ab32c4d6543a",
+   "size": 2869,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/_alternatives/_Sidewinder/Sidewinder%20%28Arcadia%2C%20set%202%29.mra"
+  },
+  "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_SportTime Table Hockey/SportTime Table Hockey (Arcadia, set 2).mra": {
+   "hash": "1143c2d73ff63b685367e4a3fe5f4691",
+   "size": 1981,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/_alternatives/_SportTime%20Table%20Hockey/SportTime%20Table%20Hockey%20%28Arcadia%2C%20set%202%29.mra"
+  },
   "_Arcade/_Decoryah/_CrossPang/Bestri (Korea, set 1).mra": {
    "hash": "f508cf1a8e425eadfd19434918969c8d",
    "size": 5316,
@@ -534,55 +644,120 @@
    "size": 2455,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/8ebc9e7d5b916dfa8b1939366b50f139287bbb8a/mra/Oh%20My%20God%21%20%28Japan%29.mra"
   },
+  "_Arcade/_Decoryah/_Seta2/Deer Hunting USA.mra": {
+   "hash": "b64e6f1b2d2decddba28ef5759197d6f",
+   "size": 4100,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/Deer%20Hunting%20USA.mra"
+  },
   "_Arcade/_Decoryah/_Seta2/Guardians.mra": {
-   "hash": "eaa8f5246f6c7eebd86544aac9bdc041",
-   "size": 5310,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/Guardians.mra"
+   "hash": "7613921f4c13ddecce61900bfd253315",
+   "size": 5299,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/Guardians.mra"
   },
   "_Arcade/_Decoryah/_Seta2/Kosodate Quiz My Angel 2.mra": {
-   "hash": "d3258fa55693cbcc7951e6f1f43b0224",
-   "size": 4803,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/Kosodate%20Quiz%20My%20Angel%202.mra"
+   "hash": "8168fb6a7888dc1b2c80d29775590401",
+   "size": 4798,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/Kosodate%20Quiz%20My%20Angel%202.mra"
   },
   "_Arcade/_Decoryah/_Seta2/Kosodate Quiz My Angel.mra": {
-   "hash": "3b9e2e7bc0e06bb5032870acc552dbf4",
-   "size": 5033,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/Kosodate%20Quiz%20My%20Angel.mra"
+   "hash": "db310923c7e8acd6a757643877d84cab",
+   "size": 5028,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/Kosodate%20Quiz%20My%20Angel.mra"
   },
   "_Arcade/_Decoryah/_Seta2/Mobile Suit Gundam EX Revue.mra": {
-   "hash": "1e2af223ed90e0f605079aea30a4c15f",
-   "size": 5938,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/Mobile%20Suit%20Gundam%20EX%20Revue.mra"
+   "hash": "ec512630cffb2de45deb199ffcc28dce",
+   "size": 5933,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/Mobile%20Suit%20Gundam%20EX%20Revue.mra"
   },
   "_Arcade/_Decoryah/_Seta2/Penguin Brothers.mra": {
    "hash": "9a6ab07d2313b1f50aad6b7a0d8193d3",
    "size": 4172,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/Penguin%20Brothers.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/Penguin%20Brothers.mra"
   },
   "_Arcade/_Decoryah/_Seta2/Puzzle De Bowling.mra": {
-   "hash": "9c07202ca9ec85e1ae69079836b46bec",
-   "size": 4070,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/Puzzle%20De%20Bowling.mra"
+   "hash": "3282a1457a802d945df4b4e517c553c1",
+   "size": 4063,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/Puzzle%20De%20Bowling.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/Trophy Hunting - Bear & Moose.mra": {
+   "hash": "b61be36632f21286bb10cdd6d09810a2",
+   "size": 4622,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/Trophy%20Hunting%20-%20Bear%20%26%20Moose.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/Turkey Hunting USA.mra": {
+   "hash": "82848ee93b77468ecb90e7fbd6a5ebcc",
+   "size": 4093,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/Turkey%20Hunting%20USA.mra"
   },
   "_Arcade/_Decoryah/_Seta2/Wakakusamonogatari Mahjong Yonshimai.mra": {
-   "hash": "24d4f32286e7eab9305ad76b2ea789b6",
-   "size": 4582,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/Wakakusamonogatari%20Mahjong%20Yonshimai.mra"
+   "hash": "40f88e189baf721e48dbab170fbcb0dc",
+   "size": 4578,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/Wakakusamonogatari%20Mahjong%20Yonshimai.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/Wing Shooting Championship.mra": {
+   "hash": "87f864166ac0e9e93b76e9ec9d02c6d6",
+   "size": 4614,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/Wing%20Shooting%20Championship.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Deer Hunting USA/Deer Hunting USA (V1).mra": {
+   "hash": "ebd20b1f0cbeb4d48dec6e5d41a87f6e",
+   "size": 4129,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/_alternatives/_Deer%20Hunting%20USA/Deer%20Hunting%20USA%20%28V1%29.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Deer Hunting USA/Deer Hunting USA (V2).mra": {
+   "hash": "2bc22c10e8e6df82cd8e6a4f3ad2050d",
+   "size": 4129,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/_alternatives/_Deer%20Hunting%20USA/Deer%20Hunting%20USA%20%28V2%29.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Deer Hunting USA/Deer Hunting USA (V3).mra": {
+   "hash": "145f5ba0a79721b2717c06dd183f7991",
+   "size": 4129,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/_alternatives/_Deer%20Hunting%20USA/Deer%20Hunting%20USA%20%28V3%29.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Deer Hunting USA/Deer Hunting USA (V4.0).mra": {
+   "hash": "274bedf7df7c767acab8100d4bdddbe4",
+   "size": 4131,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/_alternatives/_Deer%20Hunting%20USA/Deer%20Hunting%20USA%20%28V4.0%29.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Deer Hunting USA/Deer Hunting USA (V4.2).mra": {
+   "hash": "cce6c2ec4bd91433b3a988627ee4b435",
+   "size": 4145,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/_alternatives/_Deer%20Hunting%20USA/Deer%20Hunting%20USA%20%28V4.2%29.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Deer Hunting USA/Deer Hunting USA (V4.4.1, Japan).mra": {
+   "hash": "f75bea7e9a415b952efec027095a78df",
+   "size": 4153,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/_alternatives/_Deer%20Hunting%20USA/Deer%20Hunting%20USA%20%28V4.4.1%2C%20Japan%29.mra"
   },
   "_Arcade/_Decoryah/_Seta2/_alternatives/_Guardians/Guardians (P0-113A PCB).mra": {
-   "hash": "5990c73f0d257f0d99c21d04042698ba",
-   "size": 5455,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/_alternatives/_Guardians/Guardians%20%28P0-113A%20PCB%29.mra"
+   "hash": "f9154c281842367c2697758bf2d3d7ac",
+   "size": 5444,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/_alternatives/_Guardians/Guardians%20%28P0-113A%20PCB%29.mra"
   },
   "_Arcade/_Decoryah/_Seta2/_alternatives/_Guardians/Guardians (bootleg).mra": {
-   "hash": "21b7c413a29887a1aaf2c271697d3a4d",
-   "size": 5044,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/_alternatives/_Guardians/Guardians%20%28bootleg%29.mra"
+   "hash": "1913354a2eed322470445867174c3725",
+   "size": 5033,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/_alternatives/_Guardians/Guardians%20%28bootleg%29.mra"
   },
   "_Arcade/_Decoryah/_Seta2/_alternatives/_Penguin Brothers/Hong Tian Lei (A-Blast).mra": {
    "hash": "e076bca3adeabb40ac1a81109db95f11",
    "size": 4218,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/mra/_alternatives/_Penguin%20Brothers/Hong%20Tian%20Lei%20%28A-Blast%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/_alternatives/_Penguin%20Brothers/Hong%20Tian%20Lei%20%28A-Blast%29.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Trophy Hunting - Bear & Moose/Trophy Hunting - Bear & Moose (location test).mra": {
+   "hash": "c0c7be1bda4d2bdd5155714b5e2f3662",
+   "size": 4712,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/_alternatives/_Trophy%20Hunting%20-%20Bear%20%26%20Moose/Trophy%20Hunting%20-%20Bear%20%26%20Moose%20%28location%20test%29.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Wing Shooting Championship/Wing Shooting Championship (V1.00).mra": {
+   "hash": "f46e6277995b31ff8c095c9ecdc92025",
+   "size": 4647,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/_alternatives/_Wing%20Shooting%20Championship/Wing%20Shooting%20Championship%20%28V1.00%29.mra"
+  },
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Wing Shooting Championship/Wing Shooting Championship (V1.01).mra": {
+   "hash": "1085ef5e8c1dcf07975ee57b4ae5bada",
+   "size": 4657,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/_alternatives/_Wing%20Shooting%20Championship/Wing%20Shooting%20Championship%20%28V1.01%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/American Horseshoes (US).mra": {
    "hash": "f33dec0f5d57f1a6815608424004c565",
@@ -814,6 +989,11 @@
    "size": 4290356,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/1b13fded24af96317db388cfdc890ddf6be96d79/releases/_Arcade/cores/PGM2_20261017e.rbf"
   },
+  "_Arcade/cores/arcadiasystems_20261021.rbf": {
+   "hash": "3d200c065ea54a3a617df38d8d37f2d0",
+   "size": 3008500,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/releases/arcadiasystems_20261021.rbf"
+  },
   "_Arcade/cores/crospang_20261019.rbf": {
    "hash": "47587e6cdc01353dbeb68c3c23a4d6b4",
    "size": 3267148,
@@ -874,20 +1054,20 @@
    "size": 3053136,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/8ebc9e7d5b916dfa8b1939366b50f139287bbb8a/releases/ohmygod_20261010.rbf"
   },
-  "_Arcade/cores/seta2_20261020.rbf": {
-   "hash": "1709d6b0ed3c66dd1bae73516cdcf1c6",
-   "size": 4014572,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/releases/seta2_20261020.rbf"
+  "_Arcade/cores/seta2_20261021.rbf": {
+   "hash": "03200444f6f3c17c88d1972a04506dde",
+   "size": 4031496,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/releases/seta2_20261021.rbf"
   },
-  "_Arcade/cores/seta2grd_20261020.rbf": {
-   "hash": "d92e31d24b3307a1c978489c9f9ca5f5",
-   "size": 4030472,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/releases/seta2grd_20261020.rbf"
+  "_Arcade/cores/seta2grd_20261021.rbf": {
+   "hash": "0aa869c05c3ca85e1166a8f2245d3203",
+   "size": 4043808,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/releases/seta2grd_20261021.rbf"
   },
-  "_Arcade/cores/seta2pen_20261020.rbf": {
-   "hash": "67ed4e14aa89c34f49f8a9869352df74",
-   "size": 4005256,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/047105a8e0cb69d4ac2c4ebad114b085bb13fa4d/releases/seta2pen_20261020.rbf"
+  "_Arcade/cores/seta2pen_20261021.rbf": {
+   "hash": "3959b36895849a01ec3f658b5032bee7",
+   "size": 4057400,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/releases/seta2pen_20261021.rbf"
   },
   "_Arcade/cores/taitol_20261007.rbf": {
    "hash": "5e8c809faa3b6e68b3ffb13da65f6a56",
@@ -903,6 +1083,108 @@
    "hash": "6bfa22165bcc85fef6cc98a7e5650621",
    "size": 1145521,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/3kokushi.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_airh.zip": {
+   "hash": "5926413c75af035f4bb69e64622f6d76",
+   "size": 119002,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_airh.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_argh.zip": {
+   "hash": "7aba4b56c4bb0e06650a8b33bc8600ae",
+   "size": 663982,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_argh.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_bios.zip": {
+   "hash": "37e9746f4491aa2df9a83729d1a93620",
+   "size": 681355,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_bios.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_blast.zip": {
+   "hash": "2d2494175583eb79a747f0e46ec193f3",
+   "size": 202207,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_blast.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_bowl.zip": {
+   "hash": "a210e391d7b75fa6d4adb3bcb4d0749b",
+   "size": 118738,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_bowl.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_dart.zip": {
+   "hash": "3dd1c78ede3fdcc714cc21c3975d71c3",
+   "size": 650171,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_dart.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_dlta.zip": {
+   "hash": "2d52f562e88d8c00700c18ac0e35ec0c",
+   "size": 743636,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_dlta.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_fast.zip": {
+   "hash": "b9c326c5735c0adcf2c4dd87c4866787",
+   "size": 781994,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_fast.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_ldrb.zip": {
+   "hash": "5c7acc9ed683dc26e17c580068316c10",
+   "size": 572632,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_ldrb.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_ninj.zip": {
+   "hash": "ee1d81b3dad03e2d1302cf7d95b7896b",
+   "size": 659813,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_ninj.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_pm.zip": {
+   "hash": "c34453ed7104ad3fb615ed8bfe7725fb",
+   "size": 124412,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_pm.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_rdwr.zip": {
+   "hash": "4dc3629f0308eb4043fab1d436384683",
+   "size": 233074,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_rdwr.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_sdwr.zip": {
+   "hash": "0da262ccd1b71495e6a9fcd646331a65",
+   "size": 507919,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_sdwr.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_socc.zip": {
+   "hash": "4f639677b31efdce456eb222002a6d0a",
+   "size": 370059,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_socc.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_spot.zip": {
+   "hash": "03fa639866171c476ae871537091dad5",
+   "size": 451301,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_spot.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_sprg.zip": {
+   "hash": "5b81d7bbc02c5c9e8b222c973bf0ee67",
+   "size": 251388,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_sprg.zip",
+   "overwrite": false
+  },
+  "games/mame/ar_xeon.zip": {
+   "hash": "a9f4810af017770f548fec47a50b74cb",
+   "size": 263885,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_xeon.zip",
    "overwrite": false
   },
   "games/mame/balcube.zip": {
@@ -963,6 +1245,12 @@
    "hash": "f16eaa9bfd08bddc4e3e6fde0e097e6f",
    "size": 32569144,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ddpdojt.zip",
+   "overwrite": false
+  },
+  "games/mame/deerhunt.zip": {
+   "hash": "0b8ec1b24ca2d1c08e7edb233111bdc5",
+   "size": 21280728,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/deerhunt.zip",
    "overwrite": false
   },
   "games/mame/dharma.zip": {
@@ -1277,6 +1565,18 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/toride2g.zip",
    "overwrite": false
   },
+  "games/mame/trophyh.zip": {
+   "hash": "4c0fe9962ee2212da7bfd098a030533f",
+   "size": 20251703,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/trophyh.zip",
+   "overwrite": false
+  },
+  "games/mame/turkhunt.zip": {
+   "hash": "a6bb14bf9aa7eff38c55d3a8582f6f41",
+   "size": 23927669,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/turkhunt.zip",
+   "overwrite": false
+  },
   "games/mame/viostorm.zip": {
    "hash": "c2ec32bb9259a294a1869fef824fbece",
    "size": 21568733,
@@ -1288,11 +1588,24 @@
    "size": 3802005,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/vmetal.zip",
    "overwrite": false
+  },
+  "games/mame/wschamp.zip": {
+   "hash": "8a6b8fcaaa599d330bb3bcd1e5c1036d",
+   "size": 23339559,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/wschamp.zip",
+   "overwrite": false
   }
  },
  "folders": {
   "_Arcade": {},
   "_Arcade/_Decoryah": {},
+  "_Arcade/_Decoryah/_ArcadiaSystems": {},
+  "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives": {},
+  "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_Leader Board Golf": {},
+  "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_Magic Johnson's Fast Break": {},
+  "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_Ninja Mission": {},
+  "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_Sidewinder": {},
+  "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_SportTime Table Hockey": {},
   "_Arcade/_Decoryah/_CrossPang": {},
   "_Arcade/_Decoryah/_CrossPang/_alternatives": {},
   "_Arcade/_Decoryah/_CrossPang/_alternatives/_Bestri": {},
@@ -1332,8 +1645,11 @@
   "_Arcade/_Decoryah/_OhMyGod": {},
   "_Arcade/_Decoryah/_Seta2": {},
   "_Arcade/_Decoryah/_Seta2/_alternatives": {},
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Deer Hunting USA": {},
   "_Arcade/_Decoryah/_Seta2/_alternatives/_Guardians": {},
   "_Arcade/_Decoryah/_Seta2/_alternatives/_Penguin Brothers": {},
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Trophy Hunting - Bear & Moose": {},
+  "_Arcade/_Decoryah/_Seta2/_alternatives/_Wing Shooting Championship": {},
   "_Arcade/_Decoryah/_TaitoLSystem": {},
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives": {},
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Champion Wrestler": {},

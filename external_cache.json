@@ -3,6 +3,74 @@
 1145521,
 "6bfa22165bcc85fef6cc98a7e5650621"
 ],
+"ar_airh.zip": [
+119002,
+"5926413c75af035f4bb69e64622f6d76"
+],
+"ar_argh.zip": [
+663982,
+"7aba4b56c4bb0e06650a8b33bc8600ae"
+],
+"ar_bios.zip": [
+681355,
+"37e9746f4491aa2df9a83729d1a93620"
+],
+"ar_blast.zip": [
+202207,
+"2d2494175583eb79a747f0e46ec193f3"
+],
+"ar_bowl.zip": [
+118738,
+"a210e391d7b75fa6d4adb3bcb4d0749b"
+],
+"ar_dart.zip": [
+650171,
+"3dd1c78ede3fdcc714cc21c3975d71c3"
+],
+"ar_dlta.zip": [
+743636,
+"2d52f562e88d8c00700c18ac0e35ec0c"
+],
+"ar_fast.zip": [
+781994,
+"b9c326c5735c0adcf2c4dd87c4866787"
+],
+"ar_ldrb.zip": [
+572632,
+"5c7acc9ed683dc26e17c580068316c10"
+],
+"ar_ninj.zip": [
+659813,
+"ee1d81b3dad03e2d1302cf7d95b7896b"
+],
+"ar_pm.zip": [
+124412,
+"c34453ed7104ad3fb615ed8bfe7725fb"
+],
+"ar_rdwr.zip": [
+233074,
+"4dc3629f0308eb4043fab1d436384683"
+],
+"ar_sdwr.zip": [
+507919,
+"0da262ccd1b71495e6a9fcd646331a65"
+],
+"ar_socc.zip": [
+370059,
+"4f639677b31efdce456eb222002a6d0a"
+],
+"ar_spot.zip": [
+451301,
+"03fa639866171c476ae871537091dad5"
+],
+"ar_sprg.zip": [
+251388,
+"5b81d7bbc02c5c9e8b222c973bf0ee67"
+],
+"ar_xeon.zip": [
+263885,
+"a9f4810af017770f548fec47a50b74cb"
+],
 "balcube.zip": [
 3518589,
 "95ca0373ed3a98c654fb93f4e67b18e6"
@@ -42,6 +110,10 @@
 "ddpdojt.zip": [
 32569144,
 "f16eaa9bfd08bddc4e3e6fde0e097e6f"
+],
+"deerhunt.zip": [
+21280728,
+"0b8ec1b24ca2d1c08e7edb233111bdc5"
 ],
 "dharma.zip": [
 3154866,
@@ -251,6 +323,14 @@
 4201859,
 "6f26e1a1d2b2453a9bf913a45e00fc10"
 ],
+"trophyh.zip": [
+20251703,
+"4c0fe9962ee2212da7bfd098a030533f"
+],
+"turkhunt.zip": [
+23927669,
+"a6bb14bf9aa7eff38c55d3a8582f6f41"
+],
 "viostorm.zip": [
 21568733,
 "c2ec32bb9259a294a1869fef824fbece"
@@ -258,5 +338,9 @@
 "vmetal.zip": [
 3802005,
 "8b9670e3266dad13acfe0b6f48620ed9"
+],
+"wschamp.zip": [
+23339559,
+"8a6b8fcaaa599d330bb3bcd1e5c1036d"
 ]
 }
