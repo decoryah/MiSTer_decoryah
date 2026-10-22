@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1792645553,
+ "timestamp": 1792670967,
  "files": {
   "_Arcade/_Decoryah/_ArcadiaSystems/Aaargh (Arcadia).mra": {
    "hash": "dd88b0fdd3c3b0e7b6d6ea36ad054cc6",
@@ -644,6 +644,26 @@
    "size": 2455,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/8ebc9e7d5b916dfa8b1939366b50f139287bbb8a/mra/Oh%20My%20God%21%20%28Japan%29.mra"
   },
+  "_Arcade/_Decoryah/_Rabbit/Rabbit (Asia 3-6).mra": {
+   "hash": "a160b223e792ae5145bb54124fbf8c98",
+   "size": 2708,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Rabbit_MiSTer/00ee9f4885c4f4a93f20c3b3b814e2ae78e22a49/mra/Rabbit%20%28Asia%203-6%29.mra"
+  },
+  "_Arcade/_Decoryah/_Rabbit/_alternatives/_Rabbit/Rabbit (Asia 1-28).mra": {
+   "hash": "81f75e52ecd6a181b2504c7500967701",
+   "size": 2746,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Rabbit_MiSTer/00ee9f4885c4f4a93f20c3b3b814e2ae78e22a49/mra/_alternatives/_Rabbit/Rabbit%20%28Asia%201-28%29.mra"
+  },
+  "_Arcade/_Decoryah/_Rabbit/_alternatives/_Rabbit/Rabbit (Japan 1-28, location test).mra": {
+   "hash": "4c4a27699143dee41b16f86ea27095a5",
+   "size": 2784,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Rabbit_MiSTer/00ee9f4885c4f4a93f20c3b3b814e2ae78e22a49/mra/_alternatives/_Rabbit/Rabbit%20%28Japan%201-28%2C%20location%20test%29.mra"
+  },
+  "_Arcade/_Decoryah/_Rabbit/_alternatives/_Rabbit/Rabbit (Japan 3-6).mra": {
+   "hash": "aadfb7d625c29eb9c2abc9e2b05cc3ed",
+   "size": 2730,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Rabbit_MiSTer/00ee9f4885c4f4a93f20c3b3b814e2ae78e22a49/mra/_alternatives/_Rabbit/Rabbit%20%28Japan%203-6%29.mra"
+  },
   "_Arcade/_Decoryah/_Seta2/Deer Hunting USA.mra": {
    "hash": "b64e6f1b2d2decddba28ef5759197d6f",
    "size": 4100,
@@ -1053,6 +1073,11 @@
    "hash": "c81d59e5738fd9a41e7f68b6c08251df",
    "size": 3053136,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/8ebc9e7d5b916dfa8b1939366b50f139287bbb8a/releases/ohmygod_20261010.rbf"
+  },
+  "_Arcade/cores/rabbit_20261022.rbf": {
+   "hash": "cf8e476ab38dc3be1ba24343d35af8f0",
+   "size": 3959424,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Rabbit_MiSTer/00ee9f4885c4f4a93f20c3b3b814e2ae78e22a49/releases/rabbit_20261022.rbf"
   },
   "_Arcade/cores/seta2_20261021.rbf": {
    "hash": "03200444f6f3c17c88d1972a04506dde",
@@ -1547,6 +1572,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pzlbowl.zip",
    "overwrite": false
   },
+  "games/mame/rabbit.zip": {
+   "hash": "4bcd0a317ce3613062688ddf2098e4f2",
+   "size": 12733971,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/rabbit.zip",
+   "overwrite": false
+  },
   "games/mame/raimais.zip": {
    "hash": "af24e855efc7c46d3310208572e739cf",
    "size": 1008078,
@@ -1643,6 +1674,9 @@
   "_Arcade/_Decoryah/_MonsterMaulers": {},
   "_Arcade/_Decoryah/_MysticWarriors": {},
   "_Arcade/_Decoryah/_OhMyGod": {},
+  "_Arcade/_Decoryah/_Rabbit": {},
+  "_Arcade/_Decoryah/_Rabbit/_alternatives": {},
+  "_Arcade/_Decoryah/_Rabbit/_alternatives/_Rabbit": {},
   "_Arcade/_Decoryah/_Seta2": {},
   "_Arcade/_Decoryah/_Seta2/_alternatives": {},
   "_Arcade/_Decoryah/_Seta2/_alternatives/_Deer Hunting USA": {},
