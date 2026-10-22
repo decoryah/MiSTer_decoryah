@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1792619518,
+ "timestamp": 1792645553,
  "files": {
   "_Arcade/_Decoryah/_ArcadiaSystems/Aaargh (Arcadia).mra": {
    "hash": "dd88b0fdd3c3b0e7b6d6ea36ad054cc6",
@@ -595,19 +595,19 @@
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/59bd175a156ae7cf9e2c052f4850fb277f67ff41/mra/_alternatives/_Varia%20Metal/Varia%20Metal%20%28New%20Ways%20Trading%20Co.%29.mra"
   },
   "_Arcade/_Decoryah/_MonsterMaulers/Kyukyoku Sentai Dadandarn (Japan ver JAA).mra": {
-   "hash": "a377a4d0f318f4ced0a0903350c2365a",
-   "size": 4908,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/fc1dfaecc8839a4311f2ddac7cade6a8655b9736/mra/Kyukyoku%20Sentai%20Dadandarn%20%28Japan%20ver%20JAA%29.mra"
+   "hash": "5c5ac240b648adfe491c020236783083",
+   "size": 4921,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/0fd8b10c6466fad85e17b1c428ab02994488ca83/mra/Kyukyoku%20Sentai%20Dadandarn%20%28Japan%20ver%20JAA%29.mra"
   },
   "_Arcade/_Decoryah/_MonsterMaulers/Monster Maulers (USA ver UAA).mra": {
-   "hash": "294f32931950a2a44af930c6fbcfd912",
-   "size": 4896,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/fc1dfaecc8839a4311f2ddac7cade6a8655b9736/mra/Monster%20Maulers%20%28USA%20ver%20UAA%29.mra"
+   "hash": "2103207cbfa4b357eb0d8b8e705a2adf",
+   "size": 4909,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/0fd8b10c6466fad85e17b1c428ab02994488ca83/mra/Monster%20Maulers%20%28USA%20ver%20UAA%29.mra"
   },
   "_Arcade/_Decoryah/_MonsterMaulers/Monster Maulers (World ver EAA).mra": {
-   "hash": "06cb6855292f8fa3326c02f2a181994a",
-   "size": 4898,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/fc1dfaecc8839a4311f2ddac7cade6a8655b9736/mra/Monster%20Maulers%20%28World%20ver%20EAA%29.mra"
+   "hash": "fdcec95e2dbdf0b85c04a4b73e3f6e98",
+   "size": 4911,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/0fd8b10c6466fad85e17b1c428ab02994488ca83/mra/Monster%20Maulers%20%28World%20ver%20EAA%29.mra"
   },
   "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (Asia ver AAA).mra": {
    "hash": "55dda4eb3178a61c23d7fc44845b2d91",
@@ -1039,10 +1039,10 @@
    "size": 4400772,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/59bd175a156ae7cf9e2c052f4850fb277f67ff41/releases/metrof64_20261014c.rbf"
   },
-  "_Arcade/cores/monstermaulers_20261014.rbf": {
-   "hash": "f1a58f096732611ce3457c006e2b9d76",
-   "size": 4099588,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/fc1dfaecc8839a4311f2ddac7cade6a8655b9736/releases/monstermaulers_20261014.rbf"
+  "_Arcade/cores/monstermaulers_20261021.rbf": {
+   "hash": "97afdf24a9f994ad0b3bdc00cca5432f",
+   "size": 4103040,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/0fd8b10c6466fad85e17b1c428ab02994488ca83/releases/monstermaulers_20261021.rbf"
   },
   "_Arcade/cores/mysticwarriors_20261019.rbf": {
    "hash": "c24f92c70f96bcc7ea669ec0afeff9c6",
