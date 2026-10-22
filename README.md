@@ -20,7 +20,7 @@ What is in the database right now. Each run refreshes this list whenever the dat
 list is in [`cores.md`](https://github.com/decoryah/MiSTer_decoryah/blob/db/cores.md) on the `db` branch.
 
 <!-- cores:start -->
-Updated 2026-10-21. 301 files from 15 repositories.
+Updated 2026-10-22. 301 files from 15 repositories.
 
 | Repository | MRA folder | Builds | Latest build | MRAs |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ Updated 2026-10-21. 301 files from 15 repositories.
 | [decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer](https://github.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer) | `_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus` | `mcatadv_20261005.rbf` | 2026-10-05 | 6 |
 | [decoryah/Arcade-MetamorphicForce_MiSTer](https://github.com/decoryah/Arcade-MetamorphicForce_MiSTer) | `_Arcade/_Decoryah/_MetamorphicForce` | `metamorphicforce_20261014.rbf` | 2026-10-14 | 5 |
 | [decoryah/Arcade-Metro_MiSTer](https://github.com/decoryah/Arcade-Metro_MiSTer) | `_Arcade/_Decoryah/_Metro` | `metro_20261018c.rbf`, `metrod64_20261018c.rbf`, `metrof64_20261014c.rbf` | 2026-10-18 | 47 |
-| [decoryah/Arcade-MonsterMaulers_MiSTer](https://github.com/decoryah/Arcade-MonsterMaulers_MiSTer) | `_Arcade/_Decoryah/_MonsterMaulers` | `monstermaulers_20261014.rbf` | 2026-10-14 | 3 |
+| [decoryah/Arcade-MonsterMaulers_MiSTer](https://github.com/decoryah/Arcade-MonsterMaulers_MiSTer) | `_Arcade/_Decoryah/_MonsterMaulers` | `monstermaulers_20261021.rbf` | 2026-10-21 | 3 |
 | [decoryah/Arcade-MysticWarriors_MiSTer](https://github.com/decoryah/Arcade-MysticWarriors_MiSTer) | `_Arcade/_Decoryah/_MysticWarriors` | `mysticwarriors_20261019.rbf` | 2026-10-19 | 5 |
 | [decoryah/Arcade-OhMyGod_MiSTer](https://github.com/decoryah/Arcade-OhMyGod_MiSTer) | `_Arcade/_Decoryah/_OhMyGod` | `ohmygod_20261010.rbf` | 2026-10-10 | 2 |
 | [decoryah/Arcade-Seta2_MiSTer](https://github.com/decoryah/Arcade-Seta2_MiSTer) | `_Arcade/_Decoryah/_Seta2` | `seta2_20261021.rbf`, `seta2grd_20261021.rbf`, `seta2pen_20261021.rbf` | 2026-10-21 | 23 |
