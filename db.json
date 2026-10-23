@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1792775991,
+ "timestamp": 1792791187,
  "files": {
   "_Arcade/_Decoryah/_ArcadiaSystems/Aaargh (Arcadia).mra": {
    "hash": "dd88b0fdd3c3b0e7b6d6ea36ad054cc6",
@@ -147,17 +147,17 @@
   "_Arcade/_Decoryah/_Gaiapolis/Gaiapolis (Japan ver JAF).mra": {
    "hash": "eb88ba43a6cb31906d0e866ec2250bc3",
    "size": 3992,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/ed9319b4bcb2a7d6899fa136b38a3b6214a0a80c/mra/Gaiapolis%20%28Japan%20ver%20JAF%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/520fdcda5b169eb7fb034f3924f535474d6625d7/mra/Gaiapolis%20%28Japan%20ver%20JAF%29.mra"
   },
   "_Arcade/_Decoryah/_Gaiapolis/Gaiapolis (USA ver UAF).mra": {
    "hash": "99c8a221f0fef19cf3399a0d9ab0398a",
    "size": 3988,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/ed9319b4bcb2a7d6899fa136b38a3b6214a0a80c/mra/Gaiapolis%20%28USA%20ver%20UAF%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/520fdcda5b169eb7fb034f3924f535474d6625d7/mra/Gaiapolis%20%28USA%20ver%20UAF%29.mra"
   },
   "_Arcade/_Decoryah/_Gaiapolis/Gaiapolis (World ver EAF).mra": {
    "hash": "24d4390cccd6782adde44e327d0e7295",
    "size": 3990,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/ed9319b4bcb2a7d6899fa136b38a3b6214a0a80c/mra/Gaiapolis%20%28World%20ver%20EAF%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/520fdcda5b169eb7fb034f3924f535474d6625d7/mra/Gaiapolis%20%28World%20ver%20EAF%29.mra"
   },
   "_Arcade/_Decoryah/_Gunpey/Gunpey (Japan).mra": {
    "hash": "92c91b81bec24d2b92c5099ac364ff9c",
@@ -1024,10 +1024,10 @@
    "size": 3267148,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-CrossPang_MiSTer/444dd5c03558a8676ce3d66c62cd712535602d97/releases/crospang_20261019.rbf"
   },
-  "_Arcade/cores/gaiapolis_20261014.rbf": {
-   "hash": "b58505e6c72d5d52fc6f0b57570ec396",
-   "size": 4110416,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/ed9319b4bcb2a7d6899fa136b38a3b6214a0a80c/releases/gaiapolis_20261014.rbf"
+  "_Arcade/cores/gaiapolis_20261023.rbf": {
+   "hash": "9b1d38d9d4c036e84bab1724e4ef8804",
+   "size": 4115344,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/520fdcda5b169eb7fb034f3924f535474d6625d7/releases/gaiapolis_20261023.rbf"
   },
   "_Arcade/cores/gunpey_20261023.rbf": {
    "hash": "b550124b11423dbbf89e1ed736c174bc",
