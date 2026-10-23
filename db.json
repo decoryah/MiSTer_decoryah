@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1792670967,
+ "timestamp": 1792775991,
  "files": {
   "_Arcade/_Decoryah/_ArcadiaSystems/Aaargh (Arcadia).mra": {
    "hash": "dd88b0fdd3c3b0e7b6d6ea36ad054cc6",
@@ -159,6 +159,11 @@
    "size": 3990,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/ed9319b4bcb2a7d6899fa136b38a3b6214a0a80c/mra/Gaiapolis%20%28World%20ver%20EAF%29.mra"
   },
+  "_Arcade/_Decoryah/_Gunpey/Gunpey (Japan).mra": {
+   "hash": "92c91b81bec24d2b92c5099ac364ff9c",
+   "size": 2804,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gunpey_MiSTer/1845a6b0564214988497aae0f37f962ead44bf4a/mra/Gunpey%20%28Japan%29.mra"
+  },
   "_Arcade/_Decoryah/_HeavyUnit/Heavy Unit (Japan, alternate ROM format).mra": {
    "hash": "d634fe85119f136fad6329c7d30fc1da",
    "size": 2718,
@@ -305,34 +310,34 @@
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/1ab56bd629b301ddf447f35b8616d0831feb9d97/mra/_alternatives/_Jackie%20Chan%20-%20The%20Kung-Fu%20Master/Jackie%20Chan%20-%20The%20Kung-Fu%20Master%20%28rev%203%29.mra"
   },
   "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/Magical Cat Adventure.mra": {
-   "hash": "05676c2f7f887df8cc5e00961ceed2c7",
-   "size": 4102,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/46e3e47e842408bc8e5551e900be6ffa92c63bf4/mra/Magical%20Cat%20Adventure.mra"
+   "hash": "7226084f6fd66ddec217181dd47fdf12",
+   "size": 4421,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/21d1c8b9ba2415d219a635f94b3cfccf3bd9e3b4/mra/Magical%20Cat%20Adventure.mra"
   },
   "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/Nostradamus.mra": {
-   "hash": "edee46586267709a8f0c19667d0b543d",
-   "size": 3765,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/46e3e47e842408bc8e5551e900be6ffa92c63bf4/mra/Nostradamus.mra"
+   "hash": "6a22ca2c98ca4e23b1734a3a39855444",
+   "size": 4052,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/21d1c8b9ba2415d219a635f94b3cfccf3bd9e3b4/mra/Nostradamus.mra"
   },
   "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/_alternatives/_Magical Cat Adventure/Catt (Japan).mra": {
-   "hash": "5def64c416ac76e0ed844602636a2a97",
-   "size": 3865,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/46e3e47e842408bc8e5551e900be6ffa92c63bf4/mra/_alternatives/_Magical%20Cat%20Adventure/Catt%20%28Japan%29.mra"
+   "hash": "8a2263b2063f16333265a4f59cba6f40",
+   "size": 4184,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/21d1c8b9ba2415d219a635f94b3cfccf3bd9e3b4/mra/_alternatives/_Magical%20Cat%20Adventure/Catt%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/_alternatives/_Magical Cat Adventure/Magical Cat Adventure (Japan).mra": {
-   "hash": "692f0b03e08578760a5acc608fa2d01d",
-   "size": 4120,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/46e3e47e842408bc8e5551e900be6ffa92c63bf4/mra/_alternatives/_Magical%20Cat%20Adventure/Magical%20Cat%20Adventure%20%28Japan%29.mra"
+   "hash": "e12b1ec9b2ded2bba4209aa1f0ff5182",
+   "size": 4439,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/21d1c8b9ba2415d219a635f94b3cfccf3bd9e3b4/mra/_alternatives/_Magical%20Cat%20Adventure/Magical%20Cat%20Adventure%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/_alternatives/_Nostradamus/Nostradamus (Japan).mra": {
-   "hash": "950abc53c358f2abcac9bc6f0fb3cda5",
-   "size": 3784,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/46e3e47e842408bc8e5551e900be6ffa92c63bf4/mra/_alternatives/_Nostradamus/Nostradamus%20%28Japan%29.mra"
+   "hash": "cfe74c74f9dd19f35beea592bcd98c3d",
+   "size": 4071,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/21d1c8b9ba2415d219a635f94b3cfccf3bd9e3b4/mra/_alternatives/_Nostradamus/Nostradamus%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/_alternatives/_Nostradamus/Nostradamus Yeeon (Korea).mra": {
-   "hash": "b6810c2efc60dfa01eaf6841dc99213b",
-   "size": 3790,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/46e3e47e842408bc8e5551e900be6ffa92c63bf4/mra/_alternatives/_Nostradamus/Nostradamus%20Yeeon%20%28Korea%29.mra"
+   "hash": "62937e3e7fe51a0595f0a7eeb54e4af8",
+   "size": 4077,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/21d1c8b9ba2415d219a635f94b3cfccf3bd9e3b4/mra/_alternatives/_Nostradamus/Nostradamus%20Yeeon%20%28Korea%29.mra"
   },
   "_Arcade/_Decoryah/_MetamorphicForce/Metamorphic Force (Asia ver AAA).mra": {
    "hash": "1241c07f8d7d399749e29485f55df594",
@@ -635,14 +640,14 @@
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/7d1225ce3d390befb29292bba0dfa6478376ee13/mra/Mystic%20Warriors%20%28World%20ver%20EAA%29.mra"
   },
   "_Arcade/_Decoryah/_OhMyGod/Naname de Magic! (Japan).mra": {
-   "hash": "5c0fa3ba46c7181c6ba1769b51a0c196",
-   "size": 2447,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/8ebc9e7d5b916dfa8b1939366b50f139287bbb8a/mra/Naname%20de%20Magic%21%20%28Japan%29.mra"
+   "hash": "acfff3c20b83e0abae487b8f1849ef00",
+   "size": 2458,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/ef6f38fc55b16d18f7ec431f9ddb553652c531b7/mra/Naname%20de%20Magic%21%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_OhMyGod/Oh My God! (Japan).mra": {
-   "hash": "4cfb69834c450de821818a11830785c3",
-   "size": 2455,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/8ebc9e7d5b916dfa8b1939366b50f139287bbb8a/mra/Oh%20My%20God%21%20%28Japan%29.mra"
+   "hash": "9ba10c06e0e3e595e9d28f2c06e2b201",
+   "size": 2464,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/ef6f38fc55b16d18f7ec431f9ddb553652c531b7/mra/Oh%20My%20God%21%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_Rabbit/Rabbit (Asia 3-6).mra": {
    "hash": "a160b223e792ae5145bb54124fbf8c98",
@@ -1024,6 +1029,11 @@
    "size": 4110416,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaiapolis_MiSTer/ed9319b4bcb2a7d6899fa136b38a3b6214a0a80c/releases/gaiapolis_20261014.rbf"
   },
+  "_Arcade/cores/gunpey_20261023.rbf": {
+   "hash": "b550124b11423dbbf89e1ed736c174bc",
+   "size": 3591184,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gunpey_MiSTer/1845a6b0564214988497aae0f37f962ead44bf4a/releases/gunpey_20261023.rbf"
+  },
   "_Arcade/cores/heavyunit_20261017.rbf": {
    "hash": "cef98ffb74e641ff87bc9208fcc3cf05",
    "size": 3750316,
@@ -1034,10 +1044,10 @@
    "size": 4332888,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/1ab56bd629b301ddf447f35b8616d0831feb9d97/releases/jchan_20261014.rbf"
   },
-  "_Arcade/cores/mcatadv_20261005.rbf": {
-   "hash": "0bbdf10e9b81ece1c8b6588868193f7f",
-   "size": 3421740,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/46e3e47e842408bc8e5551e900be6ffa92c63bf4/releases/mcatadv_20261005.rbf"
+  "_Arcade/cores/mcatadv_20261023.rbf": {
+   "hash": "c089debd2307824de95d41d590b9a23f",
+   "size": 3430732,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/21d1c8b9ba2415d219a635f94b3cfccf3bd9e3b4/releases/mcatadv_20261023.rbf"
   },
   "_Arcade/cores/metamorphicforce_20261014.rbf": {
    "hash": "ab835dab8e2594df652f89298a936f35",
@@ -1069,10 +1079,10 @@
    "size": 4025540,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/7d1225ce3d390befb29292bba0dfa6478376ee13/releases/mysticwarriors_20261019.rbf"
   },
-  "_Arcade/cores/ohmygod_20261010.rbf": {
-   "hash": "c81d59e5738fd9a41e7f68b6c08251df",
-   "size": 3053136,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/8ebc9e7d5b916dfa8b1939366b50f139287bbb8a/releases/ohmygod_20261010.rbf"
+  "_Arcade/cores/ohmygod_20261023b.rbf": {
+   "hash": "8222dd766cd1d4ab5c62482bde090196",
+   "size": 3091964,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/ef6f38fc55b16d18f7ec431f9ddb553652c531b7/releases/ohmygod_20261023b.rbf"
   },
   "_Arcade/cores/rabbit_20261022.rbf": {
    "hash": "cf8e476ab38dc3be1ba24343d35af8f0",
@@ -1348,6 +1358,12 @@
    "hash": "b6a335f828f95a4bf115819107ac3c6f",
    "size": 1499140,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gunmast.zip",
+   "overwrite": false
+  },
+  "games/mame/gunpey.zip": {
+   "hash": "84f02fc3c45630a74c35afa899883f08",
+   "size": 3918523,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gunpey.zip",
    "overwrite": false
   },
   "games/mame/heuksun.zip": {
@@ -1642,6 +1658,7 @@
   "_Arcade/_Decoryah/_CrossPang/_alternatives/_Bestri": {},
   "_Arcade/_Decoryah/_CrossPang/_alternatives/_Pitapat Puzzle": {},
   "_Arcade/_Decoryah/_Gaiapolis": {},
+  "_Arcade/_Decoryah/_Gunpey": {},
   "_Arcade/_Decoryah/_HeavyUnit": {},
   "_Arcade/_Decoryah/_IGSPGM2": {},
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives": {},
