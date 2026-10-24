@@ -20,7 +20,7 @@ What is in the database right now. Each run refreshes this list whenever the dat
 list is in [`cores.md`](https://github.com/decoryah/MiSTer_decoryah/blob/db/cores.md) on the `db` branch.
 
 <!-- cores:start -->
-Updated 2026-10-23. 310 files from 17 repositories.
+Updated 2026-10-24. 310 files from 17 repositories.
 
 | Repository | MRA folder | Builds | Latest build | MRAs |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ Updated 2026-10-23. 310 files from 17 repositories.
 | [decoryah/Arcade-Rabbit_MiSTer](https://github.com/decoryah/Arcade-Rabbit_MiSTer) | `_Arcade/_Decoryah/_Rabbit` | `rabbit_20261022.rbf` | 2026-10-22 | 4 |
 | [decoryah/Arcade-Seta2_MiSTer](https://github.com/decoryah/Arcade-Seta2_MiSTer) | `_Arcade/_Decoryah/_Seta2` | `seta2_20261021.rbf`, `seta2grd_20261021.rbf`, `seta2pen_20261021.rbf` | 2026-10-21 | 23 |
 | [decoryah/Arcade-TaitoLSystem_MiSTer](https://github.com/decoryah/Arcade-TaitoLSystem_MiSTer) | `_Arcade/_Decoryah/_TaitoLSystem` | `taitol_20261007.rbf` | 2026-10-07 | 38 |
-| [decoryah/Arcade-ViolentStorm_MiSTer](https://github.com/decoryah/Arcade-ViolentStorm_MiSTer) | `_Arcade/_Decoryah/_ViolentStorm` | `violentstorm_20261014.rbf` | 2026-10-14 | 7 |
+| [decoryah/Arcade-ViolentStorm_MiSTer](https://github.com/decoryah/Arcade-ViolentStorm_MiSTer) | `_Arcade/_Decoryah/_ViolentStorm` | `violentstorm_20261022.rbf` | 2026-10-22 | 7 |
 <!-- cores:end -->
 
 ## Layout on the SD card
