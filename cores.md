@@ -12,7 +12,7 @@ Updated 2026-10-24. 310 files from 17 repositories.
 | [decoryah/Arcade-IGSPGM2_MiSTer](https://github.com/decoryah/Arcade-IGSPGM2_MiSTer) | `_Arcade/_Decoryah/_IGSPGM2` | `PGM2_20261017e.rbf` | 2026-10-17 | 21 |
 | [decoryah/Arcade-JackieChan_MiSTer](https://github.com/decoryah/Arcade-JackieChan_MiSTer) | `_Arcade/_Decoryah/_JackieChan` | `jchan_20261014.rbf` | 2026-10-14 | 3 |
 | [decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer](https://github.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer) | `_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus` | `mcatadv_20261023.rbf` | 2026-10-23 | 6 |
-| [decoryah/Arcade-MetamorphicForce_MiSTer](https://github.com/decoryah/Arcade-MetamorphicForce_MiSTer) | `_Arcade/_Decoryah/_MetamorphicForce` | `metamorphicforce_20261014.rbf` | 2026-10-14 | 5 |
+| [decoryah/Arcade-MetamorphicForce_MiSTer](https://github.com/decoryah/Arcade-MetamorphicForce_MiSTer) | `_Arcade/_Decoryah/_MetamorphicForce` | `metamorphicforce_20261024.rbf` | 2026-10-24 | 5 |
 | [decoryah/Arcade-Metro_MiSTer](https://github.com/decoryah/Arcade-Metro_MiSTer) | `_Arcade/_Decoryah/_Metro` | `metro_20261018c.rbf`, `metrod64_20261018c.rbf`, `metrof64_20261014c.rbf` | 2026-10-18 | 47 |
 | [decoryah/Arcade-MonsterMaulers_MiSTer](https://github.com/decoryah/Arcade-MonsterMaulers_MiSTer) | `_Arcade/_Decoryah/_MonsterMaulers` | `monstermaulers_20261021.rbf` | 2026-10-21 | 3 |
 | [decoryah/Arcade-MysticWarriors_MiSTer](https://github.com/decoryah/Arcade-MysticWarriors_MiSTer) | `_Arcade/_Decoryah/_MysticWarriors` | `mysticwarriors_20261019.rbf` | 2026-10-19 | 5 |

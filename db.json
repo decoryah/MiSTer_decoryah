@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1792858031,
+ "timestamp": 1792875651,
  "files": {
   "_Arcade/_Decoryah/_ArcadiaSystems/Aaargh (Arcadia).mra": {
    "hash": "dd88b0fdd3c3b0e7b6d6ea36ad054cc6",
@@ -342,27 +342,27 @@
   "_Arcade/_Decoryah/_MetamorphicForce/Metamorphic Force (Asia ver AAA).mra": {
    "hash": "1241c07f8d7d399749e29485f55df594",
    "size": 3961,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/e6b5473e06aff5c50f37b7eebb975f71d4a5155c/mra/Metamorphic%20Force%20%28Asia%20ver%20AAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/879420178efb2e632e140c51311f1ffe72caaa31/mra/Metamorphic%20Force%20%28Asia%20ver%20AAA%29.mra"
   },
   "_Arcade/_Decoryah/_MetamorphicForce/Metamorphic Force (Japan ver JAA).mra": {
    "hash": "b2bc0ee297ec3f9b66ac9e779677cad2",
    "size": 3963,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/e6b5473e06aff5c50f37b7eebb975f71d4a5155c/mra/Metamorphic%20Force%20%28Japan%20ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/879420178efb2e632e140c51311f1ffe72caaa31/mra/Metamorphic%20Force%20%28Japan%20ver%20JAA%29.mra"
   },
   "_Arcade/_Decoryah/_MetamorphicForce/Metamorphic Force (USA ver UAA).mra": {
    "hash": "089ed45855c81c94b06619ae9a96bf41",
    "size": 3959,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/e6b5473e06aff5c50f37b7eebb975f71d4a5155c/mra/Metamorphic%20Force%20%28USA%20ver%20UAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/879420178efb2e632e140c51311f1ffe72caaa31/mra/Metamorphic%20Force%20%28USA%20ver%20UAA%29.mra"
   },
   "_Arcade/_Decoryah/_MetamorphicForce/Metamorphic Force (World ver EAA).mra": {
    "hash": "aea0935813ddc8e3700d436eefba2635",
    "size": 3961,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/e6b5473e06aff5c50f37b7eebb975f71d4a5155c/mra/Metamorphic%20Force%20%28World%20ver%20EAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/879420178efb2e632e140c51311f1ffe72caaa31/mra/Metamorphic%20Force%20%28World%20ver%20EAA%29.mra"
   },
   "_Arcade/_Decoryah/_MetamorphicForce/Metamorphic Force (World ver EAA, alternate).mra": {
    "hash": "8b10bb5fbf3347d282958299d0eeaf9f",
    "size": 3967,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/e6b5473e06aff5c50f37b7eebb975f71d4a5155c/mra/Metamorphic%20Force%20%28World%20ver%20EAA%2C%20alternate%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/879420178efb2e632e140c51311f1ffe72caaa31/mra/Metamorphic%20Force%20%28World%20ver%20EAA%2C%20alternate%29.mra"
   },
   "_Arcade/_Decoryah/_Metro/Bal Cube (Japan).mra": {
    "hash": "2c820e51227f56432191cde460bfcd72",
@@ -1049,10 +1049,10 @@
    "size": 3430732,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer/21d1c8b9ba2415d219a635f94b3cfccf3bd9e3b4/releases/mcatadv_20261023.rbf"
   },
-  "_Arcade/cores/metamorphicforce_20261014.rbf": {
-   "hash": "ab835dab8e2594df652f89298a936f35",
-   "size": 4033764,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/e6b5473e06aff5c50f37b7eebb975f71d4a5155c/releases/metamorphicforce_20261014.rbf"
+  "_Arcade/cores/metamorphicforce_20261024.rbf": {
+   "hash": "55015a707a43cfdab0f2919a119dd306",
+   "size": 4024216,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MetamorphicForce_MiSTer/879420178efb2e632e140c51311f1ffe72caaa31/releases/metamorphicforce_20261024.rbf"
   },
   "_Arcade/cores/metro_20261018c.rbf": {
    "hash": "c5094df95153551988d320a3c6408067",
