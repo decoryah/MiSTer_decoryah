@@ -26,7 +26,7 @@ Updated 2026-10-24. 310 files from 17 repositories.
 |---|---|---|---|---|
 | [decoryah/Arcade-ArcadiaSystems_MiSTer](https://github.com/decoryah/Arcade-ArcadiaSystems_MiSTer) | `_Arcade/_Decoryah/_ArcadiaSystems` | `arcadiasystems_20261021.rbf` | 2026-10-21 | 22 |
 | [decoryah/Arcade-CrossPang_MiSTer](https://github.com/decoryah/Arcade-CrossPang_MiSTer) | `_Arcade/_Decoryah/_CrossPang` | `crospang_20261019.rbf` | 2026-10-19 | 6 |
-| [decoryah/Arcade-Gaiapolis_MiSTer](https://github.com/decoryah/Arcade-Gaiapolis_MiSTer) | `_Arcade/_Decoryah/_Gaiapolis` | `gaiapolis_20261023.rbf` | 2026-10-23 | 3 |
+| [decoryah/Arcade-Gaiapolis_MiSTer](https://github.com/decoryah/Arcade-Gaiapolis_MiSTer) | `_Arcade/_Decoryah/_Gaiapolis` | `gaiapolis_20261024.rbf` | 2026-10-24 | 3 |
 | [decoryah/Arcade-Gunpey_MiSTer](https://github.com/decoryah/Arcade-Gunpey_MiSTer) | `_Arcade/_Decoryah/_Gunpey` | `gunpey_20261023.rbf` | 2026-10-23 | 1 |
 | [decoryah/Arcade-HeavyUnit_MiSTer](https://github.com/decoryah/Arcade-HeavyUnit_MiSTer) | `_Arcade/_Decoryah/_HeavyUnit` | `heavyunit_20261017.rbf` | 2026-10-17 | 5 |
 | [decoryah/Arcade-IGSPGM2_MiSTer](https://github.com/decoryah/Arcade-IGSPGM2_MiSTer) | `_Arcade/_Decoryah/_IGSPGM2` | `PGM2_20261017e.rbf` | 2026-10-17 | 21 |
