@@ -2,8 +2,18 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1792929029,
+ "timestamp": 1792946290,
  "files": {
+  "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
+   "hash": "8ee3816c34f64dde08e19791f3962721",
+   "size": 4237,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Aquarium_MiSTer/d17c254809c009b1e3d08cc15f812cb279e8d631/mra/Aquarium%20%28US%29.mra"
+  },
+  "_Arcade/_Decoryah/_Aquarium/_alternatives/_Aquarium/Aquarium (Japan).mra": {
+   "hash": "4fc4009ea3598a892bf7b2f555950e09",
+   "size": 4260,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Aquarium_MiSTer/d17c254809c009b1e3d08cc15f812cb279e8d631/mra/_alternatives/_Aquarium/Aquarium%20%28Japan%29.mra"
+  },
   "_Arcade/_Decoryah/_ArcadiaSystems/Aaargh (Arcadia).mra": {
    "hash": "dd88b0fdd3c3b0e7b6d6ea36ad054cc6",
    "size": 3959,
@@ -1014,6 +1024,11 @@
    "size": 4290356,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/releases/_Arcade/cores/PGM2_20261017e.rbf"
   },
+  "_Arcade/cores/aquarium_20261025c.rbf": {
+   "hash": "fc0af70c7df0afe4733c53e46620b72f",
+   "size": 3387032,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Aquarium_MiSTer/d17c254809c009b1e3d08cc15f812cb279e8d631/releases/aquarium_20261025c.rbf"
+  },
   "_Arcade/cores/arcadiasystems_20261021.rbf": {
    "hash": "3d200c065ea54a3a617df38d8d37f2d0",
    "size": 3008500,
@@ -1118,6 +1133,12 @@
    "hash": "6bfa22165bcc85fef6cc98a7e5650621",
    "size": 1145521,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/3kokushi.zip",
+   "overwrite": false
+  },
+  "games/mame/aquarium.zip": {
+   "hash": "e9a03453c96d55644cac0b6df236a352",
+   "size": 1145883,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/aquarium.zip",
    "overwrite": false
   },
   "games/mame/ar_airh.zip": {
@@ -1646,6 +1667,9 @@
  "folders": {
   "_Arcade": {},
   "_Arcade/_Decoryah": {},
+  "_Arcade/_Decoryah/_Aquarium": {},
+  "_Arcade/_Decoryah/_Aquarium/_alternatives": {},
+  "_Arcade/_Decoryah/_Aquarium/_alternatives/_Aquarium": {},
   "_Arcade/_Decoryah/_ArcadiaSystems": {},
   "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives": {},
   "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_Leader Board Golf": {},

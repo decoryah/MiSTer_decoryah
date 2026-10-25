@@ -1,9 +1,10 @@
 # Cores in this database
 
-Updated 2026-10-25. 310 files from 17 repositories.
+Updated 2026-10-25. 314 files from 18 repositories.
 
 | Repository | MRA folder | Builds | Latest build | MRAs |
 |---|---|---|---|---|
+| [decoryah/Arcade-Aquarium_MiSTer](https://github.com/decoryah/Arcade-Aquarium_MiSTer) | `_Arcade/_Decoryah/_Aquarium` | `aquarium_20261025c.rbf` | 2026-10-25 | 2 |
 | [decoryah/Arcade-ArcadiaSystems_MiSTer](https://github.com/decoryah/Arcade-ArcadiaSystems_MiSTer) | `_Arcade/_Decoryah/_ArcadiaSystems` | `arcadiasystems_20261021.rbf` | 2026-10-21 | 22 |
 | [decoryah/Arcade-CrossPang_MiSTer](https://github.com/decoryah/Arcade-CrossPang_MiSTer) | `_Arcade/_Decoryah/_CrossPang` | `crospang_20261019.rbf` | 2026-10-19 | 6 |
 | [decoryah/Arcade-Gaiapolis_MiSTer](https://github.com/decoryah/Arcade-Gaiapolis_MiSTer) | `_Arcade/_Decoryah/_Gaiapolis` | `gaiapolis_20261024.rbf` | 2026-10-24 | 3 |
