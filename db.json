@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1792946290,
+ "timestamp": 1792962039,
  "files": {
   "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
    "hash": "8ee3816c34f64dde08e19791f3962721",
@@ -198,6 +198,16 @@
    "hash": "2eeb0bff7987cc49cd2b8c398c95ceae",
    "size": 2561,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/mra/Heavy%20Unit%20-U.S.A.%20Version-%20%28US%29.mra"
+  },
+  "_Arcade/_Decoryah/_Hexion/Hexion (Japan ver JAB).mra": {
+   "hash": "1b89a4a43e2037c18e658c3ea7fd8aae",
+   "size": 2772,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Hexion_MiSTer/f7ca3a1e8e755225340e9973d49d98c81c7f40ce/mra/Hexion%20%28Japan%20ver%20JAB%29.mra"
+  },
+  "_Arcade/_Decoryah/_Hexion/_alternatives/_Hexion/Hexion (Asia ver AAA, bootleg).mra": {
+   "hash": "af2dc5051f131d43ff055c7766890550",
+   "size": 2959,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Hexion_MiSTer/f7ca3a1e8e755225340e9973d49d98c81c7f40ce/mra/_alternatives/_Hexion/Hexion%20%28Asia%20ver%20AAA%2C%20bootleg%29.mra"
   },
   "_Arcade/_Decoryah/_IGSPGM2/DoDonPachi Dai-Ou-Jou Tamashii (V201, China).mra": {
    "hash": "de717ad9201a3e8489b5ddbb7a26d155",
@@ -612,17 +622,17 @@
   "_Arcade/_Decoryah/_MonsterMaulers/Kyukyoku Sentai Dadandarn (Japan ver JAA).mra": {
    "hash": "5c5ac240b648adfe491c020236783083",
    "size": 4921,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/0fd8b10c6466fad85e17b1c428ab02994488ca83/mra/Kyukyoku%20Sentai%20Dadandarn%20%28Japan%20ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/f99a51eab6717a4e0a9ec828c55aef45f836be5e/mra/Kyukyoku%20Sentai%20Dadandarn%20%28Japan%20ver%20JAA%29.mra"
   },
   "_Arcade/_Decoryah/_MonsterMaulers/Monster Maulers (USA ver UAA).mra": {
    "hash": "2103207cbfa4b357eb0d8b8e705a2adf",
    "size": 4909,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/0fd8b10c6466fad85e17b1c428ab02994488ca83/mra/Monster%20Maulers%20%28USA%20ver%20UAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/f99a51eab6717a4e0a9ec828c55aef45f836be5e/mra/Monster%20Maulers%20%28USA%20ver%20UAA%29.mra"
   },
   "_Arcade/_Decoryah/_MonsterMaulers/Monster Maulers (World ver EAA).mra": {
    "hash": "fdcec95e2dbdf0b85c04a4b73e3f6e98",
    "size": 4911,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/0fd8b10c6466fad85e17b1c428ab02994488ca83/mra/Monster%20Maulers%20%28World%20ver%20EAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/f99a51eab6717a4e0a9ec828c55aef45f836be5e/mra/Monster%20Maulers%20%28World%20ver%20EAA%29.mra"
   },
   "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (Asia ver AAA).mra": {
    "hash": "55dda4eb3178a61c23d7fc44845b2d91",
@@ -1054,6 +1064,11 @@
    "size": 3750316,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/releases/heavyunit_20261017.rbf"
   },
+  "_Arcade/cores/hexion_20261025.rbf": {
+   "hash": "dc29e7369ee00b19be44b8ec02dde4d2",
+   "size": 3195116,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Hexion_MiSTer/f7ca3a1e8e755225340e9973d49d98c81c7f40ce/releases/hexion_20261025.rbf"
+  },
   "_Arcade/cores/jchan_20261014.rbf": {
    "hash": "ad9ab0827e6a09405c3e67e099cd5bbd",
    "size": 4332888,
@@ -1084,10 +1099,10 @@
    "size": 4400772,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-Metro_MiSTer/59bd175a156ae7cf9e2c052f4850fb277f67ff41/releases/metrof64_20261014c.rbf"
   },
-  "_Arcade/cores/monstermaulers_20261021.rbf": {
-   "hash": "97afdf24a9f994ad0b3bdc00cca5432f",
-   "size": 4103040,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/0fd8b10c6466fad85e17b1c428ab02994488ca83/releases/monstermaulers_20261021.rbf"
+  "_Arcade/cores/monstermaulers_20261025.rbf": {
+   "hash": "f90b6e2e93d74026dec24659d635d0c4",
+   "size": 4105212,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/f99a51eab6717a4e0a9ec828c55aef45f836be5e/releases/monstermaulers_20261025.rbf"
   },
   "_Arcade/cores/mysticwarriors_20261019.rbf": {
    "hash": "c24f92c70f96bcc7ea669ec0afeff9c6",
@@ -1393,6 +1408,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/heuksun.zip",
    "overwrite": false
   },
+  "games/mame/hexion.zip": {
+   "hash": "e18ba2bc519c19afeb9a9f21c04677a6",
+   "size": 693167,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/hexion.zip",
+   "overwrite": false
+  },
   "games/mame/horshoes.zip": {
    "hash": "d2bfb5cf69d03cb361592cac22a72be7",
    "size": 268582,
@@ -1684,6 +1705,9 @@
   "_Arcade/_Decoryah/_Gaiapolis": {},
   "_Arcade/_Decoryah/_Gunpey": {},
   "_Arcade/_Decoryah/_HeavyUnit": {},
+  "_Arcade/_Decoryah/_Hexion": {},
+  "_Arcade/_Decoryah/_Hexion/_alternatives": {},
+  "_Arcade/_Decoryah/_Hexion/_alternatives/_Hexion": {},
   "_Arcade/_Decoryah/_IGSPGM2": {},
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives": {},
   "_Arcade/_Decoryah/_IGSPGM2/_alternatives/_Knights of Valour 2 New Legend": {},
