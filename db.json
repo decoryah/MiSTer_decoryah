@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1792904389,
+ "timestamp": 1792929029,
  "files": {
   "_Arcade/_Decoryah/_ArcadiaSystems/Aaargh (Arcadia).mra": {
    "hash": "dd88b0fdd3c3b0e7b6d6ea36ad054cc6",
@@ -977,37 +977,37 @@
   "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (Asia ver AAB).mra": {
    "hash": "17866ac3a553510ab71a34f0f9013eed",
    "size": 3701,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/fdf63e5e373eb8fc30e45aa5a7979e753f636a87/mra/Violent%20Storm%20%28Asia%20ver%20AAB%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/4925a7a3e63881c70e916bbb9fbed6629b0ffeac/mra/Violent%20Storm%20%28Asia%20ver%20AAB%29.mra"
   },
   "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (Asia ver AAC).mra": {
    "hash": "a444acb7dcf40aafc180cad4c85cad54",
    "size": 3699,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/fdf63e5e373eb8fc30e45aa5a7979e753f636a87/mra/Violent%20Storm%20%28Asia%20ver%20AAC%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/4925a7a3e63881c70e916bbb9fbed6629b0ffeac/mra/Violent%20Storm%20%28Asia%20ver%20AAC%29.mra"
   },
   "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (Japan ver JAC).mra": {
    "hash": "86119df075f14232129f82c4b76cb48d",
    "size": 3701,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/fdf63e5e373eb8fc30e45aa5a7979e753f636a87/mra/Violent%20Storm%20%28Japan%20ver%20JAC%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/4925a7a3e63881c70e916bbb9fbed6629b0ffeac/mra/Violent%20Storm%20%28Japan%20ver%20JAC%29.mra"
   },
   "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (USA ver UAB).mra": {
    "hash": "def9295b8f335ea81603e6437e66c1a9",
    "size": 3699,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/fdf63e5e373eb8fc30e45aa5a7979e753f636a87/mra/Violent%20Storm%20%28USA%20ver%20UAB%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/4925a7a3e63881c70e916bbb9fbed6629b0ffeac/mra/Violent%20Storm%20%28USA%20ver%20UAB%29.mra"
   },
   "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (USA ver UAC).mra": {
    "hash": "9619b9cee591ec639a6971842b301aa1",
    "size": 3697,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/fdf63e5e373eb8fc30e45aa5a7979e753f636a87/mra/Violent%20Storm%20%28USA%20ver%20UAC%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/4925a7a3e63881c70e916bbb9fbed6629b0ffeac/mra/Violent%20Storm%20%28USA%20ver%20UAC%29.mra"
   },
   "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (World ver EAB).mra": {
    "hash": "258055e0b8cddfb2fc1331798f7992b2",
    "size": 3703,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/fdf63e5e373eb8fc30e45aa5a7979e753f636a87/mra/Violent%20Storm%20%28World%20ver%20EAB%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/4925a7a3e63881c70e916bbb9fbed6629b0ffeac/mra/Violent%20Storm%20%28World%20ver%20EAB%29.mra"
   },
   "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (World ver EAC).mra": {
    "hash": "9d466bf61b3a218c43b6b3ac1de42d4d",
    "size": 3699,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/fdf63e5e373eb8fc30e45aa5a7979e753f636a87/mra/Violent%20Storm%20%28World%20ver%20EAC%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/4925a7a3e63881c70e916bbb9fbed6629b0ffeac/mra/Violent%20Storm%20%28World%20ver%20EAC%29.mra"
   },
   "_Arcade/cores/PGM2_20261017e.rbf": {
    "hash": "9113c0882f0ceb9b8578c76c81c3077f",
@@ -1109,10 +1109,10 @@
    "size": 3863676,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/releases/taitol_20261007.rbf"
   },
-  "_Arcade/cores/violentstorm_20261024.rbf": {
-   "hash": "24d7e57e7bd42f210e4f13630b588753",
-   "size": 4099092,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/fdf63e5e373eb8fc30e45aa5a7979e753f636a87/releases/violentstorm_20261024.rbf"
+  "_Arcade/cores/violentstorm_20261025.rbf": {
+   "hash": "f7e3c1b859ef6420e632ec883fa30088",
+   "size": 4096256,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/4925a7a3e63881c70e916bbb9fbed6629b0ffeac/releases/violentstorm_20261025.rbf"
   },
   "games/mame/3kokushi.zip": {
    "hash": "6bfa22165bcc85fef6cc98a7e5650621",
