@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1792962039,
+ "timestamp": 1793227446,
  "files": {
   "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
    "hash": "8ee3816c34f64dde08e19791f3962721",
@@ -177,27 +177,27 @@
   "_Arcade/_Decoryah/_HeavyUnit/Heavy Unit (Japan, alternate ROM format).mra": {
    "hash": "d634fe85119f136fad6329c7d30fc1da",
    "size": 2718,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/mra/Heavy%20Unit%20%28Japan%2C%20alternate%20ROM%20format%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/6dc6910217fa0975f5e52d67ad10998faaa2275f/mra/Heavy%20Unit%20%28Japan%2C%20alternate%20ROM%20format%29.mra"
   },
   "_Arcade/_Decoryah/_HeavyUnit/Heavy Unit (Japan, newer).mra": {
    "hash": "a1f390ff378ce4259325fe53677d2011",
    "size": 2556,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/mra/Heavy%20Unit%20%28Japan%2C%20newer%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/6dc6910217fa0975f5e52d67ad10998faaa2275f/mra/Heavy%20Unit%20%28Japan%2C%20newer%29.mra"
   },
   "_Arcade/_Decoryah/_HeavyUnit/Heavy Unit (Japan, older).mra": {
    "hash": "504fccd503e0585c7f4481a46f43a687",
    "size": 2948,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/mra/Heavy%20Unit%20%28Japan%2C%20older%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/6dc6910217fa0975f5e52d67ad10998faaa2275f/mra/Heavy%20Unit%20%28Japan%2C%20older%29.mra"
   },
   "_Arcade/_Decoryah/_HeavyUnit/Heavy Unit (World).mra": {
    "hash": "dee8b9bf767ad38b455d0ce6ec8c8d03",
    "size": 3050,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/mra/Heavy%20Unit%20%28World%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/6dc6910217fa0975f5e52d67ad10998faaa2275f/mra/Heavy%20Unit%20%28World%29.mra"
   },
   "_Arcade/_Decoryah/_HeavyUnit/Heavy Unit -U.S.A. Version- (US).mra": {
    "hash": "2eeb0bff7987cc49cd2b8c398c95ceae",
    "size": 2561,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/mra/Heavy%20Unit%20-U.S.A.%20Version-%20%28US%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/6dc6910217fa0975f5e52d67ad10998faaa2275f/mra/Heavy%20Unit%20-U.S.A.%20Version-%20%28US%29.mra"
   },
   "_Arcade/_Decoryah/_Hexion/Hexion (Japan ver JAB).mra": {
    "hash": "1b89a4a43e2037c18e658c3ea7fd8aae",
@@ -328,6 +328,21 @@
    "hash": "b7e05275152ee59d3a8c53a7aa7ecb11",
    "size": 3863,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/1ab56bd629b301ddf447f35b8616d0831feb9d97/mra/_alternatives/_Jackie%20Chan%20-%20The%20Kung-Fu%20Master/Jackie%20Chan%20-%20The%20Kung-Fu%20Master%20%28rev%203%29.mra"
+  },
+  "_Arcade/_Decoryah/_LethalCrashRace/Lethal Crash Race (set 1).mra": {
+   "hash": "70cc14f55f58c898bb947f60e46803bd",
+   "size": 4742,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-LethalCrashRace_MiSTer/979d496839dbcebb88e51e737b76b6fcff034fdd/mra/Lethal%20Crash%20Race%20%28set%201%29.mra"
+  },
+  "_Arcade/_Decoryah/_LethalCrashRace/_alternatives/_Crash Race/Lethal Crash Race (set 2).mra": {
+   "hash": "98a2b1fc6f5fb77a2d58f31e93007e31",
+   "size": 4758,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-LethalCrashRace_MiSTer/979d496839dbcebb88e51e737b76b6fcff034fdd/mra/_alternatives/_Crash%20Race/Lethal%20Crash%20Race%20%28set%202%29.mra"
+  },
+  "_Arcade/_Decoryah/_LethalCrashRace/_alternatives/_Crash Race/Lethal Crash Race (set 2, alternate sound ROM).mra": {
+   "hash": "c20419f94c7f0875f174c963086cf41d",
+   "size": 4781,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-LethalCrashRace_MiSTer/979d496839dbcebb88e51e737b76b6fcff034fdd/mra/_alternatives/_Crash%20Race/Lethal%20Crash%20Race%20%28set%202%2C%20alternate%20sound%20ROM%29.mra"
   },
   "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/Magical Cat Adventure.mra": {
    "hash": "7226084f6fd66ddec217181dd47fdf12",
@@ -637,27 +652,27 @@
   "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (Asia ver AAA).mra": {
    "hash": "55dda4eb3178a61c23d7fc44845b2d91",
    "size": 4383,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/7d1225ce3d390befb29292bba0dfa6478376ee13/mra/Mystic%20Warriors%20%28Asia%20ver%20AAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/f379a0f06b9e11e2943655bcd044e681669a14eb/mra/Mystic%20Warriors%20%28Asia%20ver%20AAA%29.mra"
   },
   "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (Asia ver AAB).mra": {
    "hash": "5c767b0d8e2d7f0a7494981e5f8acb40",
    "size": 4381,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/7d1225ce3d390befb29292bba0dfa6478376ee13/mra/Mystic%20Warriors%20%28Asia%20ver%20AAB%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/f379a0f06b9e11e2943655bcd044e681669a14eb/mra/Mystic%20Warriors%20%28Asia%20ver%20AAB%29.mra"
   },
   "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (Japan ver JAA).mra": {
    "hash": "9af9de5a7e59d5cb08b4e8efa3979b4d",
    "size": 4383,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/7d1225ce3d390befb29292bba0dfa6478376ee13/mra/Mystic%20Warriors%20%28Japan%20ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/f379a0f06b9e11e2943655bcd044e681669a14eb/mra/Mystic%20Warriors%20%28Japan%20ver%20JAA%29.mra"
   },
   "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (USA ver UAA).mra": {
    "hash": "491c81f12a32f9b8eb209b5d854e7743",
    "size": 4379,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/7d1225ce3d390befb29292bba0dfa6478376ee13/mra/Mystic%20Warriors%20%28USA%20ver%20UAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/f379a0f06b9e11e2943655bcd044e681669a14eb/mra/Mystic%20Warriors%20%28USA%20ver%20UAA%29.mra"
   },
   "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (World ver EAA).mra": {
    "hash": "e02f21c5926fddef1b2743babdaa6279",
    "size": 4368,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/7d1225ce3d390befb29292bba0dfa6478376ee13/mra/Mystic%20Warriors%20%28World%20ver%20EAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/f379a0f06b9e11e2943655bcd044e681669a14eb/mra/Mystic%20Warriors%20%28World%20ver%20EAA%29.mra"
   },
   "_Arcade/_Decoryah/_OhMyGod/Naname de Magic! (Japan).mra": {
    "hash": "acfff3c20b83e0abae487b8f1849ef00",
@@ -803,6 +818,21 @@
    "hash": "1085ef5e8c1dcf07975ee57b4ae5bada",
    "size": 4657,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/mra/_alternatives/_Wing%20Shooting%20Championship/Wing%20Shooting%20Championship%20%28V1.01%29.mra"
+  },
+  "_Arcade/_Decoryah/_SilverMillennium/PuzzLove.mra": {
+   "hash": "7b34095dd2d3a7922cc8585b1c26b536",
+   "size": 5080,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-SilverMillennium_MiSTer/dc48c4b9170a4f459314c9a52e400a5d12638eca/mra/PuzzLove.mra"
+  },
+  "_Arcade/_Decoryah/_SilverMillennium/Silver Millennium.mra": {
+   "hash": "130f066fa8c4f57f8105722ee5f3d6d0",
+   "size": 7803,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-SilverMillennium_MiSTer/dc48c4b9170a4f459314c9a52e400a5d12638eca/mra/Silver%20Millennium.mra"
+  },
+  "_Arcade/_Decoryah/_SilverMillennium/_alternatives/_PuzzLove/PuzzLove (Korea).mra": {
+   "hash": "accf4fce9cfd4ac6cb3556dd6363562a",
+   "size": 5130,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-SilverMillennium_MiSTer/dc48c4b9170a4f459314c9a52e400a5d12638eca/mra/_alternatives/_PuzzLove/PuzzLove%20%28Korea%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/American Horseshoes (US).mra": {
    "hash": "f33dec0f5d57f1a6815608424004c565",
@@ -1044,6 +1074,11 @@
    "size": 3008500,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/releases/arcadiasystems_20261021.rbf"
   },
+  "_Arcade/cores/crashrace_20261028.rbf": {
+   "hash": "9db6249be38dd5f288cacb138290df4d",
+   "size": 3738404,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-LethalCrashRace_MiSTer/979d496839dbcebb88e51e737b76b6fcff034fdd/releases/crashrace_20261028.rbf"
+  },
   "_Arcade/cores/crospang_20261019.rbf": {
    "hash": "47587e6cdc01353dbeb68c3c23a4d6b4",
    "size": 3267148,
@@ -1062,7 +1097,7 @@
   "_Arcade/cores/heavyunit_20261017.rbf": {
    "hash": "cef98ffb74e641ff87bc9208fcc3cf05",
    "size": 3750316,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/a753804157da46c90096598e37557139e90d5797/releases/heavyunit_20261017.rbf"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-HeavyUnit_MiSTer/6dc6910217fa0975f5e52d67ad10998faaa2275f/releases/heavyunit_20261017.rbf"
   },
   "_Arcade/cores/hexion_20261025.rbf": {
    "hash": "dc29e7369ee00b19be44b8ec02dde4d2",
@@ -1107,7 +1142,7 @@
   "_Arcade/cores/mysticwarriors_20261019.rbf": {
    "hash": "c24f92c70f96bcc7ea669ec0afeff9c6",
    "size": 4025540,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/7d1225ce3d390befb29292bba0dfa6478376ee13/releases/mysticwarriors_20261019.rbf"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/f379a0f06b9e11e2943655bcd044e681669a14eb/releases/mysticwarriors_20261019.rbf"
   },
   "_Arcade/cores/ohmygod_20261023b.rbf": {
    "hash": "8222dd766cd1d4ab5c62482bde090196",
@@ -1133,6 +1168,11 @@
    "hash": "3959b36895849a01ec3f658b5032bee7",
    "size": 4057400,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-Seta2_MiSTer/70f3f62df36ae030c289a79f627d46dedb4a7de4/releases/seta2pen_20261021.rbf"
+  },
+  "_Arcade/cores/silvmil_20261028.rbf": {
+   "hash": "c68f7afa97f33fe7c6d2cb3e6f2c23a6",
+   "size": 3321592,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-SilverMillennium_MiSTer/dc48c4b9170a4f459314c9a52e400a5d12638eca/releases/silvmil_20261028.rbf"
   },
   "_Arcade/cores/taitol_20261007.rbf": {
    "hash": "5e8c809faa3b6e68b3ffb13da65f6a56",
@@ -1298,6 +1338,12 @@
    "hash": "f875e80036e6f82be70150f03cecdfc7",
    "size": 604559,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/crospang.zip",
+   "overwrite": false
+  },
+  "games/mame/crshrace.zip": {
+   "hash": "0c7c7ac87ecad03fb8dbe1e0b43edb53",
+   "size": 4525502,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/crshrace.zip",
    "overwrite": false
   },
   "games/mame/cubybop.zip": {
@@ -1618,6 +1664,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/puzzli.zip",
    "overwrite": false
   },
+  "games/mame/puzzlove.zip": {
+   "hash": "3cadfbc4fb7c393c491615a4c4bd40af",
+   "size": 1359367,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/puzzlove.zip",
+   "overwrite": false
+  },
   "games/mame/puzznic.zip": {
    "hash": "1c52577990267cb15bc8ae15ae055277",
    "size": 413978,
@@ -1640,6 +1692,12 @@
    "hash": "af24e855efc7c46d3310208572e739cf",
    "size": 1008078,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/raimais.zip",
+   "overwrite": false
+  },
+  "games/mame/silvmil.zip": {
+   "hash": "9abbe693a300ad64251dd5f9d51d088a",
+   "size": 1796208,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/silvmil.zip",
    "overwrite": false
   },
   "games/mame/skyalert.zip": {
@@ -1716,6 +1774,9 @@
   "_Arcade/_Decoryah/_JackieChan": {},
   "_Arcade/_Decoryah/_JackieChan/_alternatives": {},
   "_Arcade/_Decoryah/_JackieChan/_alternatives/_Jackie Chan - The Kung-Fu Master": {},
+  "_Arcade/_Decoryah/_LethalCrashRace": {},
+  "_Arcade/_Decoryah/_LethalCrashRace/_alternatives": {},
+  "_Arcade/_Decoryah/_LethalCrashRace/_alternatives/_Crash Race": {},
   "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus": {},
   "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/_alternatives": {},
   "_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus/_alternatives/_Magical Cat Adventure": {},
@@ -1749,6 +1810,9 @@
   "_Arcade/_Decoryah/_Seta2/_alternatives/_Penguin Brothers": {},
   "_Arcade/_Decoryah/_Seta2/_alternatives/_Trophy Hunting - Bear & Moose": {},
   "_Arcade/_Decoryah/_Seta2/_alternatives/_Wing Shooting Championship": {},
+  "_Arcade/_Decoryah/_SilverMillennium": {},
+  "_Arcade/_Decoryah/_SilverMillennium/_alternatives": {},
+  "_Arcade/_Decoryah/_SilverMillennium/_alternatives/_PuzzLove": {},
   "_Arcade/_Decoryah/_TaitoLSystem": {},
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives": {},
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Champion Wrestler": {},
