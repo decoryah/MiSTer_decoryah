@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1793227446,
+ "timestamp": 1793314399,
  "files": {
   "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
    "hash": "8ee3816c34f64dde08e19791f3962721",
@@ -123,6 +123,16 @@
    "hash": "1143c2d73ff63b685367e4a3fe5f4691",
    "size": 1981,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/_alternatives/_SportTime%20Table%20Hockey/SportTime%20Table%20Hockey%20%28Arcadia%2C%20set%202%29.mra"
+  },
+  "_Arcade/_Decoryah/_BlockHole/Block Hole.mra": {
+   "hash": "1a9761c95864563dae02c84b16b99469",
+   "size": 2923,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-BlockHole_MiSTer/8a28b5c94146f5fcec60328b79aebd87cb103dec/mra/Block%20Hole.mra"
+  },
+  "_Arcade/_Decoryah/_BlockHole/_alternatives/_Block Hole/Quarth (Japan).mra": {
+   "hash": "4af2a4c0ec64b8cedf4ddf00771a0680",
+   "size": 2937,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-BlockHole_MiSTer/8a28b5c94146f5fcec60328b79aebd87cb103dec/mra/_alternatives/_Block%20Hole/Quarth%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_CrossPang/Bestri (Korea, set 1).mra": {
    "hash": "f508cf1a8e425eadfd19434918969c8d",
@@ -652,27 +662,27 @@
   "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (Asia ver AAA).mra": {
    "hash": "55dda4eb3178a61c23d7fc44845b2d91",
    "size": 4383,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/f379a0f06b9e11e2943655bcd044e681669a14eb/mra/Mystic%20Warriors%20%28Asia%20ver%20AAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/80efb440747a62be84a275d5321a2e9d543fd9ce/mra/Mystic%20Warriors%20%28Asia%20ver%20AAA%29.mra"
   },
   "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (Asia ver AAB).mra": {
    "hash": "5c767b0d8e2d7f0a7494981e5f8acb40",
    "size": 4381,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/f379a0f06b9e11e2943655bcd044e681669a14eb/mra/Mystic%20Warriors%20%28Asia%20ver%20AAB%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/80efb440747a62be84a275d5321a2e9d543fd9ce/mra/Mystic%20Warriors%20%28Asia%20ver%20AAB%29.mra"
   },
   "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (Japan ver JAA).mra": {
    "hash": "9af9de5a7e59d5cb08b4e8efa3979b4d",
    "size": 4383,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/f379a0f06b9e11e2943655bcd044e681669a14eb/mra/Mystic%20Warriors%20%28Japan%20ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/80efb440747a62be84a275d5321a2e9d543fd9ce/mra/Mystic%20Warriors%20%28Japan%20ver%20JAA%29.mra"
   },
   "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (USA ver UAA).mra": {
    "hash": "491c81f12a32f9b8eb209b5d854e7743",
    "size": 4379,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/f379a0f06b9e11e2943655bcd044e681669a14eb/mra/Mystic%20Warriors%20%28USA%20ver%20UAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/80efb440747a62be84a275d5321a2e9d543fd9ce/mra/Mystic%20Warriors%20%28USA%20ver%20UAA%29.mra"
   },
   "_Arcade/_Decoryah/_MysticWarriors/Mystic Warriors (World ver EAA).mra": {
    "hash": "e02f21c5926fddef1b2743babdaa6279",
    "size": 4368,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/f379a0f06b9e11e2943655bcd044e681669a14eb/mra/Mystic%20Warriors%20%28World%20ver%20EAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/80efb440747a62be84a275d5321a2e9d543fd9ce/mra/Mystic%20Warriors%20%28World%20ver%20EAA%29.mra"
   },
   "_Arcade/_Decoryah/_OhMyGod/Naname de Magic! (Japan).mra": {
    "hash": "acfff3c20b83e0abae487b8f1849ef00",
@@ -833,6 +843,31 @@
    "hash": "accf4fce9cfd4ac6cb3556dd6363562a",
    "size": 5130,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-SilverMillennium_MiSTer/dc48c4b9170a4f459314c9a52e400a5d12638eca/mra/_alternatives/_PuzzLove/PuzzLove%20%28Korea%29.mra"
+  },
+  "_Arcade/_Decoryah/_SlapShot/Operation Wolf 3.mra": {
+   "hash": "dbc6629d7bcec895e189d523278321ec",
+   "size": 2509,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-SlapShot_MiSTer/039cbaa61f3e33c5f50ac48fc71f4cb8b8781b85/mra/Operation%20Wolf%203.mra"
+  },
+  "_Arcade/_Decoryah/_SlapShot/Slap Shot.mra": {
+   "hash": "68f6038f208621091dc91a3bf79d1bdb",
+   "size": 2332,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-SlapShot_MiSTer/039cbaa61f3e33c5f50ac48fc71f4cb8b8781b85/mra/Slap%20Shot.mra"
+  },
+  "_Arcade/_Decoryah/_SlapShot/_alternatives/_Operation Wolf 3/Operation Wolf 3 (Japan).mra": {
+   "hash": "7c17c0ea9131e7b723195c8111009ce3",
+   "size": 2523,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-SlapShot_MiSTer/039cbaa61f3e33c5f50ac48fc71f4cb8b8781b85/mra/_alternatives/_Operation%20Wolf%203/Operation%20Wolf%203%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_SlapShot/_alternatives/_Operation Wolf 3/Operation Wolf 3 (US).mra": {
+   "hash": "6688771fbd5260c04b50b9217a196658",
+   "size": 2528,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-SlapShot_MiSTer/039cbaa61f3e33c5f50ac48fc71f4cb8b8781b85/mra/_alternatives/_Operation%20Wolf%203/Operation%20Wolf%203%20%28US%29.mra"
+  },
+  "_Arcade/_Decoryah/_SlapShot/_alternatives/_Slap Shot/Slap Shot (Ver 2.2 J).mra": {
+   "hash": "f8ab4264c97b5c4545519f953ee77b60",
+   "size": 2343,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-SlapShot_MiSTer/039cbaa61f3e33c5f50ac48fc71f4cb8b8781b85/mra/_alternatives/_Slap%20Shot/Slap%20Shot%20%28Ver%202.2%20J%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/American Horseshoes (US).mra": {
    "hash": "f33dec0f5d57f1a6815608424004c565",
@@ -1074,6 +1109,11 @@
    "size": 3008500,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/releases/arcadiasystems_20261021.rbf"
   },
+  "_Arcade/cores/blockhl_20261029.rbf": {
+   "hash": "253a7e772719f7ee82200fd78ae187d1",
+   "size": 3681100,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-BlockHole_MiSTer/8a28b5c94146f5fcec60328b79aebd87cb103dec/releases/blockhl_20261029.rbf"
+  },
   "_Arcade/cores/crashrace_20261028.rbf": {
    "hash": "9db6249be38dd5f288cacb138290df4d",
    "size": 3738404,
@@ -1139,10 +1179,10 @@
    "size": 4105212,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-MonsterMaulers_MiSTer/f99a51eab6717a4e0a9ec828c55aef45f836be5e/releases/monstermaulers_20261025.rbf"
   },
-  "_Arcade/cores/mysticwarriors_20261019.rbf": {
-   "hash": "c24f92c70f96bcc7ea669ec0afeff9c6",
-   "size": 4025540,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/f379a0f06b9e11e2943655bcd044e681669a14eb/releases/mysticwarriors_20261019.rbf"
+  "_Arcade/cores/mysticwarriors_20261029.rbf": {
+   "hash": "9d8199529ee67a9ba5564ea5ba1d6172",
+   "size": 4021972,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-MysticWarriors_MiSTer/80efb440747a62be84a275d5321a2e9d543fd9ce/releases/mysticwarriors_20261029.rbf"
   },
   "_Arcade/cores/ohmygod_20261023b.rbf": {
    "hash": "8222dd766cd1d4ab5c62482bde090196",
@@ -1173,6 +1213,11 @@
    "hash": "c68f7afa97f33fe7c6d2cb3e6f2c23a6",
    "size": 3321592,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-SilverMillennium_MiSTer/dc48c4b9170a4f459314c9a52e400a5d12638eca/releases/silvmil_20261028.rbf"
+  },
+  "_Arcade/cores/slapshot_20261029.rbf": {
+   "hash": "807907882857c5761ec1e22a9d642be2",
+   "size": 3969380,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-SlapShot_MiSTer/039cbaa61f3e33c5f50ac48fc71f4cb8b8781b85/releases/slapshot_20261029.rbf"
   },
   "_Arcade/cores/taitol_20261007.rbf": {
    "hash": "5e8c809faa3b6e68b3ffb13da65f6a56",
@@ -1314,6 +1359,12 @@
    "hash": "1b8565f56b9a5ab48632ea293da3606c",
    "size": 3537876,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/bestri.zip",
+   "overwrite": false
+  },
+  "games/mame/blockhl.zip": {
+   "hash": "781af44cf217a8317ae970270b4fe5a5",
+   "size": 244996,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/blockhl.zip",
    "overwrite": false
   },
   "games/mame/blzntrnd.zip": {
@@ -1598,6 +1649,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ohmygod.zip",
    "overwrite": false
   },
+  "games/mame/opwolf3.zip": {
+   "hash": "412bb4bbe2e995bf2240db33951dcca0",
+   "size": 8120127,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/opwolf3.zip",
+   "overwrite": false
+  },
   "games/mame/orleg2.zip": {
    "hash": "d43d348f96d2808273d5944f7d5c4bb1",
    "size": 62161479,
@@ -1706,6 +1763,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/skyalert.zip",
    "overwrite": false
   },
+  "games/mame/slapshot.zip": {
+   "hash": "9c68447a0eee034d2f43f2d747b9a4d1",
+   "size": 2218826,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/slapshot.zip",
+   "overwrite": false
+  },
   "games/mame/toride2g.zip": {
    "hash": "6f26e1a1d2b2453a9bf913a45e00fc10",
    "size": 4201859,
@@ -1756,6 +1819,9 @@
   "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_Ninja Mission": {},
   "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_Sidewinder": {},
   "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_SportTime Table Hockey": {},
+  "_Arcade/_Decoryah/_BlockHole": {},
+  "_Arcade/_Decoryah/_BlockHole/_alternatives": {},
+  "_Arcade/_Decoryah/_BlockHole/_alternatives/_Block Hole": {},
   "_Arcade/_Decoryah/_CrossPang": {},
   "_Arcade/_Decoryah/_CrossPang/_alternatives": {},
   "_Arcade/_Decoryah/_CrossPang/_alternatives/_Bestri": {},
@@ -1813,6 +1879,10 @@
   "_Arcade/_Decoryah/_SilverMillennium": {},
   "_Arcade/_Decoryah/_SilverMillennium/_alternatives": {},
   "_Arcade/_Decoryah/_SilverMillennium/_alternatives/_PuzzLove": {},
+  "_Arcade/_Decoryah/_SlapShot": {},
+  "_Arcade/_Decoryah/_SlapShot/_alternatives": {},
+  "_Arcade/_Decoryah/_SlapShot/_alternatives/_Operation Wolf 3": {},
+  "_Arcade/_Decoryah/_SlapShot/_alternatives/_Slap Shot": {},
   "_Arcade/_Decoryah/_TaitoLSystem": {},
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives": {},
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Champion Wrestler": {},
