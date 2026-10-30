@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1793314399,
+ "timestamp": 1793399532,
  "files": {
   "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
    "hash": "8ee3816c34f64dde08e19791f3962721",
@@ -869,6 +869,11 @@
    "size": 2343,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-SlapShot_MiSTer/039cbaa61f3e33c5f50ac48fc71f4cb8b8781b85/mra/_alternatives/_Slap%20Shot/Slap%20Shot%20%28Ver%202.2%20J%29.mra"
   },
+  "_Arcade/_Decoryah/_SuperDuck/Super Duck.mra": {
+   "hash": "9b8e6862a40e29a3bf872a3845a5a94c",
+   "size": 4065,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-SuperDuck_MiSTer/dd6d936b980b03160fa81dd5d6a08b656d128d65/mra/Super%20Duck.mra"
+  },
   "_Arcade/_Decoryah/_TaitoLSystem/American Horseshoes (US).mra": {
    "hash": "f33dec0f5d57f1a6815608424004c565",
    "size": 3794,
@@ -1218,6 +1223,11 @@
    "hash": "807907882857c5761ec1e22a9d642be2",
    "size": 3969380,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-SlapShot_MiSTer/039cbaa61f3e33c5f50ac48fc71f4cb8b8781b85/releases/slapshot_20261029.rbf"
+  },
+  "_Arcade/cores/supduck_20261030.rbf": {
+   "hash": "6b4b0dbcc67d6e5b12f6723077b9d262",
+   "size": 3315312,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-SuperDuck_MiSTer/dd6d936b980b03160fa81dd5d6a08b656d128d65/releases/supduck_20261030.rbf"
   },
   "_Arcade/cores/taitol_20261007.rbf": {
    "hash": "5e8c809faa3b6e68b3ffb13da65f6a56",
@@ -1769,6 +1779,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/slapshot.zip",
    "overwrite": false
   },
+  "games/mame/supduck.zip": {
+   "hash": "3355bc60f8d132615603a77dad58e5a9",
+   "size": 1056134,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/supduck.zip",
+   "overwrite": false
+  },
   "games/mame/toride2g.zip": {
    "hash": "6f26e1a1d2b2453a9bf913a45e00fc10",
    "size": 4201859,
@@ -1883,6 +1899,7 @@
   "_Arcade/_Decoryah/_SlapShot/_alternatives": {},
   "_Arcade/_Decoryah/_SlapShot/_alternatives/_Operation Wolf 3": {},
   "_Arcade/_Decoryah/_SlapShot/_alternatives/_Slap Shot": {},
+  "_Arcade/_Decoryah/_SuperDuck": {},
   "_Arcade/_Decoryah/_TaitoLSystem": {},
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives": {},
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Champion Wrestler": {},

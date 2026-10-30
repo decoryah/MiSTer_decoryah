@@ -1,6 +1,6 @@
 # Cores in this database
 
-Updated 2026-10-29. 341 files from 23 repositories.
+Updated 2026-10-30. 344 files from 24 repositories.
 
 | Repository | MRA folder | Builds | Latest build | MRAs |
 |---|---|---|---|---|
@@ -25,5 +25,6 @@ Updated 2026-10-29. 341 files from 23 repositories.
 | [decoryah/Arcade-Seta2_MiSTer](https://github.com/decoryah/Arcade-Seta2_MiSTer) | `_Arcade/_Decoryah/_Seta2` | `seta2_20261021.rbf`, `seta2grd_20261021.rbf`, `seta2pen_20261021.rbf` | 2026-10-21 | 23 |
 | [decoryah/Arcade-SilverMillennium_MiSTer](https://github.com/decoryah/Arcade-SilverMillennium_MiSTer) | `_Arcade/_Decoryah/_SilverMillennium` | `silvmil_20261028.rbf` | 2026-10-28 | 3 |
 | [decoryah/Arcade-SlapShot_MiSTer](https://github.com/decoryah/Arcade-SlapShot_MiSTer) | `_Arcade/_Decoryah/_SlapShot` | `slapshot_20261029.rbf` | 2026-10-29 | 5 |
+| [decoryah/Arcade-SuperDuck_MiSTer](https://github.com/decoryah/Arcade-SuperDuck_MiSTer) | `_Arcade/_Decoryah/_SuperDuck` | `supduck_20261030.rbf` | 2026-10-30 | 1 |
 | [decoryah/Arcade-TaitoLSystem_MiSTer](https://github.com/decoryah/Arcade-TaitoLSystem_MiSTer) | `_Arcade/_Decoryah/_TaitoLSystem` | `taitol_20261007.rbf` | 2026-10-07 | 38 |
 | [decoryah/Arcade-ViolentStorm_MiSTer](https://github.com/decoryah/Arcade-ViolentStorm_MiSTer) | `_Arcade/_Decoryah/_ViolentStorm` | `violentstorm_20261025.rbf` | 2026-10-25 | 7 |
