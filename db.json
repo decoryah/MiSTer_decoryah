@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1793399532,
+ "timestamp": 1793514606,
  "files": {
   "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
    "hash": "8ee3816c34f64dde08e19791f3962721",
@@ -875,194 +875,199 @@
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-SuperDuck_MiSTer/dd6d936b980b03160fa81dd5d6a08b656d128d65/mra/Super%20Duck.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/American Horseshoes (US).mra": {
-   "hash": "f33dec0f5d57f1a6815608424004c565",
-   "size": 3794,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/American%20Horseshoes%20%28US%29.mra"
+   "hash": "f3fddd3903adaddf0991caadecbcd2a1",
+   "size": 3808,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/American%20Horseshoes%20%28US%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/Champion Wrestler (World).mra": {
-   "hash": "077b5e97eb143094efb4e3304b84f562",
-   "size": 2975,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Champion%20Wrestler%20%28World%29.mra"
+   "hash": "53702f5bbdd806cf241760eff09fcbed",
+   "size": 2989,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/Champion%20Wrestler%20%28World%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/Cuby Bop (Japan, location test).mra": {
-   "hash": "5dc0211b6de3edbc331b5035ea7da6d3",
-   "size": 3080,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Cuby%20Bop%20%28Japan%2C%20location%20test%29.mra"
+   "hash": "59c1763f70c4759ae86718c9149344a3",
+   "size": 3096,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/Cuby%20Bop%20%28Japan%2C%20location%20test%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/Evil Stone.mra": {
-   "hash": "59717e0f161a874db6821abdd5ec6f95",
-   "size": 2875,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Evil%20Stone.mra"
+   "hash": "2efc33d54818bcbf7181225f86267b48",
+   "size": 2896,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/Evil%20Stone.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/Fighting Hawk (World).mra": {
-   "hash": "de4648d056c393d2bdc538b6dc604370",
-   "size": 2899,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Fighting%20Hawk%20%28World%29.mra"
+   "hash": "4ed013673d65f35580bbff09cf066ea7",
+   "size": 2912,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/Fighting%20Hawk%20%28World%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/Kuri Kinton (World).mra": {
-   "hash": "72d8216188d16d8a4a6393389e97fb8f",
-   "size": 2967,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Kuri%20Kinton%20%28World%29.mra"
+   "hash": "dfeb2936f063160a9ae9c60e1b5b88e0",
+   "size": 2986,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/Kuri%20Kinton%20%28World%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/Palamedes (US).mra": {
-   "hash": "dbf9d8eafb96dba62c12ac5f53eda2f5",
-   "size": 2915,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Palamedes%20%28US%29.mra"
+   "hash": "23f8129ab771d77e72e3155602263428",
+   "size": 2935,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/Palamedes%20%28US%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/Play Girls 2 (Europe).mra": {
-   "hash": "a5b4e715eb55dcb3ba99981075656df6",
-   "size": 2930,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Play%20Girls%202%20%28Europe%29.mra"
+   "hash": "2ff9dc13a2108a9d0d0e878b921d8a5d",
+   "size": 2951,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/Play%20Girls%202%20%28Europe%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/Play Girls.mra": {
-   "hash": "ab3047443b2cf742ccc5b89e22b73596",
-   "size": 2925,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Play%20Girls.mra"
+   "hash": "1de4b7da3dc22ee1affef4f6c30edb4d",
+   "size": 2934,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/Play%20Girls.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/Plotting (World set 1).mra": {
-   "hash": "23877b28b5e40dbb46eb358596501d75",
-   "size": 2893,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Plotting%20%28World%20set%201%29.mra"
+   "hash": "c24f56e8035e01c974f48f0d7bfda141",
+   "size": 2903,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/Plotting%20%28World%20set%201%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/Puzznic (World).mra": {
-   "hash": "330e5b6502b6be51f749ce6ef352521b",
-   "size": 2950,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Puzznic%20%28World%29.mra"
+   "hash": "4104b587e37f23801432fe27c3ebe6fb",
+   "size": 2964,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/Puzznic%20%28World%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/Raimais (World, rev 1).mra": {
-   "hash": "b3c3591242e1d44f9c592513a7777c1a",
-   "size": 2949,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Raimais%20%28World%2C%20rev%201%29.mra"
+   "hash": "537d7dfeb871a590067cb7c3d0ae57f1",
+   "size": 2970,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/Raimais%20%28World%2C%20rev%201%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/Tube-It.mra": {
-   "hash": "02c9e06714711874734ca1d350597428",
-   "size": 2908,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/Tube-It.mra"
+   "hash": "3ad225335e8ba7018995eeb73a4e4fa7",
+   "size": 2925,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/Tube-It.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Champion Wrestler/Champion Wrestler (Japan).mra": {
-   "hash": "e7cde97be7bd79cfb3f34e4192bfbf21",
-   "size": 2990,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Champion%20Wrestler/Champion%20Wrestler%20%28Japan%29.mra"
+   "hash": "c9469261924a337c6a076d071a37fbfc",
+   "size": 3004,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Champion%20Wrestler/Champion%20Wrestler%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Champion Wrestler/Champion Wrestler (US).mra": {
-   "hash": "12df277f8498c6b672be5a9eab52eef9",
-   "size": 3002,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Champion%20Wrestler/Champion%20Wrestler%20%28US%29.mra"
+   "hash": "650f669c5208b190ebd93dfe00e2dac9",
+   "size": 3016,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Champion%20Wrestler/Champion%20Wrestler%20%28US%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Fighting Hawk/Fighting Hawk (Japan).mra": {
-   "hash": "4962e7bb2cb738b8d4877571a59c51e8",
-   "size": 2912,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Fighting%20Hawk/Fighting%20Hawk%20%28Japan%29.mra"
+   "hash": "52e358145960f7370a8fe2cab0bee0a1",
+   "size": 2925,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Fighting%20Hawk/Fighting%20Hawk%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Kuri Kinton/Kuri Kinton (Japan).mra": {
-   "hash": "7e9dc47e8b7690117b2e493f81936423",
-   "size": 2983,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Kuri%20Kinton/Kuri%20Kinton%20%28Japan%29.mra"
+   "hash": "0285e89b6bd5ae0ec25835f006bc3ce4",
+   "size": 3002,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Kuri%20Kinton/Kuri%20Kinton%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Kuri Kinton/Kuri Kinton (US).mra": {
-   "hash": "72a08a1a3d10de4832327f54cbcca1ed",
-   "size": 2988,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Kuri%20Kinton/Kuri%20Kinton%20%28US%29.mra"
+   "hash": "710c673462c639db449491f819d99c3e",
+   "size": 3007,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Kuri%20Kinton/Kuri%20Kinton%20%28US%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Kuri Kinton/Kuri Kinton (US, World Games license).mra": {
-   "hash": "99bb376ece45e94df2fa3476ff940c77",
-   "size": 3023,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Kuri%20Kinton/Kuri%20Kinton%20%28US%2C%20World%20Games%20license%29.mra"
+   "hash": "3273469ae3eacc0b750deec7a1827c82",
+   "size": 3042,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Kuri%20Kinton/Kuri%20Kinton%20%28US%2C%20World%20Games%20license%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Kuri Kinton/Kuri Kinton (World, prototype).mra": {
-   "hash": "9f9473306672ee43f3f39c184871e163",
-   "size": 3644,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Kuri%20Kinton/Kuri%20Kinton%20%28World%2C%20prototype%29.mra"
+   "hash": "7e10ae71d1c67db7bdda0e0004fc155b",
+   "size": 3663,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Kuri%20Kinton/Kuri%20Kinton%20%28World%2C%20prototype%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Palamedes/Palamedes (Japan).mra": {
-   "hash": "6f3d3336c1d943053f02b3a6a2ba7ad4",
-   "size": 2915,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Palamedes/Palamedes%20%28Japan%29.mra"
+   "hash": "0d4c15895377c98ad6b32802fa089f5b",
+   "size": 2935,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Palamedes/Palamedes%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Play Girls 2/Play Girls 2 (Japan).mra": {
-   "hash": "d8031d88738062bee11f44f8472aab00",
-   "size": 2944,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Play%20Girls%202/Play%20Girls%202%20%28Japan%29.mra"
+   "hash": "0d571dde4d28c5438530de945048f69f",
+   "size": 2965,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Play%20Girls%202/Play%20Girls%202%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Play Girls/LA Girl.mra": {
-   "hash": "2399ab2f5479f42679985aa6efa212fa",
-   "size": 3042,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Play%20Girls/LA%20Girl.mra"
+   "hash": "4f1dd5801e16965619c68e6a0f0777c5",
+   "size": 3051,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Play%20Girls/LA%20Girl.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Plotting/Flipull (Japan).mra": {
-   "hash": "d4e526993fdb0ed8b493a790d04d11c9",
-   "size": 2904,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Plotting/Flipull%20%28Japan%29.mra"
+   "hash": "6bebe60aa14665b5f063de097b840a1c",
+   "size": 2914,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Plotting/Flipull%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Plotting/Plotting (US).mra": {
-   "hash": "1503e8fe13064d44aa322759598d067e",
-   "size": 2922,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Plotting/Plotting%20%28US%29.mra"
+   "hash": "8dcd338852042d11dcf44f5f32aff7da",
+   "size": 2932,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Plotting/Plotting%20%28US%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Plotting/Plotting (World set 2, protected).mra": {
-   "hash": "6a9cf2616875c1f4c0e4c28ef576d8b8",
-   "size": 2926,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Plotting/Plotting%20%28World%20set%202%2C%20protected%29.mra"
+   "hash": "9a58de392d483847eea7b0cb382ba333",
+   "size": 2936,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Plotting/Plotting%20%28World%20set%202%2C%20protected%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Plotting/Plotting (World set 3, earliest version).mra": {
-   "hash": "ab5c036812437e527aeeecf4beb66cfd",
-   "size": 2933,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Plotting/Plotting%20%28World%20set%203%2C%20earliest%20version%29.mra"
+   "hash": "f77d8c1ad3cb521229abf873f1b28cbb",
+   "size": 2943,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Plotting/Plotting%20%28World%20set%203%2C%20earliest%20version%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Puzznic/Puzznic (Italian bootleg).mra": {
-   "hash": "55c4c4d1cdfd58a6305e5225f069422c",
-   "size": 2952,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Puzznic/Puzznic%20%28Italian%20bootleg%29.mra"
+   "hash": "fb72ae7c88748ea03a500c1a3a2378d9",
+   "size": 2966,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Puzznic/Puzznic%20%28Italian%20bootleg%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Puzznic/Puzznic (Japan).mra": {
-   "hash": "3f124b486f90ad762554b319e84ab4cb",
-   "size": 2978,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Puzznic/Puzznic%20%28Japan%29.mra"
+   "hash": "8f01cbf627097ead37c6d49b0be800e1",
+   "size": 2992,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Puzznic/Puzznic%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Puzznic/Puzznic (US).mra": {
-   "hash": "ceb15c231bd02c06ebc1567abf5fb6e5",
-   "size": 2968,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Puzznic/Puzznic%20%28US%29.mra"
+   "hash": "bdb50051940633eded77f448fb7aeaad",
+   "size": 2982,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Puzznic/Puzznic%20%28US%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Puzznic/Puzznic (bootleg, set 1).mra": {
-   "hash": "ad06d625700bf945b662430f4faea026",
-   "size": 2955,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Puzznic/Puzznic%20%28bootleg%2C%20set%201%29.mra"
+   "hash": "91bc4f464976c525cc9247dd478f0a9d",
+   "size": 2969,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Puzznic/Puzznic%20%28bootleg%2C%20set%201%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Puzznic/Puzznic (bootleg, set 2).mra": {
-   "hash": "be49e37f79702973b787b23a569a04f5",
-   "size": 2953,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Puzznic/Puzznic%20%28bootleg%2C%20set%202%29.mra"
+   "hash": "1bbf2c85c35fd3d3ff2b84fc40cec69c",
+   "size": 2967,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Puzznic/Puzznic%20%28bootleg%2C%20set%202%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Raimais/Raimais (Japan).mra": {
-   "hash": "05d77d1530218c4607aae67dfc40c0fe",
-   "size": 2957,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Raimais/Raimais%20%28Japan%29.mra"
+   "hash": "81f28da6c64bdbaae5f213a692ddb828",
+   "size": 2978,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Raimais/Raimais%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Raimais/Raimais (Japan, rev 1).mra": {
-   "hash": "adb463cd47a1e6f4f0cef3191a8f491d",
-   "size": 2964,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Raimais/Raimais%20%28Japan%2C%20rev%201%29.mra"
+   "hash": "8b39b70e673637c84a42538222fc1652",
+   "size": 2985,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Raimais/Raimais%20%28Japan%2C%20rev%201%29.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_alternatives/_Tube-It/Cachat (Japan).mra": {
-   "hash": "e3cec45afccd4255a488d01b059f77fe",
-   "size": 3057,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_alternatives/_Tube-It/Cachat%20%28Japan%29.mra"
+   "hash": "e2ee1093999d134454e6378bf6124a6c",
+   "size": 3074,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_alternatives/_Tube-It/Cachat%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_TaitoLSystem/_homebrew/Jetpac.mra": {
+   "hash": "76020d2186437c7915ac6afec1d06bf8",
+   "size": 2416,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_homebrew/Jetpac.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_homebrew/SQIJ 2018.mra": {
-   "hash": "86c49783d4d1a0546769e4cc96d3f034",
-   "size": 3255,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_homebrew/SQIJ%202018.mra"
+   "hash": "2d7f704d1bf5ae1480d332ff284441cb",
+   "size": 2413,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_homebrew/SQIJ%202018.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_homebrew/Sokoban LE.mra": {
-   "hash": "243e0801bd59086519fd0a567a35b064",
-   "size": 3291,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_homebrew/Sokoban%20LE.mra"
+   "hash": "f36342c0f62e6de473fd4a3d395a9afe",
+   "size": 2452,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_homebrew/Sokoban%20LE.mra"
   },
   "_Arcade/_Decoryah/_TaitoLSystem/_homebrew/The Speccies 2.mra": {
-   "hash": "14450389d1673fcb906cb143dfe08c0a",
-   "size": 3274,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/mra/_homebrew/The%20Speccies%202.mra"
+   "hash": "e376489bd427891e6a78a46ec5cc259a",
+   "size": 2432,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/mra/_homebrew/The%20Speccies%202.mra"
   },
   "_Arcade/_Decoryah/_ViolentStorm/Violent Storm (Asia ver AAB).mra": {
    "hash": "17866ac3a553510ab71a34f0f9013eed",
@@ -1229,10 +1234,10 @@
    "size": 3315312,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-SuperDuck_MiSTer/dd6d936b980b03160fa81dd5d6a08b656d128d65/releases/supduck_20261030.rbf"
   },
-  "_Arcade/cores/taitol_20261007.rbf": {
-   "hash": "5e8c809faa3b6e68b3ffb13da65f6a56",
-   "size": 3863676,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/365b39aa97b3c17170a4373234b23378a981de59/releases/taitol_20261007.rbf"
+  "_Arcade/cores/taitol_20261031.rbf": {
+   "hash": "7b41e50409c021c139d20a61f3267eeb",
+   "size": 3871992,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-TaitoLSystem_MiSTer/9e17cf660c8835f35c91c8bccd21627ada5bcac4/releases/taitol_20261031.rbf"
   },
   "_Arcade/cores/violentstorm_20261025.rbf": {
    "hash": "f7e3c1b859ef6420e632ec883fa30088",
