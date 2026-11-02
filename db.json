@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1793514606,
+ "timestamp": 1793636914,
  "files": {
   "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
    "hash": "8ee3816c34f64dde08e19791f3962721",
@@ -163,6 +163,66 @@
    "hash": "30f02eb8c06657fffe6ba362fa59bcb9",
    "size": 5641,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-CrossPang_MiSTer/444dd5c03558a8676ce3d66c62cd712535602d97/mra/_alternatives/_Pitapat%20Puzzle/Pitapat%20Puzzle%20%28set%202%29.mra"
+  },
+  "_Arcade/_Decoryah/_Gaelco3D/Football Power (Version 4.6).mra": {
+   "hash": "70445c3aff041ceeb9fa7d50d6870c52",
+   "size": 3103,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Football%20Power%20%28Version%204.6%29.mra"
+  },
+  "_Arcade/_Decoryah/_Gaelco3D/Football Power (rasterizer player, attract mode).mra": {
+   "hash": "deb44be78883d10d46953bce0b405d07",
+   "size": 1688,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Football%20Power%20%28rasterizer%20player%2C%20attract%20mode%29.mra"
+  },
+  "_Arcade/_Decoryah/_Gaelco3D/Radikal Bikers (Version 2.02).mra": {
+   "hash": "98d74c256fa41e84b089a88987e818f4",
+   "size": 3082,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Radikal%20Bikers%20%28Version%202.02%29.mra"
+  },
+  "_Arcade/_Decoryah/_Gaelco3D/Radikal Bikers (rasterizer player, attract mode).mra": {
+   "hash": "ac927e3e4a871068cb8ee5b21511240d",
+   "size": 1726,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Radikal%20Bikers%20%28rasterizer%20player%2C%20attract%20mode%29.mra"
+  },
+  "_Arcade/_Decoryah/_Gaelco3D/Radikal Bikers (rasterizer player, race).mra": {
+   "hash": "bff2b10c50e2d877f98f83c7a58ae765",
+   "size": 1712,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Radikal%20Bikers%20%28rasterizer%20player%2C%20race%29.mra"
+  },
+  "_Arcade/_Decoryah/_Gaelco3D/Radikal Bikers (rasterizer player, short race clip).mra": {
+   "hash": "a03ae4bf20d7e3c358ba0ac1f638efd8",
+   "size": 1725,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Radikal%20Bikers%20%28rasterizer%20player%2C%20short%20race%20clip%29.mra"
+  },
+  "_Arcade/_Decoryah/_Gaelco3D/Speed Up (Version 2.20).mra": {
+   "hash": "a77c8ddc0429f4e229115828976fb17d",
+   "size": 2901,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Speed%20Up%20%28Version%202.20%29.mra"
+  },
+  "_Arcade/_Decoryah/_Gaelco3D/Speed Up (rasterizer player, attract mode).mra": {
+   "hash": "2acbc83f0c6e5c7d7667581025f47168",
+   "size": 1649,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Speed%20Up%20%28rasterizer%20player%2C%20attract%20mode%29.mra"
+  },
+  "_Arcade/_Decoryah/_Gaelco3D/Speed Up (rasterizer player, attract mode, 68020 core).mra": {
+   "hash": "d94fd77122afc4cb256566b695d14930",
+   "size": 1776,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Speed%20Up%20%28rasterizer%20player%2C%20attract%20mode%2C%2068020%20core%29.mra"
+  },
+  "_Arcade/_Decoryah/_Gaelco3D/Speed Up (rasterizer player, heavy scenes).mra": {
+   "hash": "deba3e06c2e2f3abcb147efda77bbefb",
+   "size": 1645,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Speed%20Up%20%28rasterizer%20player%2C%20heavy%20scenes%29.mra"
+  },
+  "_Arcade/_Decoryah/_Gaelco3D/Surf Planet (Version 4.1).mra": {
+   "hash": "860f9b01e1740b02ba5a87e0fe2e29bc",
+   "size": 3159,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Surf%20Planet%20%28Version%204.1%29.mra"
+  },
+  "_Arcade/_Decoryah/_Gaelco3D/Surf Planet (rasterizer player, attract mode).mra": {
+   "hash": "847249922613e44d8d42076fd6e6d6f3",
+   "size": 1716,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Surf%20Planet%20%28rasterizer%20player%2C%20attract%20mode%29.mra"
   },
   "_Arcade/_Decoryah/_Gaiapolis/Gaiapolis (Japan ver JAF).mra": {
    "hash": "eb88ba43a6cb31906d0e866ec2250bc3",
@@ -1134,6 +1194,16 @@
    "size": 3267148,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-CrossPang_MiSTer/444dd5c03558a8676ce3d66c62cd712535602d97/releases/crospang_20261019.rbf"
   },
+  "_Arcade/cores/gaelco3d020_20261102b.rbf": {
+   "hash": "439c4c3a7b0666463af5bdea41af1ca5",
+   "size": 4525872,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/releases/gaelco3d020_20261102b.rbf"
+  },
+  "_Arcade/cores/gaelco3d_20261102b.rbf": {
+   "hash": "245b266bc3ed2313c7f26928cdc8441a",
+   "size": 4502424,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/releases/gaelco3d_20261102b.rbf"
+  },
   "_Arcade/cores/gaiapolis_20261024.rbf": {
    "hash": "8d46d516192e7c5a9c5e25913c3a4e44",
    "size": 4116868,
@@ -1466,6 +1536,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/fhawk.zip",
    "overwrite": false
   },
+  "games/mame/footbpow.zip": {
+   "hash": "3fb078596cadc43faaf0f12624301e11",
+   "size": 26343975,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/footbpow.zip",
+   "overwrite": false
+  },
   "games/mame/gaiapols.zip": {
    "hash": "4a8b8b0f5ee3a51e01fdd62995f3ac89",
    "size": 8213033,
@@ -1760,6 +1836,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/rabbit.zip",
    "overwrite": false
   },
+  "games/mame/radikalb.zip": {
+   "hash": "0b2f2166382eeb194637373ce85ece0b",
+   "size": 32058696,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/radikalb.zip",
+   "overwrite": false
+  },
   "games/mame/raimais.zip": {
    "hash": "af24e855efc7c46d3310208572e739cf",
    "size": 1008078,
@@ -1784,10 +1866,22 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/slapshot.zip",
    "overwrite": false
   },
+  "games/mame/speedup.zip": {
+   "hash": "3d8e84d246a5fc67a5770854952c42d6",
+   "size": 14987451,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/speedup.zip",
+   "overwrite": false
+  },
   "games/mame/supduck.zip": {
    "hash": "3355bc60f8d132615603a77dad58e5a9",
    "size": 1056134,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/supduck.zip",
+   "overwrite": false
+  },
+  "games/mame/surfplnt.zip": {
+   "hash": "9c0f3e0730b76eeb629a45201ffaf1c9",
+   "size": 20984377,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/surfplnt.zip",
    "overwrite": false
   },
   "games/mame/toride2g.zip": {
@@ -1847,6 +1941,7 @@
   "_Arcade/_Decoryah/_CrossPang/_alternatives": {},
   "_Arcade/_Decoryah/_CrossPang/_alternatives/_Bestri": {},
   "_Arcade/_Decoryah/_CrossPang/_alternatives/_Pitapat Puzzle": {},
+  "_Arcade/_Decoryah/_Gaelco3D": {},
   "_Arcade/_Decoryah/_Gaiapolis": {},
   "_Arcade/_Decoryah/_Gunpey": {},
   "_Arcade/_Decoryah/_HeavyUnit": {},
