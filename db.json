@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1793636914,
+ "timestamp": 1793668049,
  "files": {
   "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
    "hash": "8ee3816c34f64dde08e19791f3962721",
@@ -124,15 +124,60 @@
    "size": 1981,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/mra/_alternatives/_SportTime%20Table%20Hockey/SportTime%20Table%20Hockey%20%28Arcadia%2C%20set%202%29.mra"
   },
+  "_Arcade/_Decoryah/_AtariGX2/Moto Frenzy.mra": {
+   "hash": "352278d2171a452460a5d475b708ddec",
+   "size": 3850,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-AtariGX2_MiSTer/0385a9995512a5d07024f93322c9baeaa14a501f/mra/Moto%20Frenzy.mra"
+  },
+  "_Arcade/_Decoryah/_AtariGX2/Space Lords (rev C).mra": {
+   "hash": "d6a8305f5a8c88a37e894e816ddf0a5b",
+   "size": 3795,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-AtariGX2_MiSTer/0385a9995512a5d07024f93322c9baeaa14a501f/mra/Space%20Lords%20%28rev%20C%29.mra"
+  },
+  "_Arcade/_Decoryah/_AtariGX2/_alternatives/_Moto Frenzy/Moto Frenzy (Field Test Version, Jul 17, 1992).mra": {
+   "hash": "eef7212fb00b1a030d584b31bd1ab737",
+   "size": 3894,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-AtariGX2_MiSTer/0385a9995512a5d07024f93322c9baeaa14a501f/mra/_alternatives/_Moto%20Frenzy/Moto%20Frenzy%20%28Field%20Test%20Version%2C%20Jul%2017%2C%201992%29.mra"
+  },
+  "_Arcade/_Decoryah/_AtariGX2/_alternatives/_Moto Frenzy/Moto Frenzy (Field Test Version, Jul 22, 1992).mra": {
+   "hash": "c1224565a8b7c5ce48bc2b2263e68a8a",
+   "size": 3904,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-AtariGX2_MiSTer/0385a9995512a5d07024f93322c9baeaa14a501f/mra/_alternatives/_Moto%20Frenzy/Moto%20Frenzy%20%28Field%20Test%20Version%2C%20Jul%2022%2C%201992%29.mra"
+  },
+  "_Arcade/_Decoryah/_AtariGX2/_alternatives/_Moto Frenzy/Moto Frenzy (Mini Deluxe Field Test Version).mra": {
+   "hash": "86772aa141cac8624e9641440fd4d6e6",
+   "size": 3900,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-AtariGX2_MiSTer/0385a9995512a5d07024f93322c9baeaa14a501f/mra/_alternatives/_Moto%20Frenzy/Moto%20Frenzy%20%28Mini%20Deluxe%20Field%20Test%20Version%29.mra"
+  },
+  "_Arcade/_Decoryah/_AtariGX2/_alternatives/_Moto Frenzy/Moto Frenzy (Mini Deluxe).mra": {
+   "hash": "eb0a58cfadf4c2c1eaa7d1e7c47eae3c",
+   "size": 3881,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-AtariGX2_MiSTer/0385a9995512a5d07024f93322c9baeaa14a501f/mra/_alternatives/_Moto%20Frenzy/Moto%20Frenzy%20%28Mini%20Deluxe%29.mra"
+  },
+  "_Arcade/_Decoryah/_AtariGX2/_alternatives/_Space Lords/Space Lords (rev A).mra": {
+   "hash": "e80dc3c4a7078f9a9d8a69007cce9435",
+   "size": 3806,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-AtariGX2_MiSTer/0385a9995512a5d07024f93322c9baeaa14a501f/mra/_alternatives/_Space%20Lords/Space%20Lords%20%28rev%20A%29.mra"
+  },
+  "_Arcade/_Decoryah/_AtariGX2/_alternatives/_Space Lords/Space Lords (rev A, German).mra": {
+   "hash": "142b6a4e95658043f8d9781d76202946",
+   "size": 3818,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-AtariGX2_MiSTer/0385a9995512a5d07024f93322c9baeaa14a501f/mra/_alternatives/_Space%20Lords/Space%20Lords%20%28rev%20A%2C%20German%29.mra"
+  },
+  "_Arcade/_Decoryah/_AtariGX2/_alternatives/_Space Lords/Space Lords (rev B).mra": {
+   "hash": "ec10a5437aad7c7adab0fcd201da2704",
+   "size": 3806,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-AtariGX2_MiSTer/0385a9995512a5d07024f93322c9baeaa14a501f/mra/_alternatives/_Space%20Lords/Space%20Lords%20%28rev%20B%29.mra"
+  },
   "_Arcade/_Decoryah/_BlockHole/Block Hole.mra": {
    "hash": "1a9761c95864563dae02c84b16b99469",
    "size": 2923,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-BlockHole_MiSTer/8a28b5c94146f5fcec60328b79aebd87cb103dec/mra/Block%20Hole.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-BlockHole_MiSTer/685c809ce77216e30492c857297405c1fcf8ef9e/mra/Block%20Hole.mra"
   },
   "_Arcade/_Decoryah/_BlockHole/_alternatives/_Block Hole/Quarth (Japan).mra": {
    "hash": "4af2a4c0ec64b8cedf4ddf00771a0680",
    "size": 2937,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-BlockHole_MiSTer/8a28b5c94146f5fcec60328b79aebd87cb103dec/mra/_alternatives/_Block%20Hole/Quarth%20%28Japan%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-BlockHole_MiSTer/685c809ce77216e30492c857297405c1fcf8ef9e/mra/_alternatives/_Block%20Hole/Quarth%20%28Japan%29.mra"
   },
   "_Arcade/_Decoryah/_CrossPang/Bestri (Korea, set 1).mra": {
    "hash": "f508cf1a8e425eadfd19434918969c8d",
@@ -1179,10 +1224,15 @@
    "size": 3008500,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-ArcadiaSystems_MiSTer/b836d43ce5f93b2a0ae3ded53762c9891f827166/releases/arcadiasystems_20261021.rbf"
   },
-  "_Arcade/cores/blockhl_20261029.rbf": {
-   "hash": "253a7e772719f7ee82200fd78ae187d1",
-   "size": 3681100,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-BlockHole_MiSTer/8a28b5c94146f5fcec60328b79aebd87cb103dec/releases/blockhl_20261029.rbf"
+  "_Arcade/cores/atarigx2_20261101.rbf": {
+   "hash": "7987408b057f9c95629d21e649278060",
+   "size": 3616460,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-AtariGX2_MiSTer/0385a9995512a5d07024f93322c9baeaa14a501f/releases/atarigx2_20261101.rbf"
+  },
+  "_Arcade/cores/blockhl_20261103.rbf": {
+   "hash": "49d391aedff7fced4cc33dd58f15eaa6",
+   "size": 3692580,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-BlockHole_MiSTer/685c809ce77216e30492c857297405c1fcf8ef9e/releases/blockhl_20261103.rbf"
   },
   "_Arcade/cores/crashrace_20261028.rbf": {
    "hash": "9db6249be38dd5f288cacb138290df4d",
@@ -1692,6 +1742,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/mmaulers.zip",
    "overwrite": false
   },
+  "games/mame/motofren.zip": {
+   "hash": "ecf525813769a26e520537649e68f3ca",
+   "size": 6316921,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/motofren.zip",
+   "overwrite": false
+  },
   "games/mame/mouja.zip": {
    "hash": "11cbfc3236f3cc9dfec4947e69076b55",
    "size": 1270990,
@@ -1866,6 +1922,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/slapshot.zip",
    "overwrite": false
   },
+  "games/mame/spclords.zip": {
+   "hash": "9b0bc2a3a13497151818beb551d82725",
+   "size": 8339573,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/spclords.zip",
+   "overwrite": false
+  },
   "games/mame/speedup.zip": {
    "hash": "3d8e84d246a5fc67a5770854952c42d6",
    "size": 14987451,
@@ -1934,6 +1996,10 @@
   "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_Ninja Mission": {},
   "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_Sidewinder": {},
   "_Arcade/_Decoryah/_ArcadiaSystems/_alternatives/_SportTime Table Hockey": {},
+  "_Arcade/_Decoryah/_AtariGX2": {},
+  "_Arcade/_Decoryah/_AtariGX2/_alternatives": {},
+  "_Arcade/_Decoryah/_AtariGX2/_alternatives/_Moto Frenzy": {},
+  "_Arcade/_Decoryah/_AtariGX2/_alternatives/_Space Lords": {},
   "_Arcade/_Decoryah/_BlockHole": {},
   "_Arcade/_Decoryah/_BlockHole/_alternatives": {},
   "_Arcade/_Decoryah/_BlockHole/_alternatives/_Block Hole": {},

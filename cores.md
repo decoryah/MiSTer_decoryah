@@ -1,12 +1,13 @@
 # Cores in this database
 
-Updated 2026-11-02. 363 files from 25 repositories.
+Updated 2026-11-03. 375 files from 26 repositories.
 
 | Repository | MRA folder | Builds | Latest build | MRAs |
 |---|---|---|---|---|
 | [decoryah/Arcade-Aquarium_MiSTer](https://github.com/decoryah/Arcade-Aquarium_MiSTer) | `_Arcade/_Decoryah/_Aquarium` | `aquarium_20261025c.rbf` | 2026-10-25 | 2 |
 | [decoryah/Arcade-ArcadiaSystems_MiSTer](https://github.com/decoryah/Arcade-ArcadiaSystems_MiSTer) | `_Arcade/_Decoryah/_ArcadiaSystems` | `arcadiasystems_20261021.rbf` | 2026-10-21 | 22 |
-| [decoryah/Arcade-BlockHole_MiSTer](https://github.com/decoryah/Arcade-BlockHole_MiSTer) | `_Arcade/_Decoryah/_BlockHole` | `blockhl_20261029.rbf` | 2026-10-29 | 2 |
+| [decoryah/Arcade-AtariGX2_MiSTer](https://github.com/decoryah/Arcade-AtariGX2_MiSTer) | `_Arcade/_Decoryah/_AtariGX2` | `atarigx2_20261101.rbf` | 2026-11-01 | 9 |
+| [decoryah/Arcade-BlockHole_MiSTer](https://github.com/decoryah/Arcade-BlockHole_MiSTer) | `_Arcade/_Decoryah/_BlockHole` | `blockhl_20261103.rbf` | 2026-11-03 | 2 |
 | [decoryah/Arcade-CrossPang_MiSTer](https://github.com/decoryah/Arcade-CrossPang_MiSTer) | `_Arcade/_Decoryah/_CrossPang` | `crospang_20261019.rbf` | 2026-10-19 | 6 |
 | [decoryah/Arcade-Gaelco3D_MiSTer](https://github.com/decoryah/Arcade-Gaelco3D_MiSTer) | `_Arcade/_Decoryah/_Gaelco3D` | `gaelco3d020_20261102b.rbf`, `gaelco3d_20261102b.rbf` | 2026-11-02 | 12 |
 | [decoryah/Arcade-Gaiapolis_MiSTer](https://github.com/decoryah/Arcade-Gaiapolis_MiSTer) | `_Arcade/_Decoryah/_Gaiapolis` | `gaiapolis_20261024.rbf` | 2026-10-24 | 3 |
