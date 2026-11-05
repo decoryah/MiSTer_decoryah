@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1793668049,
+ "timestamp": 1793909358,
  "files": {
   "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
    "hash": "8ee3816c34f64dde08e19791f3962721",
@@ -443,6 +443,11 @@
    "hash": "b7e05275152ee59d3a8c53a7aa7ecb11",
    "size": 3863,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/1ab56bd629b301ddf447f35b8616d0831feb9d97/mra/_alternatives/_Jackie%20Chan%20-%20The%20Kung-Fu%20Master/Jackie%20Chan%20-%20The%20Kung-Fu%20Master%20%28rev%203%29.mra"
+  },
+  "_Arcade/_Decoryah/_KonamiM2/Tobe! Polystars (ver JAA).mra": {
+   "hash": "f2800fe6fe357bed80358ddae62cd4dc",
+   "size": 1558,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/aaa468a1cc73976d30ffdf034a4a96de58fe7b0c/mra/Tobe%21%20Polystars%20%28ver%20JAA%29.mra"
   },
   "_Arcade/_Decoryah/_LethalCrashRace/Lethal Crash Race (set 1).mra": {
    "hash": "70cc14f55f58c898bb947f60e46803bd",
@@ -1209,6 +1214,11 @@
    "size": 3699,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/4925a7a3e63881c70e916bbb9fbed6629b0ffeac/mra/Violent%20Storm%20%28World%20ver%20EAC%29.mra"
   },
+  "_Arcade/cores/KonamiM2_20261105.rbf": {
+   "hash": "adc84ff9985572701f848712bb1ad1e4",
+   "size": 4456048,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/aaa468a1cc73976d30ffdf034a4a96de58fe7b0c/releases/KonamiM2_20261105.rbf"
+  },
   "_Arcade/cores/PGM2_20261017e.rbf": {
    "hash": "9113c0882f0ceb9b8578c76c81c3077f",
    "size": 4290356,
@@ -1856,6 +1866,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/poitto.zip",
    "overwrite": false
   },
+  "games/mame/polystar.zip": {
+   "hash": "1348570df1c8575457e0f520e8f5011d",
+   "size": 709579,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/polystar.zip",
+   "overwrite": false
+  },
   "games/mame/pururun.zip": {
    "hash": "d1468a8c38d44da908f04cf346b6f890",
    "size": 1776205,
@@ -2022,6 +2038,7 @@
   "_Arcade/_Decoryah/_JackieChan": {},
   "_Arcade/_Decoryah/_JackieChan/_alternatives": {},
   "_Arcade/_Decoryah/_JackieChan/_alternatives/_Jackie Chan - The Kung-Fu Master": {},
+  "_Arcade/_Decoryah/_KonamiM2": {},
   "_Arcade/_Decoryah/_LethalCrashRace": {},
   "_Arcade/_Decoryah/_LethalCrashRace/_alternatives": {},
   "_Arcade/_Decoryah/_LethalCrashRace/_alternatives/_Crash Race": {},
