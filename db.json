@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1793993786,
+ "timestamp": 1794263666,
  "files": {
   "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
    "hash": "8ee3816c34f64dde08e19791f3962721",
@@ -444,10 +444,15 @@
    "size": 3863,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/1ab56bd629b301ddf447f35b8616d0831feb9d97/mra/_alternatives/_Jackie%20Chan%20-%20The%20Kung-Fu%20Master/Jackie%20Chan%20-%20The%20Kung-Fu%20Master%20%28rev%203%29.mra"
   },
+  "_Arcade/_Decoryah/_KonamiM2/Heat of Eleven '98 (ver EAA).mra": {
+   "hash": "c28998ea01c5fbd1bece15e8f8923bd7",
+   "size": 1675,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/3ec26d8e4eb11ac192e69f698b1a71b8e7f68dbb/mra/Heat%20of%20Eleven%20%2798%20%28ver%20EAA%29.mra"
+  },
   "_Arcade/_Decoryah/_KonamiM2/Tobe! Polystars (ver JAA).mra": {
    "hash": "9cbf4c71c31181cff3cc125d71b2bbd9",
    "size": 2060,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/9d0f1827c2e7e645ba893f3ea6b65e83249bf69b/mra/Tobe%21%20Polystars%20%28ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/3ec26d8e4eb11ac192e69f698b1a71b8e7f68dbb/mra/Tobe%21%20Polystars%20%28ver%20JAA%29.mra"
   },
   "_Arcade/_Decoryah/_LethalCrashRace/Lethal Crash Race (set 1).mra": {
    "hash": "70cc14f55f58c898bb947f60e46803bd",
@@ -1217,7 +1222,7 @@
   "_Arcade/cores/KonamiM2_20261106.rbf": {
    "hash": "ec1526ed903d82eeda98c097de8f3f50",
    "size": 4436836,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/9d0f1827c2e7e645ba893f3ea6b65e83249bf69b/releases/KonamiM2_20261106.rbf"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/3ec26d8e4eb11ac192e69f698b1a71b8e7f68dbb/releases/KonamiM2_20261106.rbf"
   },
   "_Arcade/cores/PGM2_20261017e.rbf": {
    "hash": "9113c0882f0ceb9b8578c76c81c3077f",
@@ -1648,6 +1653,12 @@
    "hash": "84f02fc3c45630a74c35afa899883f08",
    "size": 3918523,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gunpey.zip",
+   "overwrite": false
+  },
+  "games/mame/heatof11.zip": {
+   "hash": "eb40c697af4c730bc5227095a827db12",
+   "size": 631442,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/heatof11.zip",
    "overwrite": false
   },
   "games/mame/heuksun.zip": {
