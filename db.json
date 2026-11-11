@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1794340414,
+ "timestamp": 1794426334,
  "files": {
   "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
    "hash": "8ee3816c34f64dde08e19791f3962721",
@@ -178,6 +178,101 @@
    "hash": "4af2a4c0ec64b8cedf4ddf00771a0680",
    "size": 2937,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-BlockHole_MiSTer/685c809ce77216e30492c857297405c1fcf8ef9e/mra/_alternatives/_Block%20Hole/Quarth%20%28Japan%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/Area 51 (R3000).mra": {
+   "hash": "dd0aea3b58cb8f97d2703cc55ecf0045",
+   "size": 2169,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/Area%2051%20%28R3000%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/Area 51 - Maximum Force Duo v2.0.mra": {
+   "hash": "033a7de49ebfdc268a64cad1a30beb43",
+   "size": 2358,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/Area%2051%20-%20Maximum%20Force%20Duo%20v2.0.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/Fishin' Frenzy (prototype).mra": {
+   "hash": "e67efe042e6381aa5bdbdd32ab873fa0",
+   "size": 3531,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/Fishin%27%20Frenzy%20%28prototype%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/Freeze (Atari) (prototype, English voice, 96-10-25).mra": {
+   "hash": "00a532ece8cf1196418f30f2b13e7e78",
+   "size": 3139,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/Freeze%20%28Atari%29%20%28prototype%2C%20English%20voice%2C%2096-10-25%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/Maximum Force v1.05.mra": {
+   "hash": "2a56d35719902bba83c24098a9cf5a11",
+   "size": 2365,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/Maximum%20Force%20v1.05.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/Vicious Circle (prototype).mra": {
+   "hash": "244a17ec2b5d72ef41f5a0c4ab24cfe8",
+   "size": 2192,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/Vicious%20Circle%20%28prototype%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Area 51 - Maximum Force Duo/Area 51 - Maximum Force Duo (R3000, 2-02-98).mra": {
+   "hash": "6b22f7012d5fb96772756b77cb9a8da5",
+   "size": 2437,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/_alternatives/_Area%2051%20-%20Maximum%20Force%20Duo/Area%2051%20-%20Maximum%20Force%20Duo%20%28R3000%2C%202-02-98%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Area 51 - Maximum Force Duo/Area 51 - Maximum Force Duo (R3000, 2-10-98).mra": {
+   "hash": "5b55d9a5697c82e4afa4d128e53c5dc2",
+   "size": 2375,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/_alternatives/_Area%2051%20-%20Maximum%20Force%20Duo/Area%2051%20-%20Maximum%20Force%20Duo%20%28R3000%2C%202-10-98%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Area 51/Area 51 (Atari Games license, Oct 25, 1995).mra": {
+   "hash": "00b019e9c65a91a2674cfc12db4c4798",
+   "size": 2202,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/_alternatives/_Area%2051/Area%2051%20%28Atari%20Games%20license%2C%20Oct%2025%2C%201995%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Area 51/Area 51 (Time Warner license, Nov 27, 1995).mra": {
+   "hash": "11cf0ce8ddc7a59bedbf21ab54ca6221",
+   "size": 2229,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/_alternatives/_Area%2051/Area%2051%20%28Time%20Warner%20license%2C%20Nov%2027%2C%201995%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Area 51/Area 51 (Time Warner license, Oct 17, 1996).mra": {
+   "hash": "de752662b89a6f87c8d7374aa7cb5a36",
+   "size": 2239,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/_alternatives/_Area%2051/Area%2051%20%28Time%20Warner%20license%2C%20Oct%2017%2C%201996%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Freeze/Freeze (Atari) (prototype, 96-09-07, Jamma-96).mra": {
+   "hash": "097a0a33b8431436021e3fb8cf4d9f37",
+   "size": 3133,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/_alternatives/_Freeze/Freeze%20%28Atari%29%20%28prototype%2C%2096-09-07%2C%20Jamma-96%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Freeze/Freeze (Atari) (prototype, 96-09-20, AMOA-96).mra": {
+   "hash": "d8fef18b0f8a0f8fcb1dade75339032e",
+   "size": 3132,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/_alternatives/_Freeze/Freeze%20%28Atari%29%20%28prototype%2C%2096-09-20%2C%20AMOA-96%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Freeze/Freeze (Atari) (prototype, 96-10-03).mra": {
+   "hash": "51ddb73416765e14b00030539b8fca04",
+   "size": 3123,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/_alternatives/_Freeze/Freeze%20%28Atari%29%20%28prototype%2C%2096-10-03%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Freeze/Freeze (Atari) (prototype, 96-10-07).mra": {
+   "hash": "a3be71bce162b24d5ffabc62a62cc78f",
+   "size": 3123,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/_alternatives/_Freeze/Freeze%20%28Atari%29%20%28prototype%2C%2096-10-07%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Freeze/Freeze (Atari) (prototype, 96-10-18).mra": {
+   "hash": "128ee5b4a0de14c43800efe55fb5851d",
+   "size": 3123,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/_alternatives/_Freeze/Freeze%20%28Atari%29%20%28prototype%2C%2096-10-18%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Freeze/Freeze (Atari) (prototype, Japanese voice, 96-10-25).mra": {
+   "hash": "b1ac3456f9b731dd6502989fe756e29b",
+   "size": 3157,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/_alternatives/_Freeze/Freeze%20%28Atari%29%20%28prototype%2C%20Japanese%20voice%2C%2096-10-25%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Maximum Force/Maximum Force (No Gore version).mra": {
+   "hash": "9c0c33e2cccdeb0cdaf2ea4ee97d29f6",
+   "size": 2368,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/_alternatives/_Maximum%20Force/Maximum%20Force%20%28No%20Gore%20version%29.mra"
+  },
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Maximum Force/Maximum Force v1.02.mra": {
+   "hash": "5ad847f309e43f09056ad658dfa31d57",
+   "size": 2378,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/mra/_alternatives/_Maximum%20Force/Maximum%20Force%20v1.02.mra"
   },
   "_Arcade/_Decoryah/_CrossPang/Bestri (Korea, set 1).mra": {
    "hash": "f508cf1a8e425eadfd19434918969c8d",
@@ -1249,6 +1344,16 @@
    "size": 3692580,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-BlockHole_MiSTer/685c809ce77216e30492c857297405c1fcf8ef9e/releases/blockhl_20261103.rbf"
   },
+  "_Arcade/cores/cojag020_20261110d.rbf": {
+   "hash": "9bb7467e73a6ff13ffad673f73e8fbf1",
+   "size": 3545176,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/releases/cojag020_20261110d.rbf"
+  },
+  "_Arcade/cores/cojagr3k_20261110d.rbf": {
+   "hash": "c873091330e4826a6ba2dbc71e9e7812",
+   "size": 3300692,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-CoJag_MiSTer/7528e3ec0c2dff0ac0cc213b335ad5ca31db55bd/releases/cojagr3k_20261110d.rbf"
+  },
   "_Arcade/cores/crashrace_20261028.rbf": {
    "hash": "9db6249be38dd5f288cacb138290df4d",
    "size": 3738404,
@@ -1493,6 +1598,18 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ar_xeon.zip",
    "overwrite": false
   },
+  "games/mame/area51.zip": {
+   "hash": "524479b434855d3c07b1e79bd924406b",
+   "size": 2570762,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/area51.zip",
+   "overwrite": false
+  },
+  "games/mame/area51mx.zip": {
+   "hash": "6289fb89785275e5fba0162f47fb87cd",
+   "size": 892603,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/area51mx.zip",
+   "overwrite": false
+  },
   "games/mame/balcube.zip": {
    "hash": "95ca0373ed3a98c654fb93f4e67b18e6",
    "size": 3518589,
@@ -1601,10 +1718,22 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/fhawk.zip",
    "overwrite": false
   },
+  "games/mame/fishfren.zip": {
+   "hash": "a70cdc5cb8aab87f2f6d412f69de59b2",
+   "size": 6418797,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/fishfren.zip",
+   "overwrite": false
+  },
   "games/mame/footbpow.zip": {
    "hash": "3fb078596cadc43faaf0f12624301e11",
    "size": 26343975,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/footbpow.zip",
+   "overwrite": false
+  },
+  "games/mame/freezeat.zip": {
+   "hash": "6159d07191604cd322816c3c041652af",
+   "size": 62800128,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/freezeat.zip",
    "overwrite": false
   },
   "games/mame/gaiapols.zip": {
@@ -1737,6 +1866,12 @@
    "hash": "c7af79223ce923bef8d06ac4e0f94763",
    "size": 3042501,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/lastfort.zip",
+   "overwrite": false
+  },
+  "games/mame/maxforce.zip": {
+   "hash": "f2004151fde1a25e0741f13c69a00f1f",
+   "size": 647503,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/maxforce.zip",
    "overwrite": false
   },
   "games/mame/mcatadv.zip": {
@@ -1991,6 +2126,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/turkhunt.zip",
    "overwrite": false
   },
+  "games/mame/vcircle.zip": {
+   "hash": "db9ee9cc63ace99209dc9918bf57be68",
+   "size": 248358,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/vcircle.zip",
+   "overwrite": false
+  },
   "games/mame/viostorm.zip": {
    "hash": "c2ec32bb9259a294a1869fef824fbece",
    "size": 21568733,
@@ -2030,6 +2171,12 @@
   "_Arcade/_Decoryah/_BlockHole": {},
   "_Arcade/_Decoryah/_BlockHole/_alternatives": {},
   "_Arcade/_Decoryah/_BlockHole/_alternatives/_Block Hole": {},
+  "_Arcade/_Decoryah/_CoJag": {},
+  "_Arcade/_Decoryah/_CoJag/_alternatives": {},
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Area 51": {},
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Area 51 - Maximum Force Duo": {},
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Freeze": {},
+  "_Arcade/_Decoryah/_CoJag/_alternatives/_Maximum Force": {},
   "_Arcade/_Decoryah/_CrossPang": {},
   "_Arcade/_Decoryah/_CrossPang/_alternatives": {},
   "_Arcade/_Decoryah/_CrossPang/_alternatives/_Bestri": {},
