@@ -20,7 +20,7 @@ What is in the database right now. Each run refreshes this list whenever the dat
 list is in [`cores.md`](https://github.com/decoryah/MiSTer_decoryah/blob/db/cores.md) on the `db` branch.
 
 <!-- cores:start -->
-Updated 2026-11-10. 380 files from 27 repositories.
+Updated 2026-11-11. 407 files from 28 repositories.
 
 | Repository | MRA folder | Builds | Latest build | MRAs |
 |---|---|---|---|---|
@@ -28,6 +28,7 @@ Updated 2026-11-10. 380 files from 27 repositories.
 | [decoryah/Arcade-ArcadiaSystems_MiSTer](https://github.com/decoryah/Arcade-ArcadiaSystems_MiSTer) | `_Arcade/_Decoryah/_ArcadiaSystems` | `arcadiasystems_20261021.rbf` | 2026-10-21 | 22 |
 | [decoryah/Arcade-AtariGX2_MiSTer](https://github.com/decoryah/Arcade-AtariGX2_MiSTer) | `_Arcade/_Decoryah/_AtariGX2` | `atarigx2_20261101.rbf` | 2026-11-01 | 9 |
 | [decoryah/Arcade-BlockHole_MiSTer](https://github.com/decoryah/Arcade-BlockHole_MiSTer) | `_Arcade/_Decoryah/_BlockHole` | `blockhl_20261103.rbf` | 2026-11-03 | 2 |
+| [decoryah/Arcade-CoJag_MiSTer](https://github.com/decoryah/Arcade-CoJag_MiSTer) | `_Arcade/_Decoryah/_CoJag` | `cojag020_20261110d.rbf`, `cojagr3k_20261110d.rbf` | 2026-11-10 | 19 |
 | [decoryah/Arcade-CrossPang_MiSTer](https://github.com/decoryah/Arcade-CrossPang_MiSTer) | `_Arcade/_Decoryah/_CrossPang` | `crospang_20261019.rbf` | 2026-10-19 | 6 |
 | [decoryah/Arcade-Gaelco3D_MiSTer](https://github.com/decoryah/Arcade-Gaelco3D_MiSTer) | `_Arcade/_Decoryah/_Gaelco3D` | `gaelco3d020_20261102b.rbf`, `gaelco3d_20261102b.rbf` | 2026-11-02 | 12 |
 | [decoryah/Arcade-Gaiapolis_MiSTer](https://github.com/decoryah/Arcade-Gaiapolis_MiSTer) | `_Arcade/_Decoryah/_Gaiapolis` | `gaiapolis_20261024.rbf` | 2026-10-24 | 3 |
