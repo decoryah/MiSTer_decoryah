@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1794426334,
+ "timestamp": 1794468494,
  "files": {
   "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
    "hash": "8ee3816c34f64dde08e19791f3962721",
@@ -539,15 +539,25 @@
    "size": 3863,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/1ab56bd629b301ddf447f35b8616d0831feb9d97/mra/_alternatives/_Jackie%20Chan%20-%20The%20Kung-Fu%20Master/Jackie%20Chan%20-%20The%20Kung-Fu%20Master%20%28rev%203%29.mra"
   },
+  "_Arcade/_Decoryah/_KonamiM2/Evil Night (ver UBA).mra": {
+   "hash": "04216ea7130a46461dc463f37a3adf60",
+   "size": 2261,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/4ba806333a12459d67af15cc95a1671123b23d52/mra/Evil%20Night%20%28ver%20UBA%29.mra"
+  },
   "_Arcade/_Decoryah/_KonamiM2/Heat of Eleven '98 (ver EAA).mra": {
    "hash": "c28998ea01c5fbd1bece15e8f8923bd7",
    "size": 1675,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/9d1b111372f11e5971f975d1685fc1a6a9ac4a9b/mra/Heat%20of%20Eleven%20%2798%20%28ver%20EAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/4ba806333a12459d67af15cc95a1671123b23d52/mra/Heat%20of%20Eleven%20%2798%20%28ver%20EAA%29.mra"
   },
   "_Arcade/_Decoryah/_KonamiM2/Tobe! Polystars (ver JAA).mra": {
-   "hash": "9cbf4c71c31181cff3cc125d71b2bbd9",
-   "size": 2060,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/9d1b111372f11e5971f975d1685fc1a6a9ac4a9b/mra/Tobe%21%20Polystars%20%28ver%20JAA%29.mra"
+   "hash": "8fa9e951ff75810a050198497a24ec17",
+   "size": 2226,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/4ba806333a12459d67af15cc95a1671123b23d52/mra/Tobe%21%20Polystars%20%28ver%20JAA%29.mra"
+  },
+  "_Arcade/_Decoryah/_KonamiM2/Total Vice (ver EBA).mra": {
+   "hash": "1cb176059e350357acb09aa011ef4be3",
+   "size": 2722,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/4ba806333a12459d67af15cc95a1671123b23d52/mra/Total%20Vice%20%28ver%20EBA%29.mra"
   },
   "_Arcade/_Decoryah/_LethalCrashRace/Lethal Crash Race (set 1).mra": {
    "hash": "70cc14f55f58c898bb947f60e46803bd",
@@ -1314,10 +1324,10 @@
    "size": 3699,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/4925a7a3e63881c70e916bbb9fbed6629b0ffeac/mra/Violent%20Storm%20%28World%20ver%20EAC%29.mra"
   },
-  "_Arcade/cores/KonamiM2_20261110.rbf": {
-   "hash": "358ff9fb4d22c4ad5aad177d43079412",
-   "size": 4505524,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/9d1b111372f11e5971f975d1685fc1a6a9ac4a9b/releases/KonamiM2_20261110.rbf"
+  "_Arcade/cores/KonamiM2_20261112.rbf": {
+   "hash": "a400dba284f325040a53bb9fa6965b54",
+   "size": 4547396,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/4ba806333a12459d67af15cc95a1671123b23d52/releases/KonamiM2_20261112.rbf"
   },
   "_Arcade/cores/PGM2_20261017e.rbf": {
    "hash": "9113c0882f0ceb9b8578c76c81c3077f",
@@ -1704,6 +1714,12 @@
    "hash": "0e14ea5c92f78a3b7f9abb171a57ca53",
    "size": 7090291,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/dokyusp.zip",
+   "overwrite": false
+  },
+  "games/mame/evilngt.zip": {
+   "hash": "fc4adcc414ae4a4c360ef30deb24240b",
+   "size": 3775958,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/evilngt.zip",
    "overwrite": false
   },
   "games/mame/evilston.zip": {
@@ -2112,6 +2128,12 @@
    "hash": "6f26e1a1d2b2453a9bf913a45e00fc10",
    "size": 4201859,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/toride2g.zip",
+   "overwrite": false
+  },
+  "games/mame/totlvice.zip": {
+   "hash": "8c9df6d8b4fbb98a637764592f1afc05",
+   "size": 1539266,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/totlvice.zip",
    "overwrite": false
   },
   "games/mame/trophyh.zip": {

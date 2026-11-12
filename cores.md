@@ -1,6 +1,6 @@
 # Cores in this database
 
-Updated 2026-11-11. 407 files from 28 repositories.
+Updated 2026-11-12. 411 files from 28 repositories.
 
 | Repository | MRA folder | Builds | Latest build | MRAs |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ Updated 2026-11-11. 407 files from 28 repositories.
 | [decoryah/Arcade-Hexion_MiSTer](https://github.com/decoryah/Arcade-Hexion_MiSTer) | `_Arcade/_Decoryah/_Hexion` | `hexion_20261025.rbf` | 2026-10-25 | 2 |
 | [decoryah/Arcade-IGSPGM2_MiSTer](https://github.com/decoryah/Arcade-IGSPGM2_MiSTer) | `_Arcade/_Decoryah/_IGSPGM2` | `PGM2_20261017e.rbf` | 2026-10-17 | 21 |
 | [decoryah/Arcade-JackieChan_MiSTer](https://github.com/decoryah/Arcade-JackieChan_MiSTer) | `_Arcade/_Decoryah/_JackieChan` | `jchan_20261014.rbf` | 2026-10-14 | 3 |
-| [decoryah/Arcade-KonamiM2_MiSTer](https://github.com/decoryah/Arcade-KonamiM2_MiSTer) | `_Arcade/_Decoryah/_KonamiM2` | `KonamiM2_20261110.rbf` | 2026-11-10 | 2 |
+| [decoryah/Arcade-KonamiM2_MiSTer](https://github.com/decoryah/Arcade-KonamiM2_MiSTer) | `_Arcade/_Decoryah/_KonamiM2` | `KonamiM2_20261112.rbf` | 2026-11-12 | 4 |
 | [decoryah/Arcade-LethalCrashRace_MiSTer](https://github.com/decoryah/Arcade-LethalCrashRace_MiSTer) | `_Arcade/_Decoryah/_LethalCrashRace` | `crashrace_20261028.rbf` | 2026-10-28 | 3 |
 | [decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer](https://github.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer) | `_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus` | `mcatadv_20261023.rbf` | 2026-10-23 | 6 |
 | [decoryah/Arcade-MetamorphicForce_MiSTer](https://github.com/decoryah/Arcade-MetamorphicForce_MiSTer) | `_Arcade/_Decoryah/_MetamorphicForce` | `metamorphicforce_20261024.rbf` | 2026-10-24 | 5 |
