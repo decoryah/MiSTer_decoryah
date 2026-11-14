@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1794468494,
+ "timestamp": 1794695856,
  "files": {
   "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
    "hash": "8ee3816c34f64dde08e19791f3962721",
@@ -539,25 +539,35 @@
    "size": 3863,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/1ab56bd629b301ddf447f35b8616d0831feb9d97/mra/_alternatives/_Jackie%20Chan%20-%20The%20Kung-Fu%20Master/Jackie%20Chan%20-%20The%20Kung-Fu%20Master%20%28rev%203%29.mra"
   },
+  "_Arcade/_Decoryah/_KonamiM2/Battle Tryst (ver JAC).mra": {
+   "hash": "7d3849e579dfd7de8e26ea290cb53bfc",
+   "size": 2109,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/70030a1f29c08a75abc254e31139d4946e684d9d/mra/Battle%20Tryst%20%28ver%20JAC%29.mra"
+  },
   "_Arcade/_Decoryah/_KonamiM2/Evil Night (ver UBA).mra": {
    "hash": "04216ea7130a46461dc463f37a3adf60",
    "size": 2261,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/4ba806333a12459d67af15cc95a1671123b23d52/mra/Evil%20Night%20%28ver%20UBA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/70030a1f29c08a75abc254e31139d4946e684d9d/mra/Evil%20Night%20%28ver%20UBA%29.mra"
   },
   "_Arcade/_Decoryah/_KonamiM2/Heat of Eleven '98 (ver EAA).mra": {
-   "hash": "c28998ea01c5fbd1bece15e8f8923bd7",
-   "size": 1675,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/4ba806333a12459d67af15cc95a1671123b23d52/mra/Heat%20of%20Eleven%20%2798%20%28ver%20EAA%29.mra"
+   "hash": "3b92bee7db52c050c0dc0ac7f15332fd",
+   "size": 1754,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/70030a1f29c08a75abc254e31139d4946e684d9d/mra/Heat%20of%20Eleven%20%2798%20%28ver%20EAA%29.mra"
+  },
+  "_Arcade/_Decoryah/_KonamiM2/Hell Night (ver EAA).mra": {
+   "hash": "f2fb73df7e5e1ac306bdf29443c82bef",
+   "size": 2596,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/70030a1f29c08a75abc254e31139d4946e684d9d/mra/Hell%20Night%20%28ver%20EAA%29.mra"
   },
   "_Arcade/_Decoryah/_KonamiM2/Tobe! Polystars (ver JAA).mra": {
    "hash": "8fa9e951ff75810a050198497a24ec17",
    "size": 2226,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/4ba806333a12459d67af15cc95a1671123b23d52/mra/Tobe%21%20Polystars%20%28ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/70030a1f29c08a75abc254e31139d4946e684d9d/mra/Tobe%21%20Polystars%20%28ver%20JAA%29.mra"
   },
   "_Arcade/_Decoryah/_KonamiM2/Total Vice (ver EBA).mra": {
    "hash": "1cb176059e350357acb09aa011ef4be3",
    "size": 2722,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/4ba806333a12459d67af15cc95a1671123b23d52/mra/Total%20Vice%20%28ver%20EBA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/70030a1f29c08a75abc254e31139d4946e684d9d/mra/Total%20Vice%20%28ver%20EBA%29.mra"
   },
   "_Arcade/_Decoryah/_LethalCrashRace/Lethal Crash Race (set 1).mra": {
    "hash": "70cc14f55f58c898bb947f60e46803bd",
@@ -1327,7 +1337,7 @@
   "_Arcade/cores/KonamiM2_20261112.rbf": {
    "hash": "a400dba284f325040a53bb9fa6965b54",
    "size": 4547396,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/4ba806333a12459d67af15cc95a1671123b23d52/releases/KonamiM2_20261112.rbf"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/70030a1f29c08a75abc254e31139d4946e684d9d/releases/KonamiM2_20261112.rbf"
   },
   "_Arcade/cores/PGM2_20261017e.rbf": {
    "hash": "9113c0882f0ceb9b8578c76c81c3077f",
@@ -1648,6 +1658,12 @@
    "hash": "6a37b71b5b518e1c930473585771f637",
    "size": 14762455,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/blzntrnd.zip",
+   "overwrite": false
+  },
+  "games/mame/btltryst.zip": {
+   "hash": "f4d8bd8a2bf7bfb2f1da2847dd65bd86",
+   "size": 631289,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/btltryst.zip",
    "overwrite": false
   },
   "games/mame/cachat.zip": {
