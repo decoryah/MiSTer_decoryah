@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1794695856,
+ "timestamp": 1794769196,
  "files": {
   "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
    "hash": "8ee3816c34f64dde08e19791f3962721",
@@ -307,62 +307,22 @@
   "_Arcade/_Decoryah/_Gaelco3D/Football Power (Version 4.6).mra": {
    "hash": "70445c3aff041ceeb9fa7d50d6870c52",
    "size": 3103,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Football%20Power%20%28Version%204.6%29.mra"
-  },
-  "_Arcade/_Decoryah/_Gaelco3D/Football Power (rasterizer player, attract mode).mra": {
-   "hash": "deb44be78883d10d46953bce0b405d07",
-   "size": 1688,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Football%20Power%20%28rasterizer%20player%2C%20attract%20mode%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/253dffa81dd76f4330af535d2eaef418285a0b61/mra/Football%20Power%20%28Version%204.6%29.mra"
   },
   "_Arcade/_Decoryah/_Gaelco3D/Radikal Bikers (Version 2.02).mra": {
    "hash": "98d74c256fa41e84b089a88987e818f4",
    "size": 3082,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Radikal%20Bikers%20%28Version%202.02%29.mra"
-  },
-  "_Arcade/_Decoryah/_Gaelco3D/Radikal Bikers (rasterizer player, attract mode).mra": {
-   "hash": "ac927e3e4a871068cb8ee5b21511240d",
-   "size": 1726,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Radikal%20Bikers%20%28rasterizer%20player%2C%20attract%20mode%29.mra"
-  },
-  "_Arcade/_Decoryah/_Gaelco3D/Radikal Bikers (rasterizer player, race).mra": {
-   "hash": "bff2b10c50e2d877f98f83c7a58ae765",
-   "size": 1712,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Radikal%20Bikers%20%28rasterizer%20player%2C%20race%29.mra"
-  },
-  "_Arcade/_Decoryah/_Gaelco3D/Radikal Bikers (rasterizer player, short race clip).mra": {
-   "hash": "a03ae4bf20d7e3c358ba0ac1f638efd8",
-   "size": 1725,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Radikal%20Bikers%20%28rasterizer%20player%2C%20short%20race%20clip%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/253dffa81dd76f4330af535d2eaef418285a0b61/mra/Radikal%20Bikers%20%28Version%202.02%29.mra"
   },
   "_Arcade/_Decoryah/_Gaelco3D/Speed Up (Version 2.20).mra": {
    "hash": "a77c8ddc0429f4e229115828976fb17d",
    "size": 2901,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Speed%20Up%20%28Version%202.20%29.mra"
-  },
-  "_Arcade/_Decoryah/_Gaelco3D/Speed Up (rasterizer player, attract mode).mra": {
-   "hash": "2acbc83f0c6e5c7d7667581025f47168",
-   "size": 1649,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Speed%20Up%20%28rasterizer%20player%2C%20attract%20mode%29.mra"
-  },
-  "_Arcade/_Decoryah/_Gaelco3D/Speed Up (rasterizer player, attract mode, 68020 core).mra": {
-   "hash": "d94fd77122afc4cb256566b695d14930",
-   "size": 1776,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Speed%20Up%20%28rasterizer%20player%2C%20attract%20mode%2C%2068020%20core%29.mra"
-  },
-  "_Arcade/_Decoryah/_Gaelco3D/Speed Up (rasterizer player, heavy scenes).mra": {
-   "hash": "deba3e06c2e2f3abcb147efda77bbefb",
-   "size": 1645,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Speed%20Up%20%28rasterizer%20player%2C%20heavy%20scenes%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/253dffa81dd76f4330af535d2eaef418285a0b61/mra/Speed%20Up%20%28Version%202.20%29.mra"
   },
   "_Arcade/_Decoryah/_Gaelco3D/Surf Planet (Version 4.1).mra": {
    "hash": "860f9b01e1740b02ba5a87e0fe2e29bc",
    "size": 3159,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Surf%20Planet%20%28Version%204.1%29.mra"
-  },
-  "_Arcade/_Decoryah/_Gaelco3D/Surf Planet (rasterizer player, attract mode).mra": {
-   "hash": "847249922613e44d8d42076fd6e6d6f3",
-   "size": 1716,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/mra/Surf%20Planet%20%28rasterizer%20player%2C%20attract%20mode%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/253dffa81dd76f4330af535d2eaef418285a0b61/mra/Surf%20Planet%20%28Version%204.1%29.mra"
   },
   "_Arcade/_Decoryah/_Gaiapolis/Gaiapolis (Japan ver JAF).mra": {
    "hash": "eb88ba43a6cb31906d0e866ec2250bc3",
@@ -540,34 +500,34 @@
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-JackieChan_MiSTer/1ab56bd629b301ddf447f35b8616d0831feb9d97/mra/_alternatives/_Jackie%20Chan%20-%20The%20Kung-Fu%20Master/Jackie%20Chan%20-%20The%20Kung-Fu%20Master%20%28rev%203%29.mra"
   },
   "_Arcade/_Decoryah/_KonamiM2/Battle Tryst (ver JAC).mra": {
-   "hash": "7d3849e579dfd7de8e26ea290cb53bfc",
-   "size": 2109,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/70030a1f29c08a75abc254e31139d4946e684d9d/mra/Battle%20Tryst%20%28ver%20JAC%29.mra"
+   "hash": "f73e1de7f8e8ae06e3d11bb9f07df0ca",
+   "size": 2185,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/2a828e972cd246cb9da7b47761ef725abfe0130b/mra/Battle%20Tryst%20%28ver%20JAC%29.mra"
   },
   "_Arcade/_Decoryah/_KonamiM2/Evil Night (ver UBA).mra": {
    "hash": "04216ea7130a46461dc463f37a3adf60",
    "size": 2261,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/70030a1f29c08a75abc254e31139d4946e684d9d/mra/Evil%20Night%20%28ver%20UBA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/2a828e972cd246cb9da7b47761ef725abfe0130b/mra/Evil%20Night%20%28ver%20UBA%29.mra"
   },
   "_Arcade/_Decoryah/_KonamiM2/Heat of Eleven '98 (ver EAA).mra": {
-   "hash": "3b92bee7db52c050c0dc0ac7f15332fd",
-   "size": 1754,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/70030a1f29c08a75abc254e31139d4946e684d9d/mra/Heat%20of%20Eleven%20%2798%20%28ver%20EAA%29.mra"
+   "hash": "1fdcf3f8eae57b78f8b097542b75dbaf",
+   "size": 2006,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/2a828e972cd246cb9da7b47761ef725abfe0130b/mra/Heat%20of%20Eleven%20%2798%20%28ver%20EAA%29.mra"
   },
   "_Arcade/_Decoryah/_KonamiM2/Hell Night (ver EAA).mra": {
-   "hash": "f2fb73df7e5e1ac306bdf29443c82bef",
-   "size": 2596,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/70030a1f29c08a75abc254e31139d4946e684d9d/mra/Hell%20Night%20%28ver%20EAA%29.mra"
+   "hash": "610d0ca86a1729256c9bd5dcb5fae78d",
+   "size": 2988,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/2a828e972cd246cb9da7b47761ef725abfe0130b/mra/Hell%20Night%20%28ver%20EAA%29.mra"
   },
   "_Arcade/_Decoryah/_KonamiM2/Tobe! Polystars (ver JAA).mra": {
    "hash": "8fa9e951ff75810a050198497a24ec17",
    "size": 2226,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/70030a1f29c08a75abc254e31139d4946e684d9d/mra/Tobe%21%20Polystars%20%28ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/2a828e972cd246cb9da7b47761ef725abfe0130b/mra/Tobe%21%20Polystars%20%28ver%20JAA%29.mra"
   },
   "_Arcade/_Decoryah/_KonamiM2/Total Vice (ver EBA).mra": {
    "hash": "1cb176059e350357acb09aa011ef4be3",
    "size": 2722,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/70030a1f29c08a75abc254e31139d4946e684d9d/mra/Total%20Vice%20%28ver%20EBA%29.mra"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/2a828e972cd246cb9da7b47761ef725abfe0130b/mra/Total%20Vice%20%28ver%20EBA%29.mra"
   },
   "_Arcade/_Decoryah/_LethalCrashRace/Lethal Crash Race (set 1).mra": {
    "hash": "70cc14f55f58c898bb947f60e46803bd",
@@ -1334,10 +1294,25 @@
    "size": 3699,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-ViolentStorm_MiSTer/4925a7a3e63881c70e916bbb9fbed6629b0ffeac/mra/Violent%20Storm%20%28World%20ver%20EAC%29.mra"
   },
-  "_Arcade/cores/KonamiM2_20261112.rbf": {
-   "hash": "a400dba284f325040a53bb9fa6965b54",
-   "size": 4547396,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/70030a1f29c08a75abc254e31139d4946e684d9d/releases/KonamiM2_20261112.rbf"
+  "_Arcade/cores/KonamiM2Heat_20261114.rbf": {
+   "hash": "ec32d22605cdb9be6ebd038cf8687395",
+   "size": 4320064,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/2a828e972cd246cb9da7b47761ef725abfe0130b/releases/KonamiM2Heat_20261114.rbf"
+  },
+  "_Arcade/cores/KonamiM2HellNight_20261114.rbf": {
+   "hash": "fa05d05a1ec763003d900bcc74205dec",
+   "size": 4442528,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/2a828e972cd246cb9da7b47761ef725abfe0130b/releases/KonamiM2HellNight_20261114.rbf"
+  },
+  "_Arcade/cores/KonamiM2Tryst_20261114.rbf": {
+   "hash": "de749b7c3f00d888aafdfdc4eb411f58",
+   "size": 4469792,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/2a828e972cd246cb9da7b47761ef725abfe0130b/releases/KonamiM2Tryst_20261114.rbf"
+  },
+  "_Arcade/cores/KonamiM2_20261114.rbf": {
+   "hash": "7d73d40bb6e1e0258a283aa01b8f91de",
+   "size": 4578148,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-KonamiM2_MiSTer/2a828e972cd246cb9da7b47761ef725abfe0130b/releases/KonamiM2_20261114.rbf"
   },
   "_Arcade/cores/PGM2_20261017e.rbf": {
    "hash": "9113c0882f0ceb9b8578c76c81c3077f",
@@ -1387,12 +1362,12 @@
   "_Arcade/cores/gaelco3d020_20261102b.rbf": {
    "hash": "439c4c3a7b0666463af5bdea41af1ca5",
    "size": 4525872,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/releases/gaelco3d020_20261102b.rbf"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/253dffa81dd76f4330af535d2eaef418285a0b61/releases/gaelco3d020_20261102b.rbf"
   },
   "_Arcade/cores/gaelco3d_20261102b.rbf": {
    "hash": "245b266bc3ed2313c7f26928cdc8441a",
    "size": 4502424,
-   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/d06f4e6fe65e55149e7088cd2810ba96f545f74a/releases/gaelco3d_20261102b.rbf"
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Gaelco3D_MiSTer/253dffa81dd76f4330af535d2eaef418285a0b61/releases/gaelco3d_20261102b.rbf"
   },
   "_Arcade/cores/gaiapolis_20261024.rbf": {
    "hash": "8d46d516192e7c5a9c5e25913c3a4e44",

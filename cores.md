@@ -1,6 +1,6 @@
 # Cores in this database
 
-Updated 2026-11-14. 414 files from 28 repositories.
+Updated 2026-11-15. 409 files from 28 repositories.
 
 | Repository | MRA folder | Builds | Latest build | MRAs |
 |---|---|---|---|---|
@@ -10,14 +10,14 @@ Updated 2026-11-14. 414 files from 28 repositories.
 | [decoryah/Arcade-BlockHole_MiSTer](https://github.com/decoryah/Arcade-BlockHole_MiSTer) | `_Arcade/_Decoryah/_BlockHole` | `blockhl_20261103.rbf` | 2026-11-03 | 2 |
 | [decoryah/Arcade-CoJag_MiSTer](https://github.com/decoryah/Arcade-CoJag_MiSTer) | `_Arcade/_Decoryah/_CoJag` | `cojag020_20261110d.rbf`, `cojagr3k_20261110d.rbf` | 2026-11-10 | 19 |
 | [decoryah/Arcade-CrossPang_MiSTer](https://github.com/decoryah/Arcade-CrossPang_MiSTer) | `_Arcade/_Decoryah/_CrossPang` | `crospang_20261019.rbf` | 2026-10-19 | 6 |
-| [decoryah/Arcade-Gaelco3D_MiSTer](https://github.com/decoryah/Arcade-Gaelco3D_MiSTer) | `_Arcade/_Decoryah/_Gaelco3D` | `gaelco3d020_20261102b.rbf`, `gaelco3d_20261102b.rbf` | 2026-11-02 | 12 |
+| [decoryah/Arcade-Gaelco3D_MiSTer](https://github.com/decoryah/Arcade-Gaelco3D_MiSTer) | `_Arcade/_Decoryah/_Gaelco3D` | `gaelco3d020_20261102b.rbf`, `gaelco3d_20261102b.rbf` | 2026-11-02 | 4 |
 | [decoryah/Arcade-Gaiapolis_MiSTer](https://github.com/decoryah/Arcade-Gaiapolis_MiSTer) | `_Arcade/_Decoryah/_Gaiapolis` | `gaiapolis_20261024.rbf` | 2026-10-24 | 3 |
 | [decoryah/Arcade-Gunpey_MiSTer](https://github.com/decoryah/Arcade-Gunpey_MiSTer) | `_Arcade/_Decoryah/_Gunpey` | `gunpey_20261023.rbf` | 2026-10-23 | 1 |
 | [decoryah/Arcade-HeavyUnit_MiSTer](https://github.com/decoryah/Arcade-HeavyUnit_MiSTer) | `_Arcade/_Decoryah/_HeavyUnit` | `heavyunit_20261017.rbf` | 2026-10-17 | 5 |
 | [decoryah/Arcade-Hexion_MiSTer](https://github.com/decoryah/Arcade-Hexion_MiSTer) | `_Arcade/_Decoryah/_Hexion` | `hexion_20261025.rbf` | 2026-10-25 | 2 |
 | [decoryah/Arcade-IGSPGM2_MiSTer](https://github.com/decoryah/Arcade-IGSPGM2_MiSTer) | `_Arcade/_Decoryah/_IGSPGM2` | `PGM2_20261017e.rbf` | 2026-10-17 | 21 |
 | [decoryah/Arcade-JackieChan_MiSTer](https://github.com/decoryah/Arcade-JackieChan_MiSTer) | `_Arcade/_Decoryah/_JackieChan` | `jchan_20261014.rbf` | 2026-10-14 | 3 |
-| [decoryah/Arcade-KonamiM2_MiSTer](https://github.com/decoryah/Arcade-KonamiM2_MiSTer) | `_Arcade/_Decoryah/_KonamiM2` | `KonamiM2_20261112.rbf` | 2026-11-12 | 6 |
+| [decoryah/Arcade-KonamiM2_MiSTer](https://github.com/decoryah/Arcade-KonamiM2_MiSTer) | `_Arcade/_Decoryah/_KonamiM2` | `KonamiM2Heat_20261114.rbf`, `KonamiM2HellNight_20261114.rbf`, `KonamiM2Tryst_20261114.rbf`, `KonamiM2_20261114.rbf` | 2026-11-14 | 6 |
 | [decoryah/Arcade-LethalCrashRace_MiSTer](https://github.com/decoryah/Arcade-LethalCrashRace_MiSTer) | `_Arcade/_Decoryah/_LethalCrashRace` | `crashrace_20261028.rbf` | 2026-10-28 | 3 |
 | [decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer](https://github.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer) | `_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus` | `mcatadv_20261023.rbf` | 2026-10-23 | 6 |
 | [decoryah/Arcade-MetamorphicForce_MiSTer](https://github.com/decoryah/Arcade-MetamorphicForce_MiSTer) | `_Arcade/_Decoryah/_MetamorphicForce` | `metamorphicforce_20261024.rbf` | 2026-10-24 | 5 |
