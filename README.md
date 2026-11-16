@@ -20,7 +20,7 @@ What is in the database right now. Each run refreshes this list whenever the dat
 list is in [`cores.md`](https://github.com/decoryah/MiSTer_decoryah/blob/db/cores.md) on the `db` branch.
 
 <!-- cores:start -->
-Updated 2026-11-15. 409 files from 28 repositories.
+Updated 2026-11-16. 409 files from 28 repositories.
 
 | Repository | MRA folder | Builds | Latest build | MRAs |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ Updated 2026-11-15. 409 files from 28 repositories.
 | [decoryah/Arcade-SilverMillennium_MiSTer](https://github.com/decoryah/Arcade-SilverMillennium_MiSTer) | `_Arcade/_Decoryah/_SilverMillennium` | `silvmil_20261028.rbf` | 2026-10-28 | 3 |
 | [decoryah/Arcade-SlapShot_MiSTer](https://github.com/decoryah/Arcade-SlapShot_MiSTer) | `_Arcade/_Decoryah/_SlapShot` | `slapshot_20261029.rbf` | 2026-10-29 | 5 |
 | [decoryah/Arcade-SuperDuck_MiSTer](https://github.com/decoryah/Arcade-SuperDuck_MiSTer) | `_Arcade/_Decoryah/_SuperDuck` | `supduck_20261030.rbf` | 2026-10-30 | 1 |
-| [decoryah/Arcade-TaitoLSystem_MiSTer](https://github.com/decoryah/Arcade-TaitoLSystem_MiSTer) | `_Arcade/_Decoryah/_TaitoLSystem` | `taitol_20261031.rbf` | 2026-10-31 | 39 |
+| [decoryah/Arcade-TaitoLSystem_MiSTer](https://github.com/decoryah/Arcade-TaitoLSystem_MiSTer) | `_Arcade/_Decoryah/_TaitoLSystem` | `taitol_20261116.rbf` | 2026-11-16 | 39 |
 | [decoryah/Arcade-ViolentStorm_MiSTer](https://github.com/decoryah/Arcade-ViolentStorm_MiSTer) | `_Arcade/_Decoryah/_ViolentStorm` | `violentstorm_20261025.rbf` | 2026-10-25 | 7 |
 <!-- cores:end -->
 
