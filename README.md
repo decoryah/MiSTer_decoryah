@@ -20,7 +20,7 @@ What is in the database right now. Each run refreshes this list whenever the dat
 list is in [`cores.md`](https://github.com/decoryah/MiSTer_decoryah/blob/db/cores.md) on the `db` branch.
 
 <!-- cores:start -->
-Updated 2026-11-16. 409 files from 28 repositories.
+Updated 2026-11-18. 414 files from 29 repositories.
 
 | Repository | MRA folder | Builds | Latest build | MRAs |
 |---|---|---|---|---|
@@ -45,6 +45,7 @@ Updated 2026-11-16. 409 files from 28 repositories.
 | [decoryah/Arcade-MonsterMaulers_MiSTer](https://github.com/decoryah/Arcade-MonsterMaulers_MiSTer) | `_Arcade/_Decoryah/_MonsterMaulers` | `monstermaulers_20261025.rbf` | 2026-10-25 | 3 |
 | [decoryah/Arcade-MysticWarriors_MiSTer](https://github.com/decoryah/Arcade-MysticWarriors_MiSTer) | `_Arcade/_Decoryah/_MysticWarriors` | `mysticwarriors_20261029.rbf` | 2026-10-29 | 5 |
 | [decoryah/Arcade-OhMyGod_MiSTer](https://github.com/decoryah/Arcade-OhMyGod_MiSTer) | `_Arcade/_Decoryah/_OhMyGod` | `ohmygod_20261023b.rbf` | 2026-10-23 | 2 |
+| [decoryah/Arcade-Polygonet_MiSTer](https://github.com/decoryah/Arcade-Polygonet_MiSTer) | `_Arcade/_Decoryah/_Polygonet` | `Polygonet_20261118b.rbf` | 2026-11-18 | 2 |
 | [decoryah/Arcade-Rabbit_MiSTer](https://github.com/decoryah/Arcade-Rabbit_MiSTer) | `_Arcade/_Decoryah/_Rabbit` | `rabbit_20261022.rbf` | 2026-10-22 | 4 |
 | [decoryah/Arcade-Seta2_MiSTer](https://github.com/decoryah/Arcade-Seta2_MiSTer) | `_Arcade/_Decoryah/_Seta2` | `seta2_20261021.rbf`, `seta2grd_20261021.rbf`, `seta2pen_20261021.rbf` | 2026-10-21 | 23 |
 | [decoryah/Arcade-SilverMillennium_MiSTer](https://github.com/decoryah/Arcade-SilverMillennium_MiSTer) | `_Arcade/_Decoryah/_SilverMillennium` | `silvmil_20261028.rbf` | 2026-10-28 | 3 |
