@@ -2,7 +2,7 @@
  "db_id": "decoryah/MiSTer_decoryah",
  "db_url": "https://raw.githubusercontent.com/decoryah/MiSTer_decoryah/db/db.json.zip",
  "v": 1,
- "timestamp": 1794867887,
+ "timestamp": 1795034767,
  "files": {
   "_Arcade/_Decoryah/_Aquarium/Aquarium (US).mra": {
    "hash": "8ee3816c34f64dde08e19791f3962721",
@@ -884,6 +884,16 @@
    "size": 2464,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-OhMyGod_MiSTer/ef6f38fc55b16d18f7ec431f9ddb553652c531b7/mra/Oh%20My%20God%21%20%28Japan%29.mra"
   },
+  "_Arcade/_Decoryah/_Polygonet/Poly-Net Warriors (ver JAA).mra": {
+   "hash": "1834d0040bda1fdf76b6192920309c65",
+   "size": 1619,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Polygonet_MiSTer/dfb7e3eeb553b8fd16984ed330fffbca9f041b54/mra/Poly-Net%20Warriors%20%28ver%20JAA%29.mra"
+  },
+  "_Arcade/_Decoryah/_Polygonet/Polygonet Commanders (ver UAA).mra": {
+   "hash": "a6f2eb5cea48134f1ae8f702f6a43008",
+   "size": 2197,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Polygonet_MiSTer/dfb7e3eeb553b8fd16984ed330fffbca9f041b54/mra/Polygonet%20Commanders%20%28ver%20UAA%29.mra"
+  },
   "_Arcade/_Decoryah/_Rabbit/Rabbit (Asia 3-6).mra": {
    "hash": "a160b223e792ae5145bb54124fbf8c98",
    "size": 2708,
@@ -1318,6 +1328,11 @@
    "hash": "9113c0882f0ceb9b8578c76c81c3077f",
    "size": 4290356,
    "url": "https://raw.githubusercontent.com/decoryah/Arcade-IGSPGM2_MiSTer/3054975c0345aa65ac24f8b2ee4b0116702cf857/releases/_Arcade/cores/PGM2_20261017e.rbf"
+  },
+  "_Arcade/cores/Polygonet_20261118b.rbf": {
+   "hash": "6a2840f0910905f70fe976bafcf555fa",
+   "size": 4029704,
+   "url": "https://raw.githubusercontent.com/decoryah/Arcade-Polygonet_MiSTer/dfb7e3eeb553b8fd16984ed330fffbca9f041b54/releases/Polygonet_20261118b.rbf"
   },
   "_Arcade/cores/aquarium_20261025c.rbf": {
    "hash": "fc0af70c7df0afe4733c53e46620b72f",
@@ -2013,10 +2028,22 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/plotting.zip",
    "overwrite": false
   },
+  "games/mame/plygonet.zip": {
+   "hash": "65456d7fc687448d3643985a503fe9b7",
+   "size": 2307132,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/plygonet.zip",
+   "overwrite": false
+  },
   "games/mame/poitto.zip": {
    "hash": "c910fee47df99348840f229760aeaccb",
    "size": 1154842,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/poitto.zip",
+   "overwrite": false
+  },
+  "games/mame/polynetw.zip": {
+   "hash": "baf38c65a205ba8b6978cbd5f7159461",
+   "size": 4042874,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/polynetw.zip",
    "overwrite": false
   },
   "games/mame/polystar.zip": {
@@ -2236,6 +2263,7 @@
   "_Arcade/_Decoryah/_MonsterMaulers": {},
   "_Arcade/_Decoryah/_MysticWarriors": {},
   "_Arcade/_Decoryah/_OhMyGod": {},
+  "_Arcade/_Decoryah/_Polygonet": {},
   "_Arcade/_Decoryah/_Rabbit": {},
   "_Arcade/_Decoryah/_Rabbit/_alternatives": {},
   "_Arcade/_Decoryah/_Rabbit/_alternatives/_Rabbit": {},
