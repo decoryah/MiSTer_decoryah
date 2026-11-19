@@ -1,6 +1,6 @@
 # Cores in this database
 
-Updated 2026-11-18. 414 files from 29 repositories.
+Updated 2026-11-19. 422 files from 30 repositories.
 
 | Repository | MRA folder | Builds | Latest build | MRAs |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ Updated 2026-11-18. 414 files from 29 repositories.
 | [decoryah/Arcade-Hexion_MiSTer](https://github.com/decoryah/Arcade-Hexion_MiSTer) | `_Arcade/_Decoryah/_Hexion` | `hexion_20261025.rbf` | 2026-10-25 | 2 |
 | [decoryah/Arcade-IGSPGM2_MiSTer](https://github.com/decoryah/Arcade-IGSPGM2_MiSTer) | `_Arcade/_Decoryah/_IGSPGM2` | `PGM2_20261017e.rbf` | 2026-10-17 | 21 |
 | [decoryah/Arcade-JackieChan_MiSTer](https://github.com/decoryah/Arcade-JackieChan_MiSTer) | `_Arcade/_Decoryah/_JackieChan` | `jchan_20261014.rbf` | 2026-10-14 | 3 |
-| [decoryah/Arcade-KonamiM2_MiSTer](https://github.com/decoryah/Arcade-KonamiM2_MiSTer) | `_Arcade/_Decoryah/_KonamiM2` | `KonamiM2Heat_20261114.rbf`, `KonamiM2HellNight_20261114.rbf`, `KonamiM2Tryst_20261114.rbf`, `KonamiM2_20261114.rbf` | 2026-11-14 | 6 |
+| [decoryah/Arcade-KonamiM2_MiSTer](https://github.com/decoryah/Arcade-KonamiM2_MiSTer) | `_Arcade/_Decoryah/_KonamiM2` | `KonamiM2Heat_20261119.rbf`, `KonamiM2HellNight_20261119.rbf`, `KonamiM2Tryst_20261119.rbf`, `KonamiM2_20261119.rbf` | 2026-11-19 | 6 |
 | [decoryah/Arcade-LethalCrashRace_MiSTer](https://github.com/decoryah/Arcade-LethalCrashRace_MiSTer) | `_Arcade/_Decoryah/_LethalCrashRace` | `crashrace_20261028.rbf` | 2026-10-28 | 3 |
 | [decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer](https://github.com/decoryah/Arcade-MagicalCatAdventure_Nostradamus_MiSTer) | `_Arcade/_Decoryah/_MagicalCatAdventure_Nostradamus` | `mcatadv_20261023.rbf` | 2026-10-23 | 6 |
 | [decoryah/Arcade-MetamorphicForce_MiSTer](https://github.com/decoryah/Arcade-MetamorphicForce_MiSTer) | `_Arcade/_Decoryah/_MetamorphicForce` | `metamorphicforce_20261024.rbf` | 2026-10-24 | 5 |
@@ -32,4 +32,5 @@ Updated 2026-11-18. 414 files from 29 repositories.
 | [decoryah/Arcade-SlapShot_MiSTer](https://github.com/decoryah/Arcade-SlapShot_MiSTer) | `_Arcade/_Decoryah/_SlapShot` | `slapshot_20261029.rbf` | 2026-10-29 | 5 |
 | [decoryah/Arcade-SuperDuck_MiSTer](https://github.com/decoryah/Arcade-SuperDuck_MiSTer) | `_Arcade/_Decoryah/_SuperDuck` | `supduck_20261030.rbf` | 2026-10-30 | 1 |
 | [decoryah/Arcade-TaitoLSystem_MiSTer](https://github.com/decoryah/Arcade-TaitoLSystem_MiSTer) | `_Arcade/_Decoryah/_TaitoLSystem` | `taitol_20261116.rbf` | 2026-11-16 | 39 |
+| [decoryah/Arcade-TecmoSystem_MiSTer](https://github.com/decoryah/Arcade-TecmoSystem_MiSTer) | `_Arcade/_Decoryah/_TecmoSystem` | `tecmosys_20261118.rbf` | 2026-11-18 | 5 |
 | [decoryah/Arcade-ViolentStorm_MiSTer](https://github.com/decoryah/Arcade-ViolentStorm_MiSTer) | `_Arcade/_Decoryah/_ViolentStorm` | `violentstorm_20261025.rbf` | 2026-10-25 | 7 |
